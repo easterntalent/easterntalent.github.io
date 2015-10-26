@@ -1,4 +1,5 @@
 body { 
 	background-image: 
-		url("http://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/classic_set.jpg");
+		url("images/classic_set.jpg");
+		background-size: cover;
 }
