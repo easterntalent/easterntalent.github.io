@@ -1,9 +1,5 @@
 body { 
-	background: 
-		url("/easterntalent.github.io/unit_3/images/film_set.jpg");
-
-}
-div	{
-	background:
+	background-image: 
 		url("easterntalent.github.io/unit_3/images/film_set.jpg");
+
 }
