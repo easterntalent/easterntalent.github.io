@@ -1,6 +1,5 @@
 body { 
 	background: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/film_set.jpg");
-	background-size: cover;
+	background-size: contain;
 }
-h1	{position: center;
-}
+
