@@ -1,8 +1,10 @@
 body { 
-	background-image: url(https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/cfddd19d47bcfe6c108a4327b20b75b2fda3079d/unit_3/images/gold.jpg);
-	background-color: #F39D21;
-	font-family: "Futura";
-	text-align: center;
+	html { 
+  background: url(https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/cfddd19d47bcfe6c108a4327b20b75b2fda3079d/unit_3/images/gold.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h1	{
 	position: absolute;
