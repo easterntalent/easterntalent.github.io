@@ -1,9 +1,8 @@
 body {  
-	text-align: center;
-	background: url("/GA_Class/easterntalent.github.io/unit_3/images/gold.jpg"); 
+	text-align: center; 
   	background-size: cover;
   	background-color: #F38F20;
-
+  }
 h1	{
 position: absolute;
    top: 200px;
