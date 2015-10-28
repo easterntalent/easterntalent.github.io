@@ -1,10 +1,11 @@
-html { 
-  background: url(https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/cfddd19d47bcfe6c108a4327b20b75b2fda3079d/unit_3/images/gold.jpg) no-repeat center center fixed; 
+body { 
+  	background: url(/unit_3/images/gold.jpg); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 h1	{
 	position: absolute;
    top: 200px;
