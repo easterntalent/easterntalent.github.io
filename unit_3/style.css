@@ -1,4 +1,4 @@
-html {
+html, body {
   background: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -6,7 +6,7 @@ html {
   background-size: cover;
 }
  /* Reset body padding and margins */
-body { margin:0; padding:0; }
+{ margin:0; padding:0; }
  
 /* Make Header Sticky */
 #header_container { background:#eee; border:1px solid #666; height:60px; left:0; position:fixed; width:100%; top:0; }
