@@ -1,9 +1,7 @@
 html {
 	background: url(/GA_Class/easterntalent.github.io/unit_3/images/gold.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  	background-size: cover;
+  	background-color: #0E0D0C;
 }
 body {  
 /* Make Header Sticky */
