@@ -1,7 +1,30 @@
 body {  
-	background: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg")center center cover no-repeat fixed;
+	background-color: #F38F20;
+}
+#menu	{
+	width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Futura Book, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: #0E0D0C;
+    border-radius: 8px;
 }
 
-h2	{
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
 
+#menu a {
+    text-decoration: none;
+    color: #AAA18D;
+    padding: 8px 8px 8px 8px;
+    color: #F90;
+    background-color: #FFF;
+}
+#menu a:hover {
+	color: #B9B5AD;
+	background-color: #0E0D0C
 }
