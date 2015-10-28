@@ -1,11 +1,11 @@
-.bgSizeCover {
-  height: 200px;
-  background-image: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg");
+html {
+	background: url(https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  border: 2px solid darkgray;
-  color: #000; text-shadow: 1px 1px 0 #fff;
 }
-body	{
+body {  
 /* Make Header Sticky */
 #header_container { background:#eee; border:1px solid #666; height:60px; left:0; position:fixed; width:100%; top:0; }
 #header{ line-height:60px; margin:0 auto; width:940px; text-align:center; }
