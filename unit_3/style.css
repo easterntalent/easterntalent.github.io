@@ -1,6 +1,9 @@
 body {  
-	background-image: url(../images/gold.jpg);
+	background-image: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg");
 	text-align: center; 
   	background-size: cover;
   	background-color: #F38F20;
+}
+h2	{
+
 }
