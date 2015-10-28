@@ -1,9 +1,6 @@
-body #background  {
-  background: url('https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg') no-repeat 50% 50% fixed; 
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
+body {
+    background-image: url("https://raw.githubusercontent.com/easterntalent/easterntalent.github.io/master/unit_3/images/gold.jpg");
+    background-repeat: repeat-x;
 }
 
 h1	{
