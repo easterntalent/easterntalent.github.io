@@ -1,5 +1,5 @@
 body { 
-    background-image: url(http://easterntalent.github.io/unit_3/images/gold.jpg);
+    background-image: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true');
 	background-position: left top;
     background-repeat: no-repeat;
 	} 
