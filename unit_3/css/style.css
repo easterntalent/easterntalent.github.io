@@ -11,6 +11,7 @@ li {
 	margin: 0;
 	padding: 0;
 	float: left;
+	font-family: "futura book", Georgia, Serif;
 }
 
 li a {
@@ -19,4 +20,5 @@ li a {
 	background-color: grey;
 	color: white;
 	padding: 4px 10px 4px 10px;
+	font-family: "futura book", Georgia, Serif;
 }
