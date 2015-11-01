@@ -3,3 +3,8 @@ body {
 	background-position: left top;
     background-repeat: no-repeat;
 	} 
+
+li {
+	display: block;
+	list-style-type: none
+}
