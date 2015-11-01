@@ -10,6 +10,7 @@ li {
 	margin: 0;
 	padding: 0;
 	float: left;
+	font-family: "Futura Book", Georgia, Serif;
 }
 
 li a {
@@ -18,11 +19,3 @@ li a {
 	background-color: grey;
 	color: white;
 	padding: 4px 10px 4px 10px;
-}
-
-#header-wrap {
-    position: fixed;
-    height: auto;
-    width: 100%;
-    z-index: 100
-}
