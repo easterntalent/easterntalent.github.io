@@ -1,4 +1,6 @@
 html { 
+} 
+body {
     background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true') no-repeat center center fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -6,10 +8,8 @@ html {
   	background-size: cover;
   	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
-} 
-body {
 	font-family: 'Hind', sans-serif;
-	background-color: #FB9D29
+	/*background-color: #FB9D29*/
 }
 
 #menu ul li {
