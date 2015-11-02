@@ -70,3 +70,11 @@ p {
     -moz-column-gap: 40px;
     column-gap: 40px;
 }
+
+#col1 {
+	float:left;
+}
+
+#col2 {
+	float:right;
+}
