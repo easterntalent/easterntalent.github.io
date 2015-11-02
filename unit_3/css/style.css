@@ -79,6 +79,10 @@ p {
 	float:right;
 }
 
+#representation {
+	clear: both;
+}
+
 footer {
 	clear: both;	
 }
