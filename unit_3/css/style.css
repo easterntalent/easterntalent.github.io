@@ -62,7 +62,7 @@ p {
 	font-size: 18px;
 }
 
-#contact {
+#contact_grid {
 	-webkit-column-count: 2; 
     -moz-column-count: 2; 
     column-count: 2;
