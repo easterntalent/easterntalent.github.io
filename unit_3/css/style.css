@@ -56,13 +56,10 @@ body {
 }
 
 #congrats {
-	position: absolute;
-    top: 80px;
-    right: 200px;
-    left: 100px;
-    width: 200px;
-    height: 100px;
-    padding: 5px;
+	width: 50%;
+  	padding: 20%;
+  	border: 4px solid black;
+  	margin: .5em auto;
 }
 
 h1 {
