@@ -16,6 +16,7 @@ body {
 .main {
 	background-color: #AB9878;
 	padding: 0px 100px 0px 100px;
+	width: 1000px;
 }
 
 #menu ul li {
