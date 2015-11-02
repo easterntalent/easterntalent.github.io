@@ -38,10 +38,9 @@ body {
 
 }
 
-#float-left li {
-	list-style-type: disc;
+h1 {
+	font-size:24px;
 }
-
-#float-right li {
-	float: right;
+h2 h3 h4 {
+	font-size: 18px
 }
