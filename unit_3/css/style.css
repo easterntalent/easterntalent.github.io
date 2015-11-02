@@ -35,6 +35,10 @@ body {
 
 #float-left {
 	float: left;
+
+}
+#float-left li {
+	list-style-type: disc;
 }
 
 #float-right {
