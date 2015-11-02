@@ -56,7 +56,7 @@ body {
 }
 
 #congrats {
-	float: left;
+	margin: 100px 40px 100px 400px;
 }
 
 h1 {
