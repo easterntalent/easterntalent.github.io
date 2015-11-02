@@ -11,7 +11,9 @@ html {
 body {
 	/*background-color: #FB9D29;*/
 	font-family: 'Hind', sans-serif;
-
+	display:inline;
+    background-color:#FB9D29;;
+    color:black;
 }
 
 #menu ul li {
