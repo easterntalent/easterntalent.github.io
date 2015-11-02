@@ -78,3 +78,7 @@ p {
 #col2 {
 	float:right;
 }
+
+footer {
+	clear: both;	
+}
