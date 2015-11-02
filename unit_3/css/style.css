@@ -1,25 +1,17 @@
 html { 
-    background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true') no-repeat center center fixed;
+    background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold_grey.png?raw=true') no-repeat center center fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold_grey.png?raw=true', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold_grey.png?raw=true', sizingMethod='scale')";
 } 
 
 body {
 	/*background-color: #FB9D29;*/
 	font-family: 'Hind', sans-serif;
-}
 
-.layer {
-    background-color: rgba(248, 247, 216, 0.7);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
 }
 
 #menu ul li {
