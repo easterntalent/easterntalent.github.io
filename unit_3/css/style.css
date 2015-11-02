@@ -73,10 +73,12 @@ p {
 
 #col1 {
 	float:left;
+	margin-left: 100px
 }
 
 #col2 {
 	float:right;
+	margin-right: 100px
 }
 
 #representation {
