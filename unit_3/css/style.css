@@ -11,9 +11,6 @@ html {
 body {
 	/*background-color: #FB9D29;*/
 	font-family: 'Hind', sans-serif;
-	display:inline;
-    background-color:#FB9D29;;
-    color:black;
 }
 
 #menu ul li {
@@ -35,6 +32,12 @@ body {
 #wrapper ul {
 	list-style-type: none;
 	font-style: bold;
+}
+
+#text a {
+	display:inline;
+    background-color:#FB9D29;
+    color:black;
 }
 
 #float-left {
