@@ -12,7 +12,7 @@ body {
 	background-color: #FB9D29
 }
 
-li {
+#menu ul li {
 	display: block;
 	list-style-type: none;
 	margin: 0;
@@ -20,7 +20,7 @@ li {
 	float: left;
 }
 
-li a {
+#menu ul li a {
 	text-decoration:none;
 	border: solid 1px black;
 	background-color: grey;
