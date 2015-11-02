@@ -13,6 +13,11 @@ body {
 	font-family: 'Hind', sans-serif;
 }
 
+.main {
+	background-color: #AB9878;
+	padding: 0px 100px 0px 100px;
+}
+
 #menu ul li {
 	display: block;
 	list-style-type: none;
