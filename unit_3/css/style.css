@@ -9,7 +9,7 @@ body {
   	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 	font-family: 'Hind', sans-serif;
-	/*background-color: #FB9D29*/
+	background-color: #FB9D29
 }
 
 #menu ul li {
