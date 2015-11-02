@@ -54,6 +54,10 @@ body {
 	float: left;
 }
 
+#congrats {
+	float: left;
+}
+
 h1 {
 	font-size: 50px;
 	font-family: font-family: 'Archivo Narrow', sans-serif;
