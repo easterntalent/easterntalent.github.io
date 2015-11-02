@@ -34,7 +34,7 @@ body {
 	font-style: bold;
 }
 
-#text a {
+#text td p h1 h2 h3 h4 {
 	display:inline;
     background-color:#AB9878;
     color:black;
@@ -51,6 +51,7 @@ h1 {
 h2, h3, h4 {
 	font-size: 30px;
 }
+
 p {
 	font-size: 18px;
 }
