@@ -23,7 +23,7 @@ body {
 	width: 1000px;
 }
 
-#menu {
+nav {
 	background-color: #403D3C;
 	border: 1px solid #dedede;
 	border-radius: 4px;
@@ -35,12 +35,9 @@ body {
 	width: 90%; 
 }
 
-nav ul li a {
-	text-decoration:none;
-	border: solid 1px black;
-	background-color: #403D3C;
-	color: #D3CBBD;
-	padding: 4px 10px 4px 10px;
+nav ul {
+	margin: 0;
+	padding: 0;
 }
 
 nav ul li {
@@ -52,14 +49,6 @@ nav ul li {
 		-ms-transition: all 0.2s;
 		-o-transition: all 0.2s;
 		transition: all 0.2s; 
-}
-
-nav > ul > li > a {
-			color: #aaa;
-			display: block;
-			line-height: 56px;
-			padding: 0 24px;
-			text-decoration: none;
 }
 
 nav > ul > li > a > .caret {
@@ -75,8 +64,28 @@ nav > ul > li > a > .caret {
 	-webkit-transition: color 0.1s linear;
 	-moz-transition: color 0.1s linear;
 	-o-transition: color 0.1s linear;
-	transition: color 0.1s linear; 
+	  transition: color 0.1s linear; 
 }
+
+nav > ul > li > a {
+        color: #aaa;
+        display: block;
+        line-height: 56px;
+        padding: 0 24px;
+        text-decoration: none;
+      }
+
+        nav > ul > li:hover {
+          background-color: #403D3C;;
+        }
+
+        nav > ul > li:hover > a {
+          color: ##FB9D29;
+        }
+
+        nav > ul > li:hover > a > .caret {
+          border-top-color: rgb( 255, 255, 255 );
+        }
 
 #wrapper ul {
 	list-style-type: none;
