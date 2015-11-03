@@ -14,7 +14,6 @@ body {
 	font-family: 'Archivo Narrow', sans-serif;
 	margin-right: 100px;
 	margin-left: 100px;
-	background-color: #AB9878;
 }
 
 .main {
@@ -47,7 +46,7 @@ body {
 #text td p h1 h2 h3 h4 {
 	display:inline;
     background-color:#AB9878;
-    color:#000000;
+    color: white;
     width: 400px;
 }
 
