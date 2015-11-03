@@ -56,7 +56,7 @@ body {
 }
 
 #congrats {
-	display: inline-block; left 
+	display: inline-block; right;
 	width: 450px;
   	margin-right: .5em;
 }
