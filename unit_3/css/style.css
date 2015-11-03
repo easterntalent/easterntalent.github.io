@@ -57,10 +57,9 @@ body {
 
 #congrats {
 	width: 50%;
-  	padding: 20%;
+  	padding: 10%;
   	border: 4px solid black;
-  	margin: .5em auto;
-  	float: right;
+  	margin-right: .5em;
 }
 
 h1 {
