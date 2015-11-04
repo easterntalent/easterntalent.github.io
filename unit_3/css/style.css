@@ -21,7 +21,7 @@ body {
 	color: white;
 }
 
-nav.main-nav ul {
+nav.main-nav {
     background: #403D3C;
     height: 90px;
     z-index: 170;
