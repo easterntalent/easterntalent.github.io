@@ -21,7 +21,7 @@ body {
 	color: white;
 }
 
-nav.main-nav {
+nav.main-nav ul {
     background: #403D3C;
     height: 90px;
     z-index: 170;
@@ -32,8 +32,9 @@ nav.main-nav {
     top: 0;
     left: 0;
     right: 0;
-    text-align: right;
+    text-align: center;
     color: #D3CBBD;
+    display: inline;
 }
 
 .main {
