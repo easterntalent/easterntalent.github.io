@@ -40,7 +40,7 @@ header div#logo {
 	height: 200px;
 	float: left;
 	padding-top: 15px;
-	padding-left: 15px;
+	padding-left: 20px;
 	padding-bottom: 15px;
 }
 
@@ -70,6 +70,9 @@ header div#logo {
 	
 #menu > ul > li {
 	float: right;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
 }
 #menu.align-center > ul {
   font-size: 0;
