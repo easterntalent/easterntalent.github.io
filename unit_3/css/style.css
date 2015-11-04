@@ -121,7 +121,8 @@ header div#logo {
   float: right;
   padding-top: 100px;
   padding-right: 40px;
-  background-color: #FB9D29 transparent;
+  background-color: #FB9D29;
+  border-style: 2px solid black;
 }
 
 h1 {
