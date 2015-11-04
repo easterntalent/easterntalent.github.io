@@ -23,16 +23,16 @@ body {
 
 nav.main-nav {
     background: #403D3C;
-    height: 60px;
+    height: 90px;
     z-index: 170;
     margin: 0 auto;
-    border-bottom: 1px solid #dadada;
+    border-bottom: 1px solid black;
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    text-align: center;
+    text-align: right;
     color: #D3CBBD;
 }
 
