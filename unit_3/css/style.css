@@ -72,6 +72,8 @@ header > nav {
 header > div#logo > div#navToggle:hover > a {
                     color: rgba(255,255,255,1);
                 }
+.logo { width: auto; height: auto; background-image: (https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/eta_logo.png?raw=true); 
+}
 
     header > nav {
         background-color: #403D3C;
