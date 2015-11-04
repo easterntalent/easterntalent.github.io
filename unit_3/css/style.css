@@ -126,6 +126,9 @@ header div#logo {
 }
 img.congrats {
   padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
 }
 
 h1 {
