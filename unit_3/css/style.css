@@ -33,7 +33,7 @@ header {
     left: 0;
     right: 0;
 }
-header div#logo {
+header div #logo {
     background-color: transparent;
     line-height: 90px;
     width: 200px;
