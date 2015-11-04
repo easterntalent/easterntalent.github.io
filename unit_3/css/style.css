@@ -33,6 +33,13 @@ header {
     left: 0;
     right: 0;
 }
+header div#logo {
+    background-color: transparent;
+    line-height: 90px;
+    width: 200px;
+	height: 200px;
+	float: left;
+}
 
 #menu,
 #menu ul,
