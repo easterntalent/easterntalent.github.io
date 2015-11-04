@@ -124,7 +124,7 @@ header div#logo {
   background-color: #FB9D29;
   border-style: 5px solid black;
 }
-img.congrats {
+#congrats img {
   padding-top: 50px;
   padding-left: 50px;
   padding-right: 50px;
