@@ -21,6 +21,10 @@ body {
 	color: white;
 }
 
+nav {
+	background-color: #403D3C;
+}
+
 #menu,
 #menu ul,
 #menu ul li,
