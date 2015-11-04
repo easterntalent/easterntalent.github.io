@@ -21,34 +21,53 @@ body {
 	color: white;
 }
 
+#menu,
+#menu ul,
+#menu ul li,
+#menu ul li a,
+#cssmenu #menu-button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#menu #menu-button {
+	display: none;
+}
 #menu {
+	font-family: 'Archivo Narrow', sans-serif;
 	background: #403D3C;
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	width: 100%;
-	margin: 0 auto;
-	border-bottom: 1px solid black;
-	display: inline;
-	color: #D3CBBD;
-	height: 90px;
-	z-index: 170;
-	text-align: center;
-	padding-top: 15px;
 }
-
-#menu a {
-	font-size: 14px;
-	padding-left: 15px;
-	padding-right: 15px;
-	color: #456F74;
-	text-decoration: none;
+	
+#menu > ul > li {
+	float: right;
 }
-
-#menu a:hover {
-	color: #456F74;
-} 
+#menu.align-center > ul {
+  font-size: 0;
+  text-align: center;
+}
+#menu.align-center > ul > li {
+  display: inline-block;
+  float: none;
+}
+#menu > ul > li > a {
+padding: 17px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #D3CBBD;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+#menu > ul > li:hover > a {
+  color: #456F74;
+}
 
 .main {
 	background-color: #AB9878;
