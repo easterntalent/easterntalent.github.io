@@ -84,8 +84,9 @@ header div#logo {
 }
 #menu > ul > li > a {
 	padding: 17px;
-  	font-size: 18px;
+  	font-size: 16px;
   	letter-spacing: 1px;
+  	word-spacing: 40px
   	text-decoration: none;
   	color: #D3CBBD;
   	font-weight: 400;
