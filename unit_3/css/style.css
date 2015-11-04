@@ -8,12 +8,6 @@ html {
   	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 } 
-
-* {
-    margin: 0;
-    padding: 0;
-    outline: none;
-    box-sizing: border-box;
 }
 
 body {
@@ -59,7 +53,6 @@ header > div#logo > div#navToggle:hover {
 header > nav {
 	background-color: #403D3C;
 	display: none;
-
 }
 
 #logo {
@@ -100,12 +93,12 @@ header {
         position: fixed;
         text-align: left;
         width: 100%;
-    }
+}
     
 header > div#logo {
         background-color: transparent;
         line-height: 90px;
-        }
+}
 
 #wrapper ul {
 	list-style-type: none;
