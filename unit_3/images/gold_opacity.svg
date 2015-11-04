@@ -25,7 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,6 +169,54 @@
          in2="colormatrix"
          operator="arithmetic"
          k2="0.9"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5265" />
+      <feColorMatrix
+         id="feColorMatrix5267"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6.6 -1.38778e-16 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5269"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.7"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5327" />
+      <feColorMatrix
+         id="feColorMatrix5329"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6.6 -1.38778e-16 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5331"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.7"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5333" />
+      <feColorMatrix
+         id="feColorMatrix5335"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6.6 -1.38778e-16 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5337"
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.7"
          result="composite" />
     </filter>
   </defs>
@@ -186,7 +233,7 @@
      inkscape:window-height="608"
      id="namedview4285"
      showgrid="false"
-     inkscape:zoom="0.79772078"
+     inkscape:zoom="1"
      inkscape:cx="318.37502"
      inkscape:cy="212.0625"
      inkscape:window-x="216"
