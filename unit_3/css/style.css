@@ -21,21 +21,30 @@ body {
 	color: white;
 }
 
-nav.main-nav {
-    background: #403D3C;
-    height: 90px;
-    z-index: 170;
-    margin: 0 auto;
-    border-bottom: 1px solid black;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: #D3CBBD;
-    display: inline;
+
+
+#menu {
+	  position: fixed;
+	  top: 0;
+	  width: 100%;
+	  display: inline;
+	  color: #D3CBBD;
+	  height: 90px;
+	  text-align: center;
+	  padding-top: 15px;
 }
+
+#menu a {
+	font-size: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #456F74;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #456F74;
+} 
 
 .main {
 	background-color: #AB9878;
