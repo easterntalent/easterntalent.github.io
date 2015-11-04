@@ -21,17 +21,21 @@ body {
 	color: white;
 }
 
-
-
 #menu {
-	  position: fixed;
-	  top: 0;
-	  width: 100%;
-	  display: inline;
-	  color: #D3CBBD;
-	  height: 90px;
-	  text-align: center;
-	  padding-top: 15px;
+	background: #403D3C;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	margin: 0 auto;
+	border-bottom: 1px solid black;
+	display: inline;
+	color: #D3CBBD;
+	height: 90px;
+	z-index: 170;
+	text-align: center;
+	padding-top: 15px;
 }
 
 #menu a {
