@@ -25,7 +25,7 @@ body {
     height: 100%;
     min-height: 100%;
     text-rendering: optimizeLegibility;
-	color: white;
+	color: #D3CBBD;
 }
 
 .main {
@@ -43,12 +43,6 @@ header {
 header > div#logo {
         line-height: 70px;
         position: relative;
-}
-
-header > div#logo > h1 {
-            color: white;
-            font-weight: 300;
-            text-transform: lowercase;
 }
 
 header > div#logo > div#navToggle {
@@ -70,6 +64,7 @@ header > nav {
 
 #logo {
 	background:url(lhttps://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/eta_logo.png?raw=true) no-repeat top left;
+	background-color: transparent;
 	width: 200px;
 	height: 200px;
 	text-indent: -9999px;
