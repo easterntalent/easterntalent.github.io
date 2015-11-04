@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Rambla:400,400italic,700,700italic|Archivo+Narrow:400,400italic,700,700italic|Pragati+Narrow:400,700);
 html { 
     background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true') no-repeat center center fixed;
-	 -webkit-filter: blur(5px);
-  	filter: blur(5px);
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -10,6 +8,11 @@ html {
   	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 } 
+
+html.background {
+	-webkit-filter: sepia(1);
+  	filter: sepia(1);
+}
 
 body {
 	/*background-color: #FB9D29;*/
