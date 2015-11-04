@@ -21,8 +21,17 @@ body {
 	color: white;
 }
 
-nav {
+#menu nav {
 	background: #403D3C;
+	height: 90px;
+	z-index: 170;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 #menu,
