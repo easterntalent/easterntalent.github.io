@@ -122,6 +122,8 @@ header div#logo {
   padding-top: 100px;
   padding-right: 40px;
   background-color: #FB9D29;
+  background-opacity: 50%;
+  background-padding: top 40px right 40px bottom 40px left 40px;
 }
 
 h1 {
