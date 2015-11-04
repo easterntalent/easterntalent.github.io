@@ -121,8 +121,15 @@ header div#logo {
   float: right;
   padding-top: 100px;
   padding-right: 40px;
-  background-color: #FB9D29 opacity: 0.5;
-  background-padding: top 40px right 40px bottom 40px left 40px;
+}
+
+#background {
+  background-color: #FB9D29;
+  opacity: 0.5; 
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
 }
 
 h1 {
