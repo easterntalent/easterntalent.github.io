@@ -39,8 +39,9 @@ header div#logo {
     width: 200px;
 	height: 200px;
 	float: left;
-	padding-top: 15px
-	padding: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
 }
 
 #menu,
