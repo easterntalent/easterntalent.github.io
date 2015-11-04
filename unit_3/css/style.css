@@ -114,10 +114,11 @@ header div#logo {
 }
 
 #congrats {
-	display: inline-block; right;
+	display: inline-block;
 	width: 450px;
   	margin-right: .5em;
   	text-decoration: none;
+  	float: right;
 }
 
 h1 {
