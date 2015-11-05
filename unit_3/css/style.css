@@ -101,7 +101,6 @@ header div#logo {
 
 #menu > ul > li:hover > a {
   color: #456F74;
-  text-shadow: -1px 0 #456F74, 0 1px #456F74, 1px 0 #456F74, 0 -1px #456F74;
 }
 
 #text td p h1 h2 h3 h4 {
@@ -116,7 +115,7 @@ header div#logo {
 
 #congrats {
 	display: inline block; 
-	width: 450px;
+	width: 1000px;
   margin-right: 0px;
   text-decoration: none !important; 
   float: right;
