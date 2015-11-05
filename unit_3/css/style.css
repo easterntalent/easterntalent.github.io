@@ -135,7 +135,7 @@ p {
     column-gap: 100px;
 }
 
-section.congrats {
+.congrats {
   display: block; 
   width: 500px;
   height: 500px;
