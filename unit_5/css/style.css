@@ -112,6 +112,13 @@ header div#logo {
 	float: left;
 }
 
+#congrats img {
+  float: right;
+  padding-top: 200px;
+  padding-bottom: 50px;
+  padding-right: 75px;
+}
+
 #wrapper p {
   position: top;
   display: block;
@@ -129,13 +136,6 @@ header div#logo {
   background: #FB9D29;
   border: black solid 2px;
   margin-right: 0 auto;
-}
-
-#congrats img {
-  float: right;
-  padding-top: 200px;
-  padding-bottom: 50px;
-  padding-right: 75px;
 }
 
 h1 {
