@@ -20,6 +20,10 @@ body {
 	color: white;
 }
 
+body.congrats {
+  margin-right: 0;
+}
+
 header {
 	background: #403D3C;
 	height: 90px;
