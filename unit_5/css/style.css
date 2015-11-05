@@ -113,6 +113,7 @@ header div#logo {
 }
 
 #wrapper p {
+  position: top;
   display: inline-block;
   text-align: justify;
   line-height: normal;
