@@ -113,6 +113,7 @@ header div#logo {
 }
 
 #congrats img {
+  position: top;
   float: right;
   padding-top: 200px;
   padding-bottom: 50px;
@@ -120,7 +121,6 @@ header div#logo {
 }
 
 #wrapper p {
-  position: top;
   display: block;
   text-align: justify;
   line-height: normal;
