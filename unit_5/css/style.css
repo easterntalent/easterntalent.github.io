@@ -103,7 +103,7 @@ header div#logo {
 }
 
 #text td p h1 h2 h3 h4 {
-	display:inline;
+	display: inline;
   background-color: #AB9878;
   width: 400px;
 }
@@ -123,6 +123,7 @@ header div#logo {
 }
 
 #wrapper p {
+  display: inline-block;
   text-align: justify;
   line-height: normal;
   background-color: transparent;
