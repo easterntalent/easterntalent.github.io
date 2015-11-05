@@ -33,7 +33,7 @@ header {
   right: 0;
 }
 
-header div#logo {
+header div.logo {
   background-color: transparent;
   line-height: 90px;
   width: 200px;
@@ -44,11 +44,11 @@ header div#logo {
 	padding-bottom: 15px;
 }
 
-#menu,
-#menu ul,
-#menu ul li,
-#menu ul li a,
-#menu #menu-button {
+.menu,
+.menu ul,
+.menu ul li,
+.menu ul li a,
+.menu .menu-button {
   margin: 0;
   padding: 0;
   border: 0;
@@ -62,32 +62,33 @@ header div#logo {
   box-sizing: border-box;
 }
 
-#menu #menu-button {
+.menu .menu-button {
 	display: none;
 }
 
-#menu {
+.menu {
 	font-family: 'Archivo Narrow', sans-serif;
 	background: #403D3C;
 }
 	
-#menu > ul > li {
+.menu > ul > li {
 	float: right;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-right: 40px;
 }
 
-#menu.align-center > ul {
+.menu.align-center > ul {
   font-size: 0;
   text-align: center;
 }
-#menu.align-center > ul > li {
+
+.menu.align-center > ul > li {
   display: inline-block;
   float: none;
 }
 
-#menu > ul > li > a {
+.menu > ul > li > a {
 	padding: 17px;
   font-size: 16px;
   letter-spacing: 1px;
@@ -98,28 +99,28 @@ header div#logo {
   text-transform: uppercase;
 }
 
-#menu > ul > li:hover > a {
+.menu > ul > li:hover > a {
   color: #5D959C;
 }
 
-#text td p h1 h2 h3 h4 {
+.text td p h1 h2 h3 h4 {
 	display:inline;
   background: #AB9878;
   width: 400px;
 }
 
-#float-left {
+.float-left {
 	float: left;
 }
 
-#congrats {
+.congrats {
 	display: inline block; 
 	width: 750px;
   height: 500px;
   float: right;
   background: #FB9D29;
 }
-#congrats img {
+.congrats img {
   float:right;
   padding-top: 200px;
   padding-right: 200px;
@@ -154,17 +155,17 @@ p {
   list-style: non;
 }
 
-#column-1 {
+.column-1 {
 	float:left;
 	margin-left: 100px
 }
 
-#column-2 {
+.column-2 {
 	float:right;
 	margin-right: 200px
 }
 
-#representation {
+.representation {
 	clear: both;
 }
 
@@ -175,9 +176,6 @@ footer {
   z-index: 170;
   border-top: 1px solid black;
   width: 100%;
-  top: 0;
-  right: 0;
-  left: 0;
   text-align: center;
   text-decoration: none !important;
   color: #D3CBBD;
