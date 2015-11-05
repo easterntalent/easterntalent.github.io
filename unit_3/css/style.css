@@ -18,7 +18,6 @@ body {
   min-height: 100%;
   text-rendering: optimizeLegibility;
 	color: white;
-  text-decoration: none !important;
 }
 
 header {
@@ -168,13 +167,23 @@ p {
 footer {
 	clear: both;	
   background: #403D3C;
-  height: 90px;
+  height: 125px;
   z-index: 170;
-  margin: 0 auto;
   border-top: 1px solid black;
   width: 100%;
   top: 0;
   left: 0;
   right: 0;
   text-align: center;
+  text-decoration: none !important;
+  color: #D3CBBD;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
