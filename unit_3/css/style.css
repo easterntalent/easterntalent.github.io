@@ -152,18 +152,16 @@ p {
     column-gap: 100px;
 }
 
-.talent ul {
+div.column-1 {
+	float:left;
+	margin-left: 100px;
   list-style: none;
 }
 
-.column-1 {
-	float:left;
-	margin-left: 100px
-}
-
-.column-2 {
+div.column-2 {
 	float:right;
-	margin-right: 200px
+	margin-right: 200px;
+  list-style: none;
 }
 
 .representation {
