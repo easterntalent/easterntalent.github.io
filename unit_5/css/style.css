@@ -112,27 +112,28 @@ header div#logo {
 	float: left;
 }
 
-#wrapper img {
-  position: top;
-  float: right;
-  padding: 200px 75px 75px 75px;
-}
-
-#wrapper p {
-  display: block;
-  text-align: justify;
-  line-height: normal;
-  background-color: transparent;
-}
-
 #congrats {
-	display: block; 
-	width: 500px;
+  display: block; 
+  width: 500px;
   height: 500px;
   float: right;
   background: #FB9D29;
   border: black solid 2px;
   margin-right: 0 auto;
+}
+
+#congrats #wrapper img {
+  position: bottom;
+  float: right;
+  padding: 200px 75px 75px 75px;
+}
+
+#congrats #wrapper p {
+  position: top;s
+  display: block;
+  text-align: justify;
+  line-height: normal;
+  background-color: transparent;
 }
 
 h1 {
