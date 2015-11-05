@@ -129,6 +129,11 @@ header div#logo {
   padding-right: 75px;
 }
 
+#congrats p {
+  text-align: center;
+  line-height: normal;
+}
+
 h1 {
 	font-size: 50px;
 	font-family:'Archivo Narrow', sans-serif;
