@@ -21,7 +21,7 @@ body {
 }
 
 body.congrats {
-  margin-right: 0;
+  right: 0;
 }
 
 header {
