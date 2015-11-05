@@ -103,16 +103,10 @@ header div#logo {
   color: #456F74;
 }
 
-.main {
-	background-color: #AB9878;
-	padding: 0px 100px 0px 100px;
-	width: 1000px;
-}
-
 #text td p h1 h2 h3 h4 {
 	display:inline;
-    background-color: #AB9878;
-    width: 400px;
+  background-color: #AB9878;
+  width: 400px;
 }
 
 #float-left {
