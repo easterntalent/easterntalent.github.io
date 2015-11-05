@@ -112,13 +112,13 @@ header div#logo {
 	float: left;
 }
 
-article.congrats {
+#congrats {
 	display: inline block; 
 	width: 500px;
   height: 500px;
   float: right;
   background: #FB9D29;
-  border: black solid 5px;
+  border: black solid 2px;
   margin-right: 0 auto;
 }
 
