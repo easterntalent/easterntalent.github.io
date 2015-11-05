@@ -125,10 +125,10 @@ header div#logo {
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
+  background-color: #FB9D29;
 }
 
 #congrats div.background-aside {
-  background-color: #FB9D29;
   padding-top: 100px;
   padding-right: 40px;
   border-style: 5px solid black;
