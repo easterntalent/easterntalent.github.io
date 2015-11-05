@@ -118,14 +118,14 @@ header div#logo {
 	width: 450px;
   text-decoration: none;
   float: right;
-
+  background-color: #FB9D29;
 }
+
 #congrats img {
   padding-top: 30px;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
-  background-color: #FB9D29;
 }
 
 #congrats div.background-aside {
