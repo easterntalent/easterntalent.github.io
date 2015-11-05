@@ -111,7 +111,7 @@ header div.logo {
 	float: left;
 }
 
-.congrats {
+section.congrats {
 	display: block; 
 	width: 750px;
   height: 500px;
