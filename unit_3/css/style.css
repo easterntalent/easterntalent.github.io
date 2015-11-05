@@ -120,6 +120,12 @@ header div#logo {
   float: right;
   background-color: #FB9D29;
 }
+#congrats img {
+  float:right;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-right: 200px;
+}
 
 h1 {
 	font-size: 50px;
