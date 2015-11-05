@@ -160,14 +160,16 @@ p {
     column-gap: 100px;
 }
 
-#col1 {
+ul #column-1 {
 	float:left;
-	margin-left: 100px
+	margin-left: 100px;
+  list-style-type: none;
 }
 
-#col2 {
+ul #column-2 {
 	float:right;
-	margin-right: 200px
+	margin-right: 200px;
+  list-style-type: none;
 }
 
 #representation {
