@@ -135,6 +135,15 @@ p {
     column-gap: 100px;
 }
 
+section.congrats {
+  display: block; 
+  width: 500px;
+  height: 500px;
+  float: right;
+  background: #FB9D29; 
+  border: 2px solid black;
+}
+
 div.column-1 {
 	float:left;
 	margin-left: 100px;
