@@ -161,14 +161,5 @@ div.column-2 {
 }
 
 footer {
-  height:auto;
-  position:absolute;
-  bottom:0;
-  left:0;
-  width:100%;
-  background: #456F74;
-  border-top: 2px solid black;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+
 }
