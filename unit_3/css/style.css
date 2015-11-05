@@ -73,9 +73,7 @@ header div.logo {
 	
 .menu > ul > li {
 	float: right;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-right: 40px;
+	padding: 20px 40px 20px;
 }
 
 .menu.align-center > ul {
