@@ -119,7 +119,7 @@ header div#logo {
 	float: left;
 }
 
-section.congrats div#wrapper {
+#congrats {
 	display: inline-block; 
 	width: 450px;
   margin-right: 0px;
