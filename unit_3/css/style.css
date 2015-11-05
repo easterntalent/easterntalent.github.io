@@ -111,7 +111,7 @@ header div.logo {
 	float: left;
 }
 
-section.congrats {
+#congrats {
 	display: block; 
 	width: 750px;
   height: 500px;
@@ -122,7 +122,7 @@ section.congrats {
   border: 2px solid black;
 }
 
-img.congrats {
+.congrats img {
   float:right;
   padding: 200px 200px 200px 0px; 
 }
