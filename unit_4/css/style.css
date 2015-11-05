@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Rambla:400,400italic,700,700italic|Archivo+Narrow:400,400italic,700,700italic|Pragati+Narrow:400,700);
+html { 
+    background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold_opacity.png?raw=true') no-repeat center center fixed;
+	 -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+}
+
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: 300;
+	font-weight: 400;
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+  text-rendering: optimizeLegibility;
+	color: white;
+}
+
+header {
+	background: #403D3C;
+	height: 90px;
+	z-index: 170;
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header div#logo {
+  background-color: transparent;
+  line-height: 90px;
+  width: 200px;
+	height: 200px;
+	float: left;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+
+#menu,
+#menu ul,
+#menu ul li,
+#menu ul li a,
+#menu #menu-button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#menu #menu-button {
+	display: none;
+}
+
+#menu {
+	font-family: 'Archivo Narrow', sans-serif;
+	background: #403D3C;
+}
+	
+#menu > ul > li {
+	float: right;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 40px;
+}
+
+#menu.align-center > ul {
+  font-size: 0;
+  text-align: center;
+}
+#menu.align-center > ul > li {
+  display: inline-block;
+  float: none;
+}
+
+#menu > ul > li > a {
+	padding: 17px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  word-spacing: 40px
+  text-decoration: none !important;
+  color: #D3CBBD;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+#menu > ul > li:hover > a {
+  color: #5D959C;
+}
+
+#text td p h1 h2 h3 h4 {
+	display:inline;
+  background-color: #AB9878;
+  width: 400px;
+}
+
+#float-left {
+	float: left;
+}
+
+#congrats {
+	display: inline block; 
+	width: 750px;
+  height: 500px;
+  float: right;
+  background-color: #FB9D29;
+}
+#congrats img {
+  float:right;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-right: 200px;
+}
+
+h1 {
+	font-size: 50px;
+	font-family:'Archivo Narrow', sans-serif;
+}
+
+h2 h3 h4 {
+	font-size: 30px;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+p {
+	font-size: 18px;
+	font-family: 'Pragati Narrow', sans-serif;
+}
+
+#contact_grid {
+	-webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    column-count: 2;
+    -webkit-column-gap: 100px; 
+    -moz-column-gap: 100px;
+    column-gap: 100px;
+}
+
+#col1 {
+	float:left;
+	margin-left: 100px
+}
+
+#col2 {
+	float:right;
+	margin-right: 200px
+}
+
+#representation {
+	clear: both;
+}
+
+footer {
+	clear: both;	
+  background: #456F74;
+  height: 75px;
+  z-index: 170;
+  border-top: 1px solid black;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  text-decoration: none !important;
+  color: #D3CBBD;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
