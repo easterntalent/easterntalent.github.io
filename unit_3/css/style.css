@@ -116,7 +116,7 @@ header div#logo {
 #congrats {
 	display: inline block; 
 	width: 750px;
-  height: 500px
+  height: 500px;
   float: right;
   background-color: #FB9D29;
 }
