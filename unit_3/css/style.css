@@ -113,7 +113,7 @@ header div#logo {
 	float: left;
 }
 
-#congrats {
+#congrats #wrapper {
 	display: inline-block; 
 	width: 450px;
   margin-right: 0px;
