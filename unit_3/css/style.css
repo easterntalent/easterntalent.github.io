@@ -116,8 +116,8 @@ section.congrats {
 	width: 750px;
   height: 500px;
   float: right;
-  background: #FB9D29;
-  opacity: 0.2;
+  background: #FB9D29; 
+  opacity: 0.5;
   margin-right: 0;
   border: 2px solid black;
 }
