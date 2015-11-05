@@ -112,6 +112,15 @@ header div#logo {
 	float: left;
 }
 
+#wrapper p {
+  display: inline-block;
+  text-align: justify;
+  line-height: normal;
+  background-color: transparent;
+  line-height: 1px
+
+}
+
 #congrats {
 	display: inline block; 
 	width: 500px;
@@ -120,13 +129,6 @@ header div#logo {
   background: #FB9D29;
   border: black solid 2px;
   margin-right: 0 auto;
-}
-
-#wrapper p {
-  display: inline-block;
-  text-align: justify;
-  line-height: normal;
-  background-color: transparent;
 }
 
 #congrats img {
