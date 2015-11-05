@@ -114,8 +114,8 @@ header div#logo {
 	float: left;
 }
 
-.congrats {
-	display: inline-block; 
+#congrats {
+	display: block; 
 	width: 450px;
   margin-right: 0px;
   text-decoration: none;
@@ -123,7 +123,7 @@ header div#logo {
   background-color: #FB9D29;
 }
 
-.congrats img {
+#congrats img {
   padding-left: 30px;
   padding-right: 150px;
   padding-bottom: 30px;
