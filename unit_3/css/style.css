@@ -100,7 +100,7 @@ header div#logo {
 }
 
 #menu > ul > li:hover > a {
-  color: #456F74;
+  color: #5D959C;
 }
 
 #text td p h1 h2 h3 h4 {
@@ -125,13 +125,6 @@ header div#logo {
   padding-top: 200px;
   padding-bottom: 200px;
   padding-right: 200px;
-}
-
-#intro {
-  display: inline block; 
-  width: 750px;
-  height: 500px;
-  float: left;
 }
 
 h1 {
