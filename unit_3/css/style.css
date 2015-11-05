@@ -100,7 +100,7 @@ header div#logo {
 }
 
 #menu > ul > li:hover > a {
-  color: #D3CBBD;
+  color: #456F74;
   text-shadow: -1px 0 #456F74, 0 1px #456F74, 1px 0 #456F74, 0 -1px #456F74;
 }
 
