@@ -167,4 +167,14 @@ p {
 
 footer {
 	clear: both;	
+  background: #403D3C;
+  height: 90px;
+  z-index: 170;
+  margin: 0 auto;
+  border-top: 1px solid black;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
 }
