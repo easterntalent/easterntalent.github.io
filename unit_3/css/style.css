@@ -119,7 +119,7 @@ header div#logo {
 }
 
 #congrats {
-	display: inline-block; width: 450px;
+	display: inline-block; 
 	width: 450px;
   margin-right: 0px;
   text-decoration: none;
