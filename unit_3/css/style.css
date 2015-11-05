@@ -127,6 +127,13 @@ header div#logo {
   padding-right: 200px;
 }
 
+#intro {
+  display: inline block; 
+  width: 750px;
+  height: 500px;
+  float: left;
+}
+
 h1 {
 	font-size: 50px;
 	font-family:'Archivo Narrow', sans-serif;
