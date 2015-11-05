@@ -135,7 +135,7 @@ p {
     column-gap: 100px;
 }
 
-.congrats {
+#congrats {
   display: inline-block; 
   width: 500px;
   height: 500px;
@@ -144,7 +144,7 @@ p {
   border: 2px solid black;
 }
 
-.congrats img {
+#congrats img {
   float: right;
   padding: 200px 200px 200px 0px; 
 }
