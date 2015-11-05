@@ -150,6 +150,10 @@ p {
     column-gap: 100px;
 }
 
+.talent ul {
+  list-style: non;
+}
+
 #col1 {
 	float:left;
 	margin-left: 100px
