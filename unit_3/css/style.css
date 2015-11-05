@@ -111,15 +111,6 @@ header div.logo {
 	float: left;
 }
 
-article.congrats {
-	display: block; 
-	width: 500px;
-  height: 500px;
-  float: right;
-  background: #FB9D29; 
-  border: 2px solid black;
-}
-
 h1 {
 	font-size: 50px;
 	font-family:'Archivo Narrow', sans-serif;
@@ -157,7 +148,7 @@ div.column-2 {
 }
 
 .representation {
-	clear: both;
+	clear:both;
 }
 
 footer {
