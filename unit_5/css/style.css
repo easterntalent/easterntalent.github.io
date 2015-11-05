@@ -114,7 +114,7 @@ header div#logo {
 
 #wrapper p {
   position: top;
-  display: inline-block;
+  display: block;
   text-align: justify;
   line-height: normal;
   background-color: transparent;
