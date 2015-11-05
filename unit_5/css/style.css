@@ -123,10 +123,10 @@ header div#logo {
 }
 
 #congrats img {
-  float:right;
+  float: right;
   padding-top: 200px;
   padding-bottom: 200px;
-  padding-right: 200px;
+  padding-right: 75px;
 }
 
 h1 {
