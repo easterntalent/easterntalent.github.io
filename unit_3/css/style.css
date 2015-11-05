@@ -116,13 +116,14 @@ header div#logo {
 #congrats {
 	display: inline-block;
 	width: 450px;
+  margin-right: none;
   text-decoration: none;
   float: right;
   background-color: #FB9D29;
+  padding-top: 150px;
 }
 
 #congrats img {
-  padding-top: 150px;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
