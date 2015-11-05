@@ -116,17 +116,17 @@ header div#logo {
 #congrats {
 	display: inline-block;
 	width: 450px;
-  margin-right: none;
+  margin-right: 0px;
   text-decoration: none;
   float: right;
   background-color: #FB9D29;
-  padding-top: 150px;
 }
 
 #congrats img {
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
+  padding-top: 100px;
 }
 
 aside div #background-aside {
