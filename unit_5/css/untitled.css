@@ -1,0 +1,41 @@
+#background {
+  background-color: #FB9D29;
+  opacity: 0.5; 
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+
+margin-right: .5em;
+
+aside div #background-aside {
+  padding-top: 100px;
+  padding-right: 150px;
+  width: 450px;
+  border-style: 5px solid black;
+}
+
+.main {
+	background-color: #AB9878;
+	padding: 0px 100px 0px 100px;
+	width: 1000px;
+}
+
+text-shadow: -1px 0 #456F74, 0 1px #456F74, 1px 0 #456F74, 0 -1px #456F74;
+
+
+.congrats img {
+  float: right;
+  padding: 200px 200px 200px 0px; 
+}
+
+
+article.congrats {
+	display: block; 
+	width: 500px;
+  height: 500px;
+  float: right;
+  background: #FB9D29; 
+  border: 2px solid black;
+}
