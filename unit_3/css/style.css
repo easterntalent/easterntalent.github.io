@@ -122,8 +122,8 @@ header div#logo {
 #congrats img {
   float:right;
   padding-top: 200px;
-  padding-bottom: 200px;
   padding-right: 200px;
+  padding-bottom: 200px; 
 }
 
 h1 {
@@ -172,8 +172,8 @@ footer {
   border-top: 1px solid black;
   width: 100%;
   top: 0;
-  left: 0;
   right: 0;
+  left: 0;
   text-align: center;
   text-decoration: none !important;
   color: #D3CBBD;
