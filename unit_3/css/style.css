@@ -102,7 +102,7 @@ header div.logo {
 }
 
 .text td p h1 h2 h3 h4 {
-	display:inline;
+	display: inline;
   background: #AB9878;
   width: 400px;
 }
@@ -117,6 +117,7 @@ header div.logo {
   height: 500px;
   float: right;
   background: #FB9D29;
+  opacity: 0.2;
   margin-right: 0;
   border-style: solid;
   border-width: 3px;
