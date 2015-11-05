@@ -135,6 +135,15 @@ p {
     column-gap: 100px;
 }
 
+.congrats {
+  display: block; 
+  width: 500px;
+  height: 500px;
+  float: right;
+  background: #FB9D29; 
+  border: 2px solid black;
+}
+
 div.column-1 {
 	float:left;
 	margin-left: 100px;
@@ -152,14 +161,4 @@ div.column-2 {
 }
 
 footer {
-  height:auto;
-  position:absolute;
-  bottom:0;
-  left:0;
-  width:100%;
-  background: #456F74;
-  border-top: 2px solid black;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
 }
