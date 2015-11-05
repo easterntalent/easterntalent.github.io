@@ -121,8 +121,9 @@ header div.logo {
   height: 500px;
   float: right;
   background: #FB9D29;
-  margin-right: 0 auto;
+  margin-right: 0;
 }
+
 img.congrats {
   float:right;
   padding: 200px 200px 200px 0px; 
