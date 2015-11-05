@@ -123,7 +123,7 @@ header div.logo {
   background: #FB9D29;
   margin-right: 0 auto;
 }
-.congrats img {
+img.congrats {
   float:right;
   padding: 200px 200px 200px 0px; 
 }
