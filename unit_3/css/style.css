@@ -119,9 +119,7 @@ header div.logo {
   background: #FB9D29;
   opacity: 0.2;
   margin-right: 0;
-  border-style: solid;
-  border-width: 3px;
-  border-color: black;
+  border: 2px solid black;
 }
 
 img.congrats {
