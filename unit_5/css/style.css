@@ -119,16 +119,16 @@ header div#logo {
   float: right;
   background: #FB9D29;
   border: black solid 2px;
-  margin-right: 0 auto;
+  margin-right: none;
 }
 
-#congrats #wrapper img {
+#congrats img {
   position: bottom;
   float: right;
   padding: 200px 75px 75px 75px;
 }
 
-#congrats #wrapper p {
+div.wrapper {
   position: top;
   display: block;
   text-align: justify;
