@@ -117,7 +117,8 @@ header div#logo {
 	width: 750px;
   height: 500px;
   float: right;
-  background-color: #FB9D29;
+  background: #FB9D29;
+  border: solid 2px black;
 }
 #congrats img {
   float:right;
