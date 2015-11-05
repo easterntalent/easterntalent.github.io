@@ -132,6 +132,7 @@ header div#logo {
 #congrats div.background-aside {
   padding-top: 100px;
   padding-right: 40px;
+  width: 450px;
   border-style: 5px solid black;
 }
 
