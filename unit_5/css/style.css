@@ -125,7 +125,6 @@ h2 h3 h4 {
 p {
   font-size: 18px;
   font-family: 'Pragati Narrow', sans-serif;
-
 }
 
 #congrats {
@@ -133,19 +132,15 @@ p {
   width: 500px;
   height: 500px;
   float: right;
-  background: #FB9D29;
+  background: #FB9D29; padding: 100px 100px 100px; 
   border: black solid 2px;
-  margin-right: 0 auto;
+  margin-width: 0 auto;
 }
 
 #congrats img {
   position: bottom;
   float: right;
   padding: 150px 50px 50px 50px;
-}
-
-#congrats div > wrapper {
-  padding: 25px 25px 25px 25px;
 }
 
 #congrats div > #text > p {
