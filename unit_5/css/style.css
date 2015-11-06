@@ -177,6 +177,7 @@ p {
   text-transform: bold;
   font-size: 60px;
   line-height: 1;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 #contact_grid {
