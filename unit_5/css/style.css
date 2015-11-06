@@ -151,10 +151,9 @@ p {
   border: 5px solid #1C1919;
   padding: 10px 40px;
   background: #456F74;
-  width: 300px;
-  height: 100px;
+  width: 450px;
+  height: 75px;
   border-radius: 25px;
-  line-height: 1;
 }
 
 #intro {
