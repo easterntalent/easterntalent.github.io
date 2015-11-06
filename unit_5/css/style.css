@@ -125,12 +125,12 @@ header div#logo {
 #congrats img {
   position: bottom;
   float: right;
-  padding: 50px 75px 25px 75px;
+  padding: 150px 50px 50px 50px;
 }
 
-div.wrapper {
-  position: top;
+#congrats div.text {
   display: block;
+  padding: 25px 25px 25px 25px;
   text-align: justify;
   line-height: normal;
   background-color: transparent;
