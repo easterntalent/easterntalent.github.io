@@ -140,7 +140,6 @@ p {
   padding: 125px 20px 200px;
   border: black solid 2px 0px 2px 2px;;   
   color: #D3CBBD;
-  text-decoration: none;
 }
 
 #congrats #text p {
@@ -150,7 +149,7 @@ p {
   width: 500px;
   height: 100px;
   border: black solid 5px;
-  text-align: justify text-wrap: normal;
+  text-align: justify;
   font-family: 'Archivo Narrow', sans-serif;
 }
 
