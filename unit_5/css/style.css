@@ -144,12 +144,13 @@ p {
 
 #congrats img {
   position: top;
-  padding: 25px 50px 50px 0px;
+  padding: 25px 25px 50px opx;
 }
 
 #congrats #text {
   border: 3px solid #1C1919;
   background: #456F74;
+  padding-left: 1px;
   width: 500px;
   height: 90px;
   border-radius: 25px;
