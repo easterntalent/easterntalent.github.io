@@ -144,7 +144,7 @@ p {
 
 #congrats img {
   position: top;
-  padding: 25px 50px 50px 50px;
+  padding: 25px 50px 50px 0px;
 }
 
 #congrats #text {
