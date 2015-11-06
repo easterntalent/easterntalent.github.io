@@ -157,6 +157,7 @@ p {
   border-radius: 25px;
   text-align: justify text-wrap: normal;
   text-decoration: none;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 #intro {
