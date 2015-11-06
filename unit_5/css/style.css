@@ -165,7 +165,7 @@ p {
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
-  padding: 125px 20px 200px;
+  padding: 125px 20px 0px 200px;
   text-shadow: 3px 3px 5px #000000;
 }
 
