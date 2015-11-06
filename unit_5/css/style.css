@@ -128,7 +128,7 @@ header div#logo {
   padding: 150px 50px 50px 50px;
 }
 
-#congrats div.wrapper {
+#congrats div > wrapper {
   padding: 25px 25px 25px 25px;
 }
 
@@ -137,7 +137,7 @@ header div#logo {
   padding: 25px 25px 25px 25px;
   text-align: justify;
   line-height: normal;
-  color: #D3CBBD;s
+  color: #D3CBBD;
   background-color: transparent;
   position: top;
 }
