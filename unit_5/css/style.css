@@ -176,6 +176,10 @@ p {
   text-shadow: 2px 2px 4px #000000;
 }
 
+section#talent {
+  float: left;
+}
+
 div#multiColumn {
   -moz-column-count: 2;
     -moz-column-gap: 20px;
