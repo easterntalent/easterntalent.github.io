@@ -144,7 +144,7 @@ p {
 }
 
 div #highlight {
-  display: block;
+  display: inline-block;
   padding: 25px 25px 25px 25px;
   text-align: left;
   color: #D3CBBD;
