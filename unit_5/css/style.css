@@ -139,7 +139,7 @@ p {
 
 #congrats img {
   position: bottom;
-  float: right;
+  float: top;
   padding: 50px 50px 50px 25px;
 }
 
