@@ -131,13 +131,19 @@ p {
 
 #congrats {
   display: block; 
-  width: 1000px;
+  width: 500px;
   height: 250px;
   float: right;
-  background: #FB9D29; padding: 100px 100px 100px; 
+  background: #FB9D29; 
   border: black solid 2px 0px 2px 2px;
   margin: 0;  
   padding: 0 auto; 
+}
+
+#congrats img {
+  position: bottom;
+  float: top;
+  padding: 25px 50px 100px 0px;
 }
 
 #congrats div #highlight {
