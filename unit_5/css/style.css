@@ -166,7 +166,7 @@ p {
     column-gap: 100px;
 }
 
-#talent div #column-1 {
+.talent div.column-1 {
 	float:left;
 	margin-left: 100px;
   list-style-type: none;
