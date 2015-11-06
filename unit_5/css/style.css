@@ -130,7 +130,7 @@ p {
 #congrats {
   display: block; 
   width: 500px;
-  height: 500px;
+  height: 250px;
   float: right;
   background: #FB9D29; padding: 100px 100px 100px; 
   border: black solid 2px;
@@ -140,10 +140,10 @@ p {
 #congrats img {
   position: bottom;
   float: right;
-  padding: 150px 50px 50px 50px;
+  padding: 150px 50px 50px 25px;
 }
 
-#congrats div > #text > p {
+#congrats.p {
   display: block;
   padding: 25px 25px 25px 25px;
   text-align: justify;
