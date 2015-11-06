@@ -5,7 +5,6 @@ html {
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-    filter: brightness(50%);
   	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
 	 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 }
