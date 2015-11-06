@@ -140,7 +140,6 @@ p {
   border: black solid 2px 0px 2px 2px;
   margin: 0;  
   padding: 0 auto; 
-  font-family: 'Archivo Narrow', sans-serif;
   color: #D3CBBD;
   text-decoration: none;
 }
@@ -150,7 +149,7 @@ p {
   padding: 40px 0px;
 }
 
-#congrats #text {
+#congrats #text p {
   border: 3px solid #1C1919;
   background: #456F74;
   padding-left: 1px;
@@ -158,6 +157,7 @@ p {
   height: 100px;
   border-radius: 25px;
   text-align: justify text-wrap: normal;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 #intro {
