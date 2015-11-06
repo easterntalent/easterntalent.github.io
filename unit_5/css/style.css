@@ -142,9 +142,8 @@ p {
 }
 
 #congrats img {
-  position: bottom;
-  float: top;
-  padding: 25px 50px 100px 0px;
+  position: top;
+  padding: 25px 50px 50px 50px;
 }
 
 #congrats div #highlight {
