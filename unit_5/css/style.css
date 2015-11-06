@@ -190,7 +190,7 @@ div#multiColumn {
     column-gap: 20px;
     font-family: 'Roboto Slab', serif;
     font-size: 18px;
-    list-style-type: none;
+    list-style: none;
 }
 
 #contact_grid {
