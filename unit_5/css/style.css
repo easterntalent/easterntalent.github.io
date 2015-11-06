@@ -154,6 +154,7 @@ p {
   height: 90px;
   border-radius: 25px;
   text-align: justify text-wrap: normal;
+  text-decoration: none !important;
 }
 
 #intro {
