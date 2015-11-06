@@ -145,7 +145,7 @@ p {
 
 #congrats img {
   position: top;
-  padding: 25px 0px 50px 0px;
+  padding: 40px 0px;
 }
 
 #congrats #text {
@@ -155,9 +155,9 @@ p {
   width: 500px;
   height: 100px;
   border-radius: 25px;
+  font-family: 'Archivo Narrow', sans-serif;
   text-align: justify text-wrap: normal;
   text-decoration: none;
-  font-family: 'Archivo Narrow', sans-serif;
 }
 
 #intro {
