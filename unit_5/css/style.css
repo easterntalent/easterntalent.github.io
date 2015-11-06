@@ -132,13 +132,14 @@ header div#logo {
   padding: 25px 25px 25px 25px;
 }
 
-#congrats div.text {
+#congrats div > #text > p {
   display: block;
   padding: 25px 25px 25px 25px;
   text-align: justify;
   line-height: normal;
   background-color: transparent;
   position: top;
+  color: #D3CBBD;
 }
 
 h1 {
