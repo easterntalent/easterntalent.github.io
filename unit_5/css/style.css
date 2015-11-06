@@ -161,11 +161,11 @@ p {
 #intro {
   margin-left: 50px;
   display: block;
-  width: 500px;
+  width: 700px;
   height: 250px;
   line-height: 1.5;
   text-align: left;
-  padding: 150px 25px 200px;
+  padding: 100px 25px 200px;
 }
 
 #intro h1 {
