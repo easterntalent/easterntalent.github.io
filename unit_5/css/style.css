@@ -163,6 +163,7 @@ p {
 #intro h1 {
   text-align: left;
   text-transform: bold;
+  font-size: 75px;
 }
 
 #contact_grid {
