@@ -159,7 +159,7 @@ p {
 
 #intro {
   margin-left: 50px;
-  display: block;
+  display: none;
   width: 500px;
   height: 250px;
   line-height: 1.5;
