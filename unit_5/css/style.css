@@ -134,7 +134,7 @@ p {
   float: right;
   background: #FB9D29; padding: 100px 100px 100px; 
   border: black solid 2px;
-  margin-width: 0 auto;
+  margin-width: 0 auto; 
 }
 
 #congrats img {
@@ -143,14 +143,15 @@ p {
   padding: 50px 50px 50px 25px;
 }
 
-#congrats div.wrapper {
+textarea #highlight {
   display: block;
   padding: 25px 25px 25px 25px;
-  text-align: justify;
+  text-align: left;
   color: #D3CBBD;
   line-height: 0.8;
   background-color: transparent;
   position: top;
+  white-space: normal;
 }
 
 #intro {
