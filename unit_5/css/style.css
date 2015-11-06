@@ -128,12 +128,17 @@ header div#logo {
   padding: 150px 50px 50px 50px;
 }
 
+#congrats div.wrapper {
+  padding: 25px 25px 25px 25px;
+}
+
 #congrats div.text {
   display: block;
   padding: 25px 25px 25px 25px;
   text-align: justify;
   line-height: normal;
   background-color: transparent;
+  position: top;
 }
 
 h1 {
