@@ -160,6 +160,7 @@ p {
 
 #intro {
   margin-left: 50px;
+  float: left;
   display: block;
   width: 700px;
   height: 250px;
