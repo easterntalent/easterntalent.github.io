@@ -160,8 +160,9 @@ p {
 
 #intro {
   display: block;
-  padding: 100px 300px 75px 100px;
+  padding: 100px 500px 75px 100px;
   line-height: 1.5;
+  text-align: justify;
 }
 
 #intro h1 {
