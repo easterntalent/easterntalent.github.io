@@ -152,7 +152,8 @@ p {
   padding: 10px 40px;
   background: #456F74;
   width: 300px;
-  border-radius: 25px;
+  border-radius: 10px;
+  line-height: 90%;
 }
 
 #intro {
