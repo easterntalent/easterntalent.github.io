@@ -112,6 +112,22 @@ header div#logo {
 	float: left;
 }
 
+h1 {
+  font-size: 50px;
+  font-family:'Archivo Narrow', sans-serif;
+}
+
+h2 h3 h4 {
+  font-size: 30px;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Pragati Narrow', sans-serif;
+
+}
+
 #congrats {
   display: block; 
   width: 500px;
@@ -140,21 +156,6 @@ header div#logo {
   color: #D3CBBD;
   background-color: transparent;
   position: top;
-  }
-
-h1 {
-	font-size: 50px;
-	font-family:'Archivo Narrow', sans-serif;
-}
-
-h2 h3 h4 {
-	font-size: 30px;
-	font-family: 'Archivo Narrow', sans-serif;
-}
-
-p {
-	font-size: 18px;
-	font-family: 'Pragati Narrow', sans-serif;
 }
 
 #intro {
