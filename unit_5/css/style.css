@@ -158,7 +158,7 @@ p {
 }
 
 #intro {
-  display: inline-block;
+  display: block;
   padding-top: 100px 75px 75px 100px;
 }
 
