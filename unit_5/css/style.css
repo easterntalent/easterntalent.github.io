@@ -136,11 +136,11 @@ header div#logo {
   display: block;
   padding: 25px 25px 25px 25px;
   text-align: justify;
-  line-height: normal;
+  line-height: 0.8;
   color: #D3CBBD;
   background-color: transparent;
   position: top;
-}
+  }
 
 h1 {
 	font-size: 50px;
