@@ -135,6 +135,7 @@ p {
   height: 250px;
   float: right;
   background: #FB9D29; 
+  padding: 100px 100px 100px; 
   border: black solid 2px 0px 2px 2px;
   margin: 0;  
   padding: 0 auto; 
@@ -159,12 +160,12 @@ p {
 
 #intro {
   margin-left: 50px;
-  display: none;
+  display: block;
   width: 500px;
   height: 250px;
   line-height: 1.5;
   text-align: left;
-  padding: 150px 25px 200px 0px;
+  padding: 150px 25px 200px;
 }
 
 #intro h1 {
