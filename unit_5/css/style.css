@@ -147,6 +147,14 @@ p {
   padding: 25px 50px 50px 50px;
 }
 
+#congrats div #text {
+  border: 10px solid black;
+  padding: 10px 40px;
+  background: #456F74;
+  width: 300px;
+  border-radius: 25px;
+}
+
 #intro {
   margin-left: 50px;
   float: left;
@@ -163,7 +171,6 @@ p {
   text-align: left;
   text-transform: bold;
   font-size: 60px;
-  line-height: 70%;
 }
 
 #contact_grid {
