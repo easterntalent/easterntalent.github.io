@@ -176,9 +176,13 @@ p {
   text-shadow: 2px 2px 4px #000000;
 }
 
-
-#talent div #column-1 {
-  float: left;
+div#multiColumn {
+  -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
 }
 
 #contact_grid {
