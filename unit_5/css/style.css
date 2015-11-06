@@ -132,9 +132,10 @@ p {
 
 #congrats {
   display: block; 
-  width: 500px;
-  height: 300px;
+  width: 700px;
+  height: 250px;
   float: right;
+  margin-right: 50px;
   background: #FB9D29; 
   padding: 100px 100px 100px; 
   border: black solid 2px 0px 2px 2px;
