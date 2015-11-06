@@ -173,6 +173,7 @@ p {
   text-align: left;
   text-transform: bold;
   font-size: 60px;
+  line-height: 90%;
 }
 
 #contact_grid {
