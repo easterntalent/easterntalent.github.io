@@ -9,6 +9,11 @@ html {
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 }
 
+* {
+  margin: 0;
+  padding: 0 auto;
+}
+
 body {
 	font-family: 'Archivo Narrow', sans-serif;
 	font-weight: 300;
@@ -82,6 +87,7 @@ header div#logo {
   font-size: 0;
   text-align: center;
 }
+
 #menu.align-center > ul > li {
   display: inline-block;
   float: none;
@@ -141,7 +147,7 @@ p {
 #congrats img {
   position: bottom;
   float: top;
-  padding: 50px 50px 50px 25px;
+  padding: 25px 50px 100px 0px;
 }
 
 #congrats div #highlight {
