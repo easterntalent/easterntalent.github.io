@@ -134,7 +134,8 @@ p {
   float: right;
   background: #FB9D29; padding: 100px 100px 100px; 
   border: black solid 2px;
-  margin-width: 0 auto; 
+  margin: 0;  
+  padding: 0 auto; 
 }
 
 #congrats img {
