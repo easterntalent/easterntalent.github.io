@@ -137,9 +137,8 @@ p {
   margin-right: 50px;
   float: right;
   background: #FB9D29; 
-  padding: 125px 20px 200px; 
-  border: black solid 2px 0px 2px 2px;;  
-  padding: 0 auto; 
+  padding: 125px 20px 200px;
+  border: black solid 2px 0px 2px 2px;;   
   color: #D3CBBD;
   text-decoration: none;
 }
