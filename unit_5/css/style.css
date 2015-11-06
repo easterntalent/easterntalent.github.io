@@ -176,6 +176,11 @@ p {
   text-shadow: 2px 2px 4px #000000;
 }
 
+
+#talent div #column-1 {
+  float: left;
+}
+
 #contact_grid {
 	-webkit-column-count: 2; 
     -moz-column-count: 2; 
