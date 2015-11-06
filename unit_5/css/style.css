@@ -143,7 +143,7 @@ p {
   padding: 50px 50px 50px 25px;
 }
 
-textarea #highlight {
+div #highlight {
   display: block;
   padding: 25px 25px 25px 25px;
   text-align: left;
