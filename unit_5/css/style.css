@@ -160,6 +160,7 @@ p {
 #intro {
   display: block;
   padding: 100px 75px 75px 100px;
+  line-height: 1;
 }
 
 #contact_grid {
