@@ -144,11 +144,6 @@ p {
   text-decoration: none;
 }
 
-#congrats img {
-  position: center; 
-  padding: 40px 0px;
-}
-
 #congrats #text p {
   border: 3px solid #1C1919;
   background: #456F74;
