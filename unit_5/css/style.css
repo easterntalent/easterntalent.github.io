@@ -128,6 +128,16 @@ p {
 }
 
 #congrats {
+  display: block;
+  padding: 25px 25px 25px 25px;
+  text-align: justify;
+  color: #D3CBBD;
+  line-height: 0.8;
+  background-color: transparent;
+  position: top;
+}
+
+#congrats div.wrapper {
   display: block; 
   width: 500px;
   height: 250px;
@@ -141,16 +151,6 @@ p {
   position: bottom;
   float: right;
   padding: 50px 50px 50px 25px;
-}
-
-#congrats div.wrapper {
-  display: block;
-  padding: 25px 25px 25px 25px;
-  text-align: justify;
-  color: #D3CBBD;
-  line-height: 0.8;
-  background-color: transparent;
-  position: top;
 }
 
 #intro {
