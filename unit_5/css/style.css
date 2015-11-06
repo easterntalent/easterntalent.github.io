@@ -140,12 +140,6 @@ p {
   padding: 0 auto; 
 }
 
-#congrats img {
-  position: bottom;
-  float: top;
-  padding: 25px 50px 100px 0px;
-}
-
 #congrats div #highlight {
   display: inline-block; 
   padding: 25px 25px 25px 25px;
