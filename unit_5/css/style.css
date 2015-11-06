@@ -158,6 +158,7 @@ p {
 }
 
 #intro {
+  margin-left: 50px;
   display: block;
   width: 500px;
   height: 250px;
