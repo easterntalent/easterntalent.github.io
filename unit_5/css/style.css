@@ -159,8 +159,12 @@ p {
 
 #intro {
   display: block;
-  padding: 100px 100px 75px 100px;
-  line-height: 1;
+  padding: 100px 100px 75px 300px;
+  line-height: 1.5;
+}
+
+#intro h1 {
+  text-transform: bold;
 }
 
 #contact_grid {
