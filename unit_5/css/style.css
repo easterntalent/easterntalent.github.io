@@ -153,10 +153,10 @@ p {
   background: #456F74;
   padding-left: 1px;
   width: 500px;
-  height: 90px;
+  height: 100px;
   border-radius: 25px;
   text-align: justify text-wrap: normal;
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 #intro {
