@@ -148,6 +148,7 @@ p {
 }
 
 #congrats #text p {
+  position: center;
   border: 3px solid #1C1919;
   background: #456F74;
   padding-left: 1px;
