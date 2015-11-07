@@ -181,6 +181,9 @@ p {
   text-shadow: 2px 2px 4px #000000;
 }
 
+#intro p {
+  color: #D3CBBD;
+}
 section#talent {
   position: center;
   padding-top: 50px;
