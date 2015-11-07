@@ -252,6 +252,8 @@ footer {
   text-align: center;
   text-decoration: none !important;
   color: #D3CBBD;
+  font-family:'Archivo Narrow', sans-serif;
+  text-transform: bold;
   line-height: 1;
   display: block;
   position: relative;
