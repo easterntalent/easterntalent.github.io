@@ -186,14 +186,12 @@ p {
 }
 
 #intro h1 {
-  font-family: courier, sans-serif;
+  font-family: 'Roboto Slab' serif sans-serif;
   color: #FB9D29;
   text-align: center;
-  text-transform: bold;
   font-size: 75px;
   line-height: 1;
   text-shadow: 2px 2px 4px #000000;
-  text-transform: bold;
 }
 
 section#intro p {
