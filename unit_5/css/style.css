@@ -142,7 +142,7 @@ p {
   background: #456F74; 
   padding: 125px 20px 200px;
   border: black solid 2px 0px 2px 2px;   
-  color: #D3CBBD;
+  color: #1C1919;
 }
 
 #congrats #highlightPic {
@@ -153,11 +153,11 @@ p {
 #congrats #text p {
   position: center;
   border: 3px solid #1C1919;
-  background: #403D3C;
+  background: #D3CBBD;
   padding-left: 1px;
   width: 300px;
   height: 150px;
-  border: black solid 3px;
+  border: #403D3C solid 3px;
   text-align: justify;
   font-family: 'Archivo Narrow', sans-serif;
   text-transform: uppercase;
