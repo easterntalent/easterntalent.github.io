@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Rambla:400,400italic,700,700italic|Archivo+Narrow:400,400italic,700,700italic|Pragati+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 html { 
     background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_5/images/gold_dark.jpg?raw=true') no-repeat center center fixed;
@@ -187,7 +188,7 @@ p {
 }
 
 #intro h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   letter-spacing: 0.1em;
   color: #FB9D29;
   text-align: center;
