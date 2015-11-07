@@ -259,7 +259,7 @@ footer {
   text-decoration: none !important;
   color: #D3CBBD;
   font-family:'Archivo Narrow', sans-serif;
-  text-transform: bold;
+  text-transform: bold uppercase;
   line-height: 1;
   display: block;
   position: relative;
