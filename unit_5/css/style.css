@@ -160,6 +160,7 @@ p {
   border: black solid 3px;
   text-align: justify;
   font-family: 'Archivo Narrow', sans-serif;
+  text-transform: uppercase;
 }
 
 /*#intro {
