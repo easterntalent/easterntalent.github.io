@@ -132,15 +132,15 @@ p {
   font-family: 'Roboto Slab', serif;
 }
 
-/*#congrats {
+#congrats {
   display: block; 
-  width: 500px;
+  width: 3000px;
   height: 250px;
   margin-right: 50px;
-  float: right;
-  background: #FB9D29; 
+  float: left;
+  background: #456F74; 
   padding: 125px 20px 200px;
-  border: black solid 2px 0px 2px 2px;;   
+  border: black solid 2px 0px 2px 2px;   
   color: #D3CBBD;
 }
 
@@ -152,14 +152,14 @@ p {
 #congrats #text p {
   position: center;
   border: 3px solid #1C1919;
-  background: #456F74;
+  background: #403D3C;
   padding-left: 1px;
   width: 500px;
-  height: 100px;
+  height: 230px;
   border: black solid 5px;
   text-align: justify;
   font-family: 'Archivo Narrow', sans-serif;
-}*/
+}
 
 /*#intro {
   margin-left: 50px;
