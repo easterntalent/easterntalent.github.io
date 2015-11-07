@@ -201,7 +201,7 @@ p {
 section#intro p {
   color: #D3CBBD;
   text-align: justify;
-  padding: 30px;
+  padding: 10px 30px 10px 30px;
 }
 
 section#intro p br {
