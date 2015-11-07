@@ -199,6 +199,14 @@ div#multiColumn {
     list-style: none;
 }
 
+#client-news {
+  padding-top: 50px;
+}
+
+#contact {
+  padding-top: 50px;
+}
+
 #contact_grid {
 	-webkit-column-count: 2; 
     -moz-column-count: 2; 
