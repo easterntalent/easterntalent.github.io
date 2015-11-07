@@ -188,6 +188,7 @@ p {
 
 #intro h1 {
   font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.4em;
   color: #FB9D29;
   text-align: center;
   font-size: 65px;
