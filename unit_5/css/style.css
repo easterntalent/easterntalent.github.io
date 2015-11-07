@@ -182,6 +182,7 @@ p {
 }
 
 section#talent {
+  position: center;
   padding-top: 50px;
   float: left;
 }
