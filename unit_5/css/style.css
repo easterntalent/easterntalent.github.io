@@ -178,7 +178,7 @@ p {
 #intro {
   margin-left: 650px;
   margin-right: 900px;
-  display: block;
+  display: inline-block;
   width: 800px;
   height: 230px;
   background: #1C1919;
