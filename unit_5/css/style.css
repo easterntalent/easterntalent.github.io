@@ -142,6 +142,11 @@ p {
   color: #D3CBBD;
 }
 
+#congrats #highlightPic {
+  position: top center;
+  padding: 20px;
+}
+
 #congrats #text p {
   border: 3px solid #1C1919;
   background: #456F74;
