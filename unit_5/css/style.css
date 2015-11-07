@@ -195,16 +195,13 @@ p {
   line-height: 125%;
   text-shadow: 2px 2px 4px #000000;
   padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 section#intro p {
   color: #D3CBBD;
   text-align: justify;
-  padding: 10px 15px 10px 30px;
-}
-
-section#intro p br {
-  line-height: .5em;
+  padding: 10px 15px 10px 20px;
 }
 
 section#talent {
