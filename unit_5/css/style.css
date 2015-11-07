@@ -204,7 +204,7 @@ section#intro p {
 }
 
 section#intro p br {
-  line-height: 1em;
+  line-height: .5em;
 }
 
 section#talent {
