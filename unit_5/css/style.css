@@ -232,8 +232,6 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 400px;
-  border-radius: 25px;
-  background: rgba(28, 25, 25, .07);
   display: block;
   float: center;
   font-family: 'Palanquin', serif;
@@ -243,6 +241,7 @@ section#talent ul {
   width: 900px;
   margin-bottom:20px;
   overflow: hidden;
+  border-radius: 25px;
 }
 
 section#talent li {
