@@ -133,6 +133,7 @@ a {
 
 #congrats {
   display: block; 
+  border-radius: 25px;
   width: 450px;
   height: 225px;
   margin-right: 25px;
