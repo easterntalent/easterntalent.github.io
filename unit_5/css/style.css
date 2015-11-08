@@ -239,7 +239,7 @@ section#talent li {
   display: inline-block;
   line-height: 4em;
   float: left;
-  line-height: 1.75;
+  line-height: 2;
 }
 
 section#talent li a.full_roster {
