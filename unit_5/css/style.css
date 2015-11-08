@@ -62,9 +62,9 @@ p {
   font-family: 'Palanquin', serif;
 }
 
-a {
+a, a.visible {
   text-decoration: none;
-  color: color: #FB9D29;
+  color: #FB9D29;
 }
 
 #menu,
