@@ -194,13 +194,12 @@ section#congrats #text:hover > a {
 section#intro p {
   color: #D3CBBD;
   background: rgba(115, 107, 106, .2);
-  background-width: 100%;
   text-align: justify;
-  padding: 25px 50px 10px 50fpx;
+  padding: 15px 15px 10px 25px;
+  padding-top: 15px;
+  padding-bottom: 10px;
   font-size: 20px;
   font-family: 'Palanquin', sans-serif;
-  background-padding-left: 0px;
-  background-padding-right: 0px;
 }
 
 section#talent {
