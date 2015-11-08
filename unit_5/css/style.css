@@ -241,6 +241,10 @@ section#talent li {
   line-height: 1.75;
 }
 
+section#talent li a.full_roster {
+  vertical-align: right;
+}
+
 #double li  { 
   width: 40%;
 }
