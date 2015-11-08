@@ -62,6 +62,10 @@ p {
   font-family: 'Palanquin', serif;
 }
 
+a:visited {
+  text-decoration: none;
+}
+
 #menu,
 #menu ul,
 #menu ul li,
@@ -212,7 +216,7 @@ section#talent::backdrop {
   background-color: rgba(0,0,0,0.5);
 }
 
-div#multiColumn ul li a:visited {
+div#multiColumn ul li {
   padding: 20px;
   position: relative;
   margin: 0 0 40px 0;
@@ -228,7 +232,6 @@ div#multiColumn ul li a:visited {
     font-size: 22px;
     list-style: none;
     text-transform: uppercase;
-    text-decoration: none;
 }
 
 #client-news {
