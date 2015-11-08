@@ -219,20 +219,8 @@ section#talent ul li {
   text-transform: uppercase;
 }
 
-section#talent li {
+section#talent.categories {
   width: 50%; 
-}
-
-section#talent div.talent-left {
-  display: inline-block;
-  float: left;
-  text-align: left;
-}
-
-section#talent div.talent-right {
-  display: inline-block;
-  float: right;
-  text-align: left;
 }
 
 #client-news {
