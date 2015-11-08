@@ -199,8 +199,8 @@ section#intro p {
   padding: 15px 50px 10px 50fpx;
   font-size: 20px;
   font-family: 'Palanquin', sans-serif;
-  margin-left: 0px;
-  margin-right: 0px;
+  background-margin-left: 0px;
+  background-margin-right: 0px;
 }
 
 section#talent {
