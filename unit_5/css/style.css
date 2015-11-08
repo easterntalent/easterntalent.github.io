@@ -226,8 +226,8 @@ div#multiColumn ul {
     -webkit-column-gap: 20px;
     column-count: 2;
     column-gap: 20px;
-    font-family: 'Roboto Slab', serif;
-    font-size: 18px;
+    font-family: 'Palanquin', serif;
+    font-size: 22px;
     list-style: none;
 }
 
