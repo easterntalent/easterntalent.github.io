@@ -163,7 +163,7 @@ a {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
-  text-shadow: 1px 1px 1px #000000;
+  text-shadow: .5px .5px .5px #000000;
 }
 
 #intro {
@@ -204,7 +204,7 @@ section#talent div #wrapper {
   border-width: 100%;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
-  color: ;
+  color: rgba(251,157,41,.05);
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
