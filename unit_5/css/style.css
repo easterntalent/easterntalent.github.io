@@ -56,6 +56,16 @@ header div#logo {
 	padding-bottom: 15px;
 }
 
+h2 h3 h4 {
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Palanquin', serif;
+}
+
 #menu,
 #menu ul,
 #menu ul li,
@@ -123,16 +133,6 @@ header div#logo {
 
 #float-left {
 	float: left;
-}
-
-h2 h3 h4 {
-  font-size: 30px;
-  font-family: 'Roboto Condensed', sans-serif;
-}
-
-p {
-  font-size: 18px;
-  font-family: 'Palanquin', serif;
 }
 
 #congrats {
