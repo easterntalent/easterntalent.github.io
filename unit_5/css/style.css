@@ -127,21 +127,17 @@ p {
   width: 400px;
 }
 
-#float-left {
-	float: left;
-}
-
 #congrats {
   display: block; 
-  width: 450px;
-  height: 225px;
+  border-radius width: 450px;
+  border-radius height: 225px;
   margin-right: 25px;
   margin-left: 75px;
   float: left;
   background: #456F74; 
   padding-bottom: 25;
   padding: 100px 20px 200px;
-  border: black solid 2px 0px 2px 2px;   
+  border: 2px solid black;   
   color: #1C1919;
 }
 
