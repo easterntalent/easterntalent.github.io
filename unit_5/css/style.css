@@ -194,7 +194,7 @@ section#congrats #text:hover > a {
 
 section#intro p {
   color: #D3CBBD;
-  background: rgba(115, 107, 106, .07);
+  background: rgba(115, 107, 106, .09);
   text-align: justify;
   padding: 15px 15px 10px 25px;
   font-size: 20px;
