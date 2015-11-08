@@ -157,7 +157,7 @@ a {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
-  text-shadow: .15px .15px .20px #000000;
+  text-shadow: .1px .1px .1px #000000;
 }
 
 #intro {
