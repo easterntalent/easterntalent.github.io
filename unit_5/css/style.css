@@ -127,7 +127,7 @@ a, a.visible {
 }
 
 #congrats {
-  display: block; 
+  display: inline-block; 
   border-radius: 25px;
   width: 450px;
   height: 225px;
@@ -165,7 +165,7 @@ a, a.visible {
 #intro {
   margin-left: 630px;
   margin-right: 600px;
-  display: block;
+  display: inline-block;
   width: 800px;
   height: 225px;
   background: #1C1919;
@@ -197,6 +197,7 @@ section#intro p {
 }
 
 section#talent {
+  display: inline-block;
   background: rgba(64,61,60,.85);
   margin-top: 25px;
   margin-bottom: 50px;
@@ -222,7 +223,7 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 400px;
-  display: block;
+  display: inline-block;
   float: center;
   font-family: 'Palanquin', serif;
   font-size: 22px;
