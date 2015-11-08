@@ -195,7 +195,7 @@ section#intro p {
 }
 
 section#talent
-section#talent a {
+section#talent a, a.visible {
   background: rgba(64,61,60,.7);
   color: #D3CBBD;
   margin-top: 100px;
@@ -212,14 +212,23 @@ section#talent h2 {
   float: center;
 }
 
-section#talent ul li {
+section#talent ul {
   font-family: 'Palanquin', serif;
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
+  width:760px;
+  margin-bottom:20px;
+  overflow:hidden;
 }
 
-section#talent.categories {
+section#talent li {
+  line-height:1.5em;
+  float:left;
+  display:inline;
+}
+
+ul span.categories {
   width: 50%; 
 }
 
