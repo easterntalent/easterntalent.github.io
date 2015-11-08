@@ -243,6 +243,10 @@ section#talent ul {
   overflow: hidden;
 }
 
+#double li  { 
+  width: 50%;
+}
+
 section#talent li {
   padding: 10px;
   display: inline-block;
@@ -253,10 +257,6 @@ section#talent li {
 
 section#talent li:hover > a {
   color: #FFF5E4;
-}
-
-#double li  { 
-  width: 50%;
 }
 
 #client-news {
