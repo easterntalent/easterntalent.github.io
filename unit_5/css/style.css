@@ -237,11 +237,11 @@ section#talent li {
   display: inline-block;
   line-height: 4em;
   float: left;
-  line-height: 65%;
+  line-height: 1.5;
 }
 
 #double li  { 
-  width: 50%;
+  width: 40%;
 }
 
 #client-news {
