@@ -202,8 +202,7 @@ section#talent {
   margin-bottom: 50px;
   width: 100%;
   height: 350px;
-  padding: 50px;
-  text-shadow: 3px 3px 5px #000000;
+  padding: 25px 50px;
 }
 
 section#talent a, a.visible {
@@ -234,7 +233,7 @@ section#talent ul {
 }
 
 section#talent li {
-  padding-top: 20px;
+  padding-top: 0px;
   display: inline-block;
   line-height: 4em;
   float: left;
