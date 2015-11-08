@@ -162,6 +162,10 @@ a, a.visible {
   word-spacing: .5;
 }
 
+section#congrats #text:hover > a {
+  color: #E57323;
+}
+
 #intro {
   margin-left: 630px;
   margin-right: 600px;
