@@ -230,7 +230,7 @@ section#talent h2 {
   padding-top: 15px;
 }
 
-ul {
+section#talent ul {
   margin-left: 400px;
   display: block;
   float: center;
@@ -243,7 +243,7 @@ ul {
   overflow: hidden;
 }
 
-li {
+section#talent > ul > li {
   padding: 10px;
   display: block;
   line-height: 4em;
