@@ -205,13 +205,15 @@ section#talent {
 
 section#talent a, a.visible {
   color: #D3CBBD;
+  text-decoration: underline;
 }
+
 section#talent h2 {
+  float: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 50px;
   color: #FB9D29;
-  text-align: justify;
-  float: center;
+  text-align: center;
 }
 
 section#talent ul {
@@ -225,9 +227,9 @@ section#talent ul {
 }
 
 section#talent li {
-  line-height:1.5em;
+  display:inline-block;
+  line-height:2.25em;
   float:left;
-  display:inline;
 }
 
 ul span.categories {
