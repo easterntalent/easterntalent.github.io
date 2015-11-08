@@ -215,10 +215,6 @@ section#talent a, a.visible {
   text-decoration: none;
 }
 
-#menu > ul > li:hover > a {
-  color: #FFF5E4;
-}
-
 section#talent h2 {
   margin-left: 275px;
   position: left;
