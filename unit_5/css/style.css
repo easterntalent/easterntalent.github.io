@@ -241,7 +241,6 @@ section#talent ul {
   width: 900px;
   margin-bottom:20px;
   overflow: hidden;
-  border-radius: 25px;
 }
 
 section#talent li {
@@ -256,13 +255,8 @@ section#talent li:hover > a {
   color: #FFF5E4;
 }
 
-section#talent, ul, li  { 
+#double li  { 
   width: 50%;
-}
-
-section#talent ul {
-  border-radius: 25px;
-  background: rgba(28, 25, 25, .07);
 }
 
 #client-news {
