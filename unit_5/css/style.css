@@ -201,7 +201,8 @@ section#intro p {
 }
 
 section#talent {
-  color: #FFA44E;
+  background: rgba(251,157,41,.07);
+  color: #D3CBBD;
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
