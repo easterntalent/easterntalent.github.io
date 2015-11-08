@@ -189,16 +189,15 @@ section#intro p {
   font-family: 'Palanquin', sans-serif;
 }
 
-section#talent {
+section#talent div #wrapper {
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
   height: 350px;
   padding: 50px;
-  background: rbga(0,0,0,1);
 }
 
-.talent:: backdrop {
+.talent::backdrop {
   position: fixed;
   top: 0;
   left: 0;
