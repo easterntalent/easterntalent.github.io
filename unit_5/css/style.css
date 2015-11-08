@@ -193,6 +193,7 @@ section#intro p {
 }
 
 section#talent div #wrapper {
+  border-width: 100% none 1px;
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
@@ -200,7 +201,7 @@ section#talent div #wrapper {
   padding: 50px;
 }
 
-.talent::backdrop {
+section#talent::backdrop {
   position: fixed;
   top: 0;
   left: 0;
