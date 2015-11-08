@@ -232,7 +232,7 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 400px;
-  display: inline-block;
+  display: block;
   float: center;
   font-family: 'Palanquin', serif;
   font-size: 22px;
