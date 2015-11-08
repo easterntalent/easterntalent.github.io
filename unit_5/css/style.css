@@ -216,7 +216,7 @@ section#talent {
   background: #403D3C;
 }
 
-div#multiColumn {
+div#multiColumn ul  {
   -moz-column-count: 2;
     -moz-column-gap: 20px;
     -webkit-column-count: 2;
