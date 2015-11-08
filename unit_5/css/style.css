@@ -232,8 +232,8 @@ section#talent li {
   float: left;
 }
 
-ul span.categories {
-  width: 50%; 
+#double li  { 
+  width:50%;
 }
 
 #client-news {
