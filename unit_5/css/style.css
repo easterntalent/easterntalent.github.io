@@ -220,14 +220,14 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 500px;
+  margin-bottom: 20px;
   display: block;
   float: center;
   font-family: 'Palanquin', serif;
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  width: 800px;
-  margin-bottom:20px;
+  width: 900px;
   overflow: hidden;
 }
 
@@ -235,11 +235,11 @@ section#talent li {
   padding-top: 20px;
   display: inline-block;
   line-height: 2.25em;
-  float: left;
+  float: center;
 }
 
 #double li  { 
-  width:50%;
+  width: 50%;
 }
 
 #client-news {
