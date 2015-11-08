@@ -211,7 +211,7 @@ section#talent {
 }
 
 section#talent a, a.visible {
-  color: #D3CBBD;
+  color: #FFF5E4;
   text-decoration: none;
 }
 
@@ -232,7 +232,7 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 400px;
-  display: block;
+  display: inline;
   float: center;
   font-family: 'Palanquin', serif;
   font-size: 22px;
