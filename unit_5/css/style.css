@@ -211,12 +211,14 @@ section#talent a, a.visible {
 }
 
 section#talent h2 {
+  margin-top: 30px;
   position: left;
   font-family: 'Palanquin', sans-serif;
   font-size: 60px;
   color: #FB9D29;
   text-align: center;
   text-transform: uppercase;
+  padding-bottom: 20px;
 }
 
 section#talent ul {
