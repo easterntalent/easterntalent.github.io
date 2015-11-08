@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Palanquin', sans-serif;
 	font-weight: 300;
 	font-weight: 400;
   height: auto !important;
@@ -28,11 +28,8 @@ body {
 	color: white;
 }
 
-a, a:visited {
-  text-decoration: none;
-}
-
-header {
+header, header a, header a.visited {
+  text-decoration: none;{
 	background: #403D3C;
 	height: 90px;
 	z-index: 170;
