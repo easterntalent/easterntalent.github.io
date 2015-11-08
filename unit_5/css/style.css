@@ -203,6 +203,7 @@ section#talent {
   width: 100%;
   height: 350px;
   padding: 50px;
+  text-shadow: 3px 3px 5px #000000;
 }
 
 section#talent a, a.visible {
