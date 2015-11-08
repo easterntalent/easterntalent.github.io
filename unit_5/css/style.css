@@ -194,8 +194,14 @@ section#intro p {
   font-family: 'Palanquin', sans-serif;
 }
 
+section#talent h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #FB9D29;
+  text-align: justify;
+}
+
 section#talent {
-  background: rgba(251,157,41,.8);
+  background: rgba(64,61,60,.7);
   color: #D3CBBD;
   margin-top: 100px;
   margin-bottom: 50px;
@@ -204,22 +210,21 @@ section#talent {
   padding: 50px;
 }
 
-div#multiColumn ul li {
-  padding: 20px;
-  position: relative;
-  margin: 0 0 40px 0;
-  font-size: 0.9rem;
-  padding-bottom: 1px;
-  -moz-column-count: 2;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 20px;
-    column-count: 2;
-    column-gap: 20px;
-    font-family: 'Palanquin', serif;
-    font-size: 22px;
-    list-style: none;
-    text-transform: uppercase;
+section#talent ul li {
+  font-family: 'Palanquin', serif;
+  font-size: 22px;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+#talent div.talent-left {
+  float: left;
+  text-align: left;
+}
+
+#talent div.talent-right {
+  float: right;
+  text-align: left;
 }
 
 #client-news {
