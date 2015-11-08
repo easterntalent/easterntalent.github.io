@@ -219,6 +219,7 @@ section#talent h2 {
 }
 
 section#talent ul {
+  display: block;
   float: center;
   font-family: 'Palanquin', serif;
   font-size: 22px;
