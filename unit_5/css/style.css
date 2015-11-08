@@ -220,7 +220,6 @@ section#talent h2 {
 
 section#talent ul {
   margin-left: 500px;
-  margin-bottom: 20px;
   display: block;
   float: center;
   font-family: 'Palanquin', serif;
@@ -228,6 +227,7 @@ section#talent ul {
   list-style: none;
   text-transform: uppercase;
   width: 900px;
+  margin-bottom:20px;
   overflow: hidden;
 }
 
@@ -235,7 +235,7 @@ section#talent li {
   padding-top: 20px;
   display: inline-block;
   line-height: 2.25em;
-  float: center;
+  float: left;
 }
 
 #double li  { 
