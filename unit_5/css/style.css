@@ -209,6 +209,7 @@ section#talent h2 {
   font-size: 50px;
   color: #FB9D29;
   text-align: justify;
+  float: center;
 }
 
 section#talent ul li {
@@ -218,12 +219,12 @@ section#talent ul li {
   text-transform: uppercase;
 }
 
-#talent div.talent-left {
+section#talent div.talent-left {
   float: left;
   text-align: left;
 }
 
-#talent div.talent-right {
+section#talent div.talent-right {
   float: right;
   text-align: left;
 }
