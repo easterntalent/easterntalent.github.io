@@ -220,11 +220,13 @@ section#talent ul li {
 }
 
 section#talent div.talent-left {
+  display: inline-block;
   float: left;
   text-align: left;
 }
 
 section#talent div.talent-right {
+  display: inline-block;
   float: right;
   text-align: left;
 }
