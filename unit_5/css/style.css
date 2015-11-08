@@ -212,10 +212,11 @@ section#talent a, a.visible {
 
 section#talent h2 {
   position: left;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Palanquin', sans-serif;
   font-size: 60px;
   color: #FB9D29;
   text-align: center;
+  text-transform: uppercase;
 }
 
 section#talent ul {
@@ -229,7 +230,6 @@ section#talent ul {
   width: 900px;
   margin-bottom:20px;
   overflow: hidden;
-  line-height: 80%;
 }
 
 section#talent li {
@@ -237,6 +237,7 @@ section#talent li {
   display: inline-block;
   line-height: 2.25em;
   float: left;
+  line-height: 65%;
 }
 
 #double li  { 
