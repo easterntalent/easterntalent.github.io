@@ -212,7 +212,7 @@ section#talent::backdrop {
   background-color: rgba(0,0,0,0.5);
 }
 
-div#multiColumn ul li a a:visited {
+div#multiColumn ul li a:visited {
   padding: 20px;
   position: relative;
   margin: 0 0 40px 0;
