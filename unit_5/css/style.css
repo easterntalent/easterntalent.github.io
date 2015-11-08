@@ -129,15 +129,15 @@ p {
 
 #congrats {
   display: block; 
-  border-radius width: 450px;
-  border-radius height: 235px;
+  width: 450px;
+  height: 225px;
   margin-right: 25px;
   margin-left: 75px;
   float: left;
   background: #456F74; 
   padding-bottom: 25;
   padding: 100px 20px 200px;
-  border: 2px solid black;   
+  border-radius: 2px solid black;   
   color: #1C1919;
 }
 
