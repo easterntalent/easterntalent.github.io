@@ -193,7 +193,7 @@ section#intro p {
 }
 
 section#talent div #wrapper {
-  border-width: 100% none 1px;
+  border-width: 100% top:solid none 1px;
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
