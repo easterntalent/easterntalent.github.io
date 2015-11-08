@@ -205,7 +205,7 @@ section#talent {
 
 section#talent a, a.visible {
   color: #D3CBBD;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 section#talent h2 {
