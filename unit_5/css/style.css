@@ -198,7 +198,7 @@ section#intro p {
 
 section#talent {
   background: rgba(64,61,60,.8);
-  margin-top: 75px;
+  margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
   height: 350px;
@@ -211,7 +211,6 @@ section#talent a, a.visible {
 }
 
 section#talent h2 {
-  margin-top: 30px;
   position: left;
   font-family: 'Palanquin', sans-serif;
   font-size: 60px;
@@ -230,7 +229,6 @@ section#talent ul {
   text-transform: uppercase;
   width: 900px;
   margin-bottom:20px;
-  overflow: hidden;
 }
 
 section#talent li {
