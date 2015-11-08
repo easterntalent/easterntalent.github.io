@@ -201,7 +201,7 @@ section#intro p {
 }
 
 section#talent {
-  background: #403D3C;
+  background: #736B6A;
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
@@ -243,16 +243,16 @@ section#talent ul {
   overflow: hidden;
 }
 
-#double li  { 
-  width: 50%;
-}
-
 section#talent li {
   padding: 10px;
-  display: inline-block;
+  display: block;
   line-height: 4em;
   float: left;
   line-height: 2;
+}
+
+#double li  { 
+  width: 50%;
 }
 
 section#talent li:hover > a {
