@@ -59,7 +59,7 @@ h3 h4 {
 
 p {
   font-size: 18px;
-  font-family: 'Archivo-Narrow', sans-serif;
+  font-family: 'Palanquin', sans-serif;
 }
 
 a, a.visible {
@@ -277,7 +277,7 @@ section#talent li:hover > a {
 	clear: both;
 }
 
-footer {
+footer p {
 	clear: both;	
   background: #456F74;
   font-family: 'Archivo Narrow', sans-serif;
