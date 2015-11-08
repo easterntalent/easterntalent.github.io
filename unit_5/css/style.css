@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	font-family: 'Palanquin', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
 	font-weight: 400;
   height: auto !important;
@@ -121,15 +121,14 @@ header div#logo {
 	float: left;
 }
 
-
 h2 h3 h4 {
   font-size: 30px;
-  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 p {
   font-size: 18px;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Palanquin', serif;
 }
 
 #congrats {
