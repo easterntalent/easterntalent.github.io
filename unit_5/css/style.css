@@ -52,7 +52,7 @@ header div#logo {
 	padding-bottom: 15px;
 }
 
-h2 h3 h4 {
+h3 h4 {
   font-size: 30px;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -126,12 +126,6 @@ a {
   color: #5D959C;
 }
 
-#text td p h1 h2 h3 h4 {
-	display: inline;
-  background-color: #AB9878;
-  width: 400px;
-}
-
 #congrats {
   display: block; 
   border-radius: 25px;
@@ -163,7 +157,7 @@ a {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
-  text-shadow: .15px .15px .20px #000000;
+  text-shadow: .15px .15px #000000;
 }
 
 #intro {
