@@ -163,6 +163,7 @@ a {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
+  text-shadow: 3px 3px 5px #000000;
 }
 
 #intro {
