@@ -127,7 +127,7 @@ header div#logo {
 
 h2 h3 h4 {
   font-size: 30px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 p {
@@ -154,12 +154,15 @@ p {
 }
 
 #congrats #text p {
-  position: center;
-  border: 3px solid #1C1919;
-  padding-left: 1px;
+  background: rgba(0,0,0,0.05);
+  padding: 20px;
+  position: relative;
+  margin: 0 0 40px 0;
+  font-size: 0.9rem;
+  /*padding-left: 1px;
   width: 430px;
   height: 150px;
-  border: #403D3C solid 3px;
+  border: #403D3C solid 3px;*/
   text-align: justify;
   font-family: 'Archivo Narrow', sans-serif;
   text-transform: uppercase;
