@@ -64,7 +64,7 @@ p {
 
 a {
   text-decoration: none;
-  color: ;
+  color: color: #FB9D29;
 }
 
 #menu,
@@ -208,15 +208,6 @@ section#talent div #wrapper {
   width: 100%;
   height: 350px;
   padding: 50px;
-}
-
-section#talent::backdrop {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0,0,0,0.5);
 }
 
 div#multiColumn ul li {
