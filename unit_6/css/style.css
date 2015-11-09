@@ -266,7 +266,7 @@ aside#twitter div#feed {
   background: #403D3C;
   width: 400px;
   height: 75%;
-  margin-left: 50px;
+  margin-left: 25px;
   border-radius: 25px;
 }
 
@@ -338,7 +338,7 @@ aside#twitter div#feed {
   display: inline-block;
   float:left;
   margin-left: 25px;
-  font-family: 'Palanquin', sans-serif;
+  font-family: 'Archivo-Narrow', sans-serif;
   font-size: 24px;
   position: left;
 }
