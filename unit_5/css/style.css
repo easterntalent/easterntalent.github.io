@@ -264,6 +264,7 @@ li.pdf {
 #client-news {
   padding-top: 50px;
   background: rgba(69, 111, 116, .1);
+  width: 100%;
 }
 
 #client-news h3 {
