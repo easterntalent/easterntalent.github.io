@@ -271,10 +271,11 @@ aside#twitter div#feed {
 }
 
 #client-news {
+  margin-left: 550px;
+  margin-right: 500px;
   float: left;
   display: block;
   background: #456F74;
-  margin-left: 100px;
   padding: 50px, 10px, 25px, 10px;
   width: 50%;
   height: 75%%;
