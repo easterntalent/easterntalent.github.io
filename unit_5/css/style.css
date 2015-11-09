@@ -339,7 +339,7 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
-  padding-left:15%;
+  padding-left: 150px
 }
 
 #contact div#map-la {
@@ -354,7 +354,7 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
-  padding-right: 15%;
+  padding-right: 150px;
 }
 
 #contact div#map-ny {
@@ -365,7 +365,8 @@ aside#twitter div#feed {
 }
 
 #representation {
-	clear: both;
+	float:right;
+
 }
 
 footer p {
