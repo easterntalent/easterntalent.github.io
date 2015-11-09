@@ -219,7 +219,7 @@ section#talent a, a.visible {
 }
 
 section#talent h2 {
-  margin-left: 250px;
+  margin-left: 150px;
   position: left;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 60px;
@@ -232,7 +232,7 @@ section#talent h2 {
 section#talent ul {
   float: left;
   position: relative;
-  margin-left: 500px;
+  margin-left: 400px;
   margin-bottom: 20px;
   margin-top: 10px;
   display: block;
