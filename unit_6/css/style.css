@@ -303,10 +303,11 @@ aside#twitter div#feed {
 }
 
 #client-news img {
-  display: inline-block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   padding: 40px;
+  position: center;
 }
 
 #contact h4 {
