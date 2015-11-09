@@ -256,7 +256,7 @@ section#talent li:hover > a {
   color: #FFF;
 }
 
-li.pdf {
+section#talent li#pdf {
   color: #456F74;
 }
 
@@ -265,7 +265,7 @@ section#client-news {
   display: inline-block; 
   float: left;
   padding-top: 50px;
-  background: rgba(69, 111, 116, .8);
+  background: #456F74;
   width: 50%;
 }
 
