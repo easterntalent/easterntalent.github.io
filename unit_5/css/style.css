@@ -158,7 +158,7 @@ a, a.visible {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
-  text-shadow: .1px .1px .1px #000000;
+  text-shadow: .05px .05px .1px #000000;
   word-spacing: .5;
 }
 
