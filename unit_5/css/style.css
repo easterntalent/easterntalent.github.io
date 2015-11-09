@@ -231,7 +231,7 @@ section#talent h2 {
 section#talent ul {
   float: left;
   position: relative;
-  margin-left: 200px;
+  margin-left: 400px;
   display: block;
   font-family: 'Palanquin', serif;
   font-size: 22px;
@@ -248,7 +248,7 @@ section#talent ul {
 section#talent > ul > li {
   padding: 10px;
   display: block;
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 section#talent li:hover > a {
