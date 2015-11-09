@@ -236,21 +236,19 @@ section#talent ul {
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  width: 900px;
+  width: 1100px;
   margin-bottom: 20px;
   overflow: hidden;
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  column-width: 900px;
 }
 
 section#talent > ul > li {
   padding: 10px;
   display: block;
-  line-height: 4em;
+  line-height: 2em;
   float: left;
-  line-height: 2;
 }
 
 #double li { 
