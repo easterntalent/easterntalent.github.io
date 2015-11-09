@@ -175,7 +175,7 @@ section#congrats #text:hover > a {
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
-  padding: 120px 60px 250px 40px;
+  padding: 120px 0px 250px 0px;
   border-radius: 25px;
 }
 
