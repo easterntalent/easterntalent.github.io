@@ -169,7 +169,7 @@ section#congrats #text:hover > a {
   margin-left: 500px;
   margin-right: 500px;
   margin-bottom: 75px;
-  display: block;
+  display: inline-block;
   width: 1000px;
   height: 225px;
   background: #1C1919;
@@ -261,9 +261,7 @@ li.pdf {
 }
 
 section#client-news {
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 75px;
+  margin: 75px, 50px, 50px, 75px;
   display: inline-block; 
   float: left;
   padding-top: 50px;
