@@ -344,7 +344,7 @@ aside#twitter div#feed {
 
 #contact div#map-la {
   display: inline-block;
-  float:right;
+  float:left;
   padding: 10px;
   position: below;
 }
@@ -359,7 +359,7 @@ aside#twitter div#feed {
 
 #contact div#map-ny {
   display: inline-block;
-  float:right;
+  float:left;
   padding: 10px;
   position: below;
 }
