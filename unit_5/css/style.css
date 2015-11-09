@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Rambla:400,400italic,700,700italic|Archivo+Narrow:400,400italic,700,700italic|Pragati+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Archivo+Narrow:400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
-@import url(https://fonts.googleapis.com/css?family=Oswald);
 html { 
     background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_5/images/gold_dark.jpg?raw=true') no-repeat center center fixed;
 	 -webkit-background-size: cover;
@@ -34,7 +33,7 @@ header {
 	z-index: 170;
   margin: 0 auto;
   border-bottom: 1px solid black;
-  width: 100%;
+  width: auto;
   position: fixed;
   top: 0;
   left: 0;
@@ -115,7 +114,7 @@ a, a.visible {
 	padding: 17px;
   font-size: 18px;
   letter-spacing: 1px;
-  word-spacing: 40px
+  word-spacing: 40px;
   text-decoration: none !important;
   color: #D3CBBD;
   font-weight: 400;
@@ -204,7 +203,7 @@ section#talent {
   background: #736B6A;
   margin-top: 50px;
   margin-bottom: 75px;
-  width: 100%;
+  width: auto;
   height: 350px;
   padding: 35px 50px 25px 50px;
   position: center;
@@ -331,7 +330,7 @@ aside#twitter div#feed {
   background: #1C1919;
   margin-top: 75px;
   margin-bottom: 75px;
-  width: 100%;
+  width: auto;
   height: 350px;
   padding: 35px 50px 25px 50px;
   position: center;
@@ -348,12 +347,12 @@ aside#twitter div#feed {
 
 #contact div#map-la {
   display: inline-block;
-  float:left, ;
+  float:left;
   padding: 10px; 
   position: below;
 }
 #contact div#ny-address {
-  display: inline-block;
+  display: block;
   float:left;
   margin-left: 10px;
   font-family: 'Palanquin', sans-serif;
@@ -362,7 +361,7 @@ aside#twitter div#feed {
 }
 
 #contact div#map-ny {
-  display: inline-block;
+  display: block;
   float:left;
   padding: 10px;
   position: below;
@@ -396,7 +395,7 @@ footer p {
   height: 75px;
   z-index: 170;
   border-top: 1px solid black;
-  width: 100%;
+  width:auto;
   top: 0;
   left: 0;
   right: 0;
