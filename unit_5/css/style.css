@@ -182,13 +182,10 @@ section#congrats #text:hover > a {
 }
 
 #intro h1 {
-  font-family: 'Roboto Condensed', sans-serif;
-  color: #FB9D29;
   text-align: center;
   text-shadow: 1px .5px #FF0000;
   font-size: 65px;
   line-height: 125%;
-  text-shadow: 2px 2px 4px #000000;
   padding-top: 5px;
   padding-bottom: 20px;
 }
@@ -221,9 +218,6 @@ section#talent a, a.visible {
 section#talent h2 {
   margin-left: 150px;
   position: left;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 60px;
-  color: #FB9D29;
   text-align: justify;
   padding-bottom: 20px;
   padding-top: 5px;
@@ -289,9 +283,6 @@ aside#twitter div#feed {
 #client-news h3 {
   margin-left: 25px;
   position: left;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 60px;
-  color: #FB9D29;
   text-align: justify;
   padding-bottom: 50px;
 }
