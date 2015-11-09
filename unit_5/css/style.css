@@ -339,13 +339,12 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
-  text-transform: uppercase;
   padding-left:25%;
 }
 
 #contact div#map-la {
   float:right;
-  padding: 25px;
+  padding: 20px;
 }
 #contact div#ny-address {
   display: inline-block;
@@ -353,12 +352,11 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
-  text-transform: uppercase;
   padding-right: 25%;
 }
 
 #contact div#map-ny {
-  float:left;
+  float:right;
   padding: 25px;
 }
 
