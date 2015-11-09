@@ -191,16 +191,13 @@ section#congrats #text:hover > a {
 }
 
 section#intro p {
+  background: rgba(115, 107, 106, .2);
+  background-width: 1000px;
   color: #D3CBBD;
   text-align: justify;
   padding: 20px 25px 15px 25px;
   font-size: 20px;
   font-family: 'Palanquin', sans-serif;
-}
-
-style#intro-pad.wrap {
-  background: rgba(115, 107, 106, .2);
-  background-width: 1000px;
 }
 
 section#talent {
@@ -241,6 +238,7 @@ section#talent ul {
   text-transform: uppercase;
   width: 1100px;
   overflow: hidden;
+  columns: 2;
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Firefox */
     column-count: 2;
@@ -248,12 +246,6 @@ section#talent ul {
     -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
     -moz-column-gap: 40px; /* Firefox */
     column-gap: 40px;
-}/*columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  -webkit-column-gap: 40px; 
-  -moz-column-gap: 40px; 
-  column-gap: 40px;*/
 }
 
 section#talent > ul > li {
