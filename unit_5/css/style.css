@@ -271,6 +271,7 @@ aside#twitter div#feed {
   margin-right: 100px;
   margin-bottom: 100px;
   border-radius: 25px;
+  border: 1px solid black;
 }
 
 #client-news {
@@ -282,6 +283,7 @@ aside#twitter div#feed {
   width: 50%;
   height: 75%%;
   border-radius: 25px;
+  border 
 }
 
 #client-news h3 {
