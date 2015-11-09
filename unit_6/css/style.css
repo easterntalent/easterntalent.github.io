@@ -235,7 +235,7 @@ section#talent ul {
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  width: 800px;
+  width: 650px;
      column-count: 2;
   -webkit-column-count: 2; 
     -moz-column-count: 2; 
@@ -276,7 +276,7 @@ aside#twitter div#feed {
   float: right;
   display: inline-block;
   background: #456F74;
-  margin-left: 100px;
+  margin-left: 75px;
   padding: 50px, 10px, 50px, 10px;
   width: 50%;
   height: 75%%;
