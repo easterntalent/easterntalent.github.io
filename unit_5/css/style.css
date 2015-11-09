@@ -198,7 +198,7 @@ section#intro p {
   font-family: 'Palanquin', sans-serif;
 }
 
-style#intro-pad {
+style#intro-pad.wrap {
   background: rgba(115, 107, 106, .2);
   background-width: 1000px;
 }
