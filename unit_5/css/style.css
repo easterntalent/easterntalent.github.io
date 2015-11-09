@@ -273,11 +273,11 @@ aside#twitter div#feed {
   border-radius: 25px;
 }
 
-section.#client-news {
+#client-news {
   float: left;
+  display: inline-block;
   background: #456F74;
-  margin: 75px, 25px, 50px, 0px;
-  display: inline-block; 
+  margin: 75px, 25px, 50px, 0px; 
   padding-top: 50px;
   width: 400px;
   height: 100%;
