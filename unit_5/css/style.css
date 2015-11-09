@@ -335,9 +335,26 @@ aside#twitter div#feed {
 }
 
 #contact div#la-address {
+  display: inline-block;
+  float:left;
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
+}
+
+#contact div#map-la {
+  float:right;
+}
+#contact div#ny-address {
+  display: inline-block;
+  float:left;
+  margin-left: 25px;
+  font-family: 'Palanquin', sans-serif;
+  font-size: 24px;
+}
+
+#contact div#map-la {
+  float:left;
 }
 
 #representation {
