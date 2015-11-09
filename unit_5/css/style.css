@@ -200,6 +200,8 @@ section#intro p {
   padding-bottom: 10px;
   font-size: 20px;
   font-family: 'Palanquin', sans-serif;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 section#talent {
