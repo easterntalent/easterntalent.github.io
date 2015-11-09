@@ -168,6 +168,7 @@ section#congrats #text:hover > a {
 #intro {
   margin-left: 500px;
   margin-right: 500px;
+  margin-bottom: 50px;
   display: block;
   width: 1000px;
   height: 225px;
