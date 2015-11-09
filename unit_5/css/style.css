@@ -239,6 +239,9 @@ section#talent ul {
   width: 900px;
   margin-bottom: 20px;
   overflow: hidden;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
 section#talent > ul > li {
