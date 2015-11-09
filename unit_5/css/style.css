@@ -194,6 +194,7 @@ section#congrats #text:hover > a {
 section#intro p {
   color: #D3CBBD;
   background: rgba(115, 107, 106, .2);
+  background-width: 100%;
   text-align: justify;
   padding: 15px 15px 10px 25px;
   padding-top: 15px;
@@ -231,7 +232,7 @@ section#talent h2 {
 section#talent ul {
   float: left;
   position: relative;
-  margin-left: 300px;
+  margin-left: 400px;
   margin-bottom: 20px;
   margin-top: 10px;
   display: block;
