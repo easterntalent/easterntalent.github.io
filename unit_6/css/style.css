@@ -32,7 +32,7 @@ header {
 	height: 90px;
 	z-index: 170;
   margin: 0 auto;
-  border-bottom: 1px solid black;
+  border-bottom: 3px solid #FB9D29;
   width: auto;
   position: fixed;
   top: 0;
