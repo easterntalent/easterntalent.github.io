@@ -293,6 +293,7 @@ aside#twitter div#feed {
   text-align: justify;
   text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
+  padding-top: 5px;
 }
 
 #client-news p {
