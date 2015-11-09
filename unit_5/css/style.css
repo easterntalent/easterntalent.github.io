@@ -234,7 +234,6 @@ section#talent ul {
   position: relative;
   margin-left: 400px;
   margin-bottom: 20px;
-  margin-top: 10px;
   display: block;
   font-family: 'Palanquin', serif;
   font-size: 22px;
@@ -248,7 +247,7 @@ section#talent ul {
 }
 
 section#talent > ul > li {
-  padding: 10px;
+  padding: 5px;
   display: block;
   line-height: 1.5em;
 }
