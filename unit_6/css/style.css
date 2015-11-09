@@ -270,8 +270,8 @@ aside#twitter div#feed {
 }
 
 #client-news {
-  float: right;
-  display: inline-block;
+  float: left;
+  display: block;
   background: #456F74;
   margin-left: 50px;
   padding: 50px, 10px, 25px, 10px;
