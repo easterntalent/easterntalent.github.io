@@ -261,7 +261,7 @@ section#talent li#pdf {
 }
 
 aside#twitter div#feed {
-  display: block;
+  display: inline-block;
   float: left;
   padding: 15px;
   background: #FB9D29;
