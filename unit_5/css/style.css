@@ -296,7 +296,7 @@ section#client-news img {
   padding-top: 50px;
 }
 
-section#twitter div#feed {
+aside#twitter div#feed {
   display: block;
   float: right;
   padding-top: 50px;
