@@ -253,7 +253,7 @@ section#talent > ul > li {
   line-height: 1.5em;
 }
 
-section#talent li.pdf {
+section#talent ul li#pdf {
   color: #456F74;
 }
 
