@@ -290,6 +290,11 @@ section#client-news {
   padding-top: 5px;
 }
 
+section#client-news img {
+  position: center;
+  padding: 10px;
+}
+
 #client-news div.twitter {
   float-right;
   display: block; 
