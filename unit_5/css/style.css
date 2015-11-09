@@ -262,7 +262,7 @@ section#talent li#pdf {
 
 aside#twitter div#feed {
   display: block;
-  float: left;
+  float: right;
   padding: 15px;
   background: #FB9D29;
   width: 30%;
