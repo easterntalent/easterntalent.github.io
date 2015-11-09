@@ -257,7 +257,7 @@ section#talent li:hover > a {
   color: #FFF;
 }
 
-section#talent li.pdf {
+li.pdf {
   color: #456F74;
 }
 
