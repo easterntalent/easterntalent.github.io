@@ -343,8 +343,9 @@ aside#twitter div#feed {
 }
 
 #contact div#map-la {
+  display: inline-block;
   float:right;
-  padding: 20px;
+  padding: 10px;
 }
 #contact div#ny-address {
   display: inline-block;
@@ -356,8 +357,9 @@ aside#twitter div#feed {
 }
 
 #contact div#map-ny {
+  display: inline-block;
   float:right;
-  padding: 25px;
+  padding: 10px;
 }
 
 #representation {
