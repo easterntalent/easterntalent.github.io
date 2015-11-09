@@ -281,7 +281,6 @@ aside#twitter div#feed {
   background: #456F74;
   width: 50%;
   border-radius: 25px;
-  word-spacing: .25;
 }
 
 #client-news h3 {
@@ -315,7 +314,7 @@ aside#twitter div#feed {
   position: right;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 60px;
-  color: #FB9D29;
+  color: #1C1919;
   text-align: justify;
   text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
@@ -325,16 +324,16 @@ aside#twitter div#feed {
   display: inline-block;
   margin-top: 75px;
   margin-left: 0px;
-  width: 50%;
+  width: 400px;
   height: 100%;
   background: rgba(251, 157, 41, .5);
 }
 
-#contact div {
+#contact div#la-address {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 22px;
-  color: #D3CBBD;
+  color: #403D3C;
 }
 
 #representation {
