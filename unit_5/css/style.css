@@ -269,7 +269,7 @@ section#client-news {
 }
 
 #client-news h3 {
-  margin-left: 150px;
+  margin-left: 75px;
   position: left;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 60px;
@@ -296,7 +296,7 @@ section#client-news img {
   padding-top: 50px;
 }
 
-section#twitter div.feed {
+section#twitter div#feed {
   display: block;
   float: right;
   padding-top: 50px;
