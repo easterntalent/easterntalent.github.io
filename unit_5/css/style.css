@@ -129,7 +129,7 @@ a, a.visible {
 #congrats {
   display: block; 
   border-radius: 25px;
-  width: 450px;
+  width: 375px;
   height: 225px;
   margin-right: 25px;
   margin-left: 75px;
@@ -167,7 +167,7 @@ section#congrats #text:hover > a {
 }
 
 #intro {
-  margin-left: 630px;
+  margin-left: 600px;
   margin-right: 600px;
   display: block;
   width: 800px;
