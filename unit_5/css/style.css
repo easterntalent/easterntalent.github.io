@@ -341,10 +341,12 @@ aside#twitter div#feed {
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
   text-transform: uppercase;
+  padding-left:25%;
 }
 
 #contact div#map-la {
   float:right;
+  padding: 25px;
 }
 #contact div#ny-address {
   display: inline-block;
@@ -353,10 +355,12 @@ aside#twitter div#feed {
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
   text-transform: uppercase;
+  padding-right: 25%;
 }
 
-#contact div#map-la {
+#contact div#map-ny {
   float:left;
+  padding: 25px;
 }
 
 #representation {
