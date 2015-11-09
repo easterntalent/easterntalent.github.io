@@ -253,6 +253,10 @@ section#talent > ul > li {
   line-height: 1.5em;
 }
 
+section#talent li.pdf {
+  color: #456F74;
+}
+
 section#talent li:hover > a {
   color: #FFF;
 }
