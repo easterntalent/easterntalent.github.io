@@ -278,7 +278,7 @@ aside#twitter div#feed {
   display: inline-block;
   background: #456F74;
   margin-left: 100px;
-  padding-top: 50px;
+  padding: 50px, 10px, 50px, 10px;
   width: 50%;
   height: 75%%;
   border-radius: 25px;
