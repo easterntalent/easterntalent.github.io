@@ -262,8 +262,8 @@ section#talent li.pdf a {
 
 aside#twitter div#feed {
   float: left;
-  display: inline-block;
-  padding: 15px;
+  display: block;
+  /*padding: 15px;*/
   background: #403D3C;
   width: 400px;
   height: 75%;
