@@ -292,7 +292,7 @@ section#client-news {
 
 section#client-news img {
   position: center;
-  padding: 10px;
+  padding: 20px, 0px, 60px, 20px;
 }
 
 #contact {
