@@ -282,7 +282,7 @@ section#client-news {
 }
 
 #client-news p {
-  background: rgba(115, 107, 106, .4);
+  background: rgba(115, 107, 106, .9);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
