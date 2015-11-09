@@ -258,7 +258,7 @@ section#talent li#pdf {
 
 aside#twitter div#feed {
   display: block;
-  float: left;
+  float: right;
   padding: 15px;
   background: #FB9D29;
   width: 30%;
@@ -272,7 +272,7 @@ aside#twitter div#feed {
 #client-news {
   margin: 75px, 25px, 50px, 125px;
   display: inline-block; 
-  float: left;
+  float: right;
   padding-top: 50px;
   background: #456F74;
   width: 50%;
