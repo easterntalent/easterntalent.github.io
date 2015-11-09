@@ -325,8 +325,8 @@ aside#twitter div#feed {
   display: inline-block;
   margin-top: 75px;
   margin-left: 0px;
-  width: 800px;
-  height: 800px;
+  width: 50%;
+  height: 100%;
   background: rgba(251, 157, 41, .5);
 }
 
