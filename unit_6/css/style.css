@@ -129,7 +129,7 @@ a, a.visible {
   display: block; 
   border-radius: 25px;
   width: 400px;
-  height: 225px;
+  height: 300px;
   margin-right: 20px;
   margin-left: 50px;
   float: left;
@@ -167,7 +167,7 @@ section#congrats #text:hover > a {
 #intro {
   margin-left: 550px;
   margin-right: 500px;
-  margin-bottom: 75px;
+  margin-bottom: 150px;
   display: block;
   width: 1000px;
   height: 225px;
@@ -202,7 +202,7 @@ section#intro p {
 section#talent {
   background: #736B6A;
   margin-top: 50px;
-  margin-bottom: 75px;
+  margin-bottom: 150px;
   width: auto;
   height: 350px;
   padding: 35px 50px 25px 50px;
@@ -282,7 +282,7 @@ aside#twitter div#feed {
   width: 50%;
   height: 75%%;
   border-radius: 25px;
-  border 
+  margin-bottom: 150px;
 }
 
 #client-news h3 {
@@ -329,7 +329,7 @@ aside#twitter div#feed {
   display: inline-block;
   background: #1C1919;
   margin-top: 75px;
-  margin-bottom: 75px;
+  margin-bottom: 100px;
   width: auto;
   height: 350px;
   padding: 35px 50px 25px 50px;
