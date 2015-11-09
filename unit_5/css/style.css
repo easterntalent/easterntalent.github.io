@@ -183,7 +183,6 @@ section#congrats #text:hover > a {
   font-family: 'Roboto Condensed', sans-serif;
   color: #FB9D29;
   text-align: center;
-  text-shadow: 1px .5px #FF0000;
   font-size: 65px;
   line-height: 125%;
   text-shadow: 2px 2px 4px #000000;
@@ -223,7 +222,7 @@ section#talent h2 {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px #FF0000;
+  text-shadow: 2px 2px 4px #000000;
   padding-bottom: 20px;
   padding-top: 5px;
 }
@@ -292,7 +291,7 @@ aside#twitter div#feed {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px #FF0000;
+  text-shadow: 2px 2px 4px #000000;
   padding-bottom: 50px;
 }
 
