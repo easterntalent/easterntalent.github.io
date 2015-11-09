@@ -169,6 +169,7 @@ section#congrats #text:hover > a {
   margin-left: 500px;
   margin-right: 500px;
   margin-bottom: 75px;
+  margin-top: 0px;
   display: inline-block;
   width: 1000px;
   height: 225px;
