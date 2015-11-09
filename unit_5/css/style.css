@@ -296,7 +296,7 @@ aside#twitter div#feed {
 }
 
 #client-news p {
-  background: rgba(115, 107, 106, .07);
+  background: rgba(115, 107, 106, .1);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
