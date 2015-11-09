@@ -240,12 +240,19 @@ section#talent ul {
   text-transform: uppercase;
   width: 1100px;
   overflow: hidden;
-  columns: 2;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+}/*columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
   -webkit-column-gap: 40px; 
   -moz-column-gap: 40px; 
-  column-gap: 40px;
+  column-gap: 40px;*/
 }
 
 section#talent > ul > li {
