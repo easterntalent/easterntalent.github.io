@@ -298,11 +298,12 @@ section#client-news img {
 aside#twitter div#feed {
   display: block;
   float: left;
-  padding-top: 50px;
+  padding: 50px;
   background: rgba(69, 111, 116, .7);
   width: 30%;
   margin-left: 50px;
   margin-right: 50px;
+  border-radius: 25px;
 }
 
 #contact {
