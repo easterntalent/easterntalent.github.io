@@ -270,15 +270,6 @@ section#client-news {
   margin-right: 50px;
 }
 
-#client-news p {
-  text-align: justify;
-  font-family: 'Palanquin', sans-serif;
-  text-transform: uppercase;
-  color: #1C1919; 
-  padding: 25px;
-
-}
-
 #client-news h3 {
   margin-left: 150px;
   position: left;
@@ -288,6 +279,15 @@ section#client-news {
   text-align: justify;
   padding-bottom: 20px;
   padding-top: 5px;
+}
+
+#client-news p {
+  background: rgba(115, 107, 106, .2);
+  text-align: justify;
+  font-family: 'Palanquin', sans-serif;
+  text-transform: uppercase;
+  color: #1C1919; 
+  padding: 25px;
 }
 
 section#client-news img {
