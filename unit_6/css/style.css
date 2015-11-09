@@ -261,13 +261,13 @@ section#talent li.pdf a {
 }
 
 aside#twitter div#feed {
-  float: right;
+  float: left;
   display: block;
   padding: 15px;
   background: #403D3C;
   width: 400px;
   height: 75%;
-  margin-left: 25px;
+  margin-left: 50px;
   border-radius: 25px;
 }
 
