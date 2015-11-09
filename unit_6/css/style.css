@@ -260,7 +260,7 @@ section#talent li.pdf a {
   color: #456F74;
 }
 
-/*aside#twitter div#feed {
+aside#twitter div#feed {
   float: left;
   display: block;
   padding: 15px;
@@ -270,10 +270,10 @@ section#talent li.pdf a {
   margin-left: 50px;
   border-radius: 25px;
 }
-*/
+
 #client-news {
   margin-left: 550px;
-  margin-right: 200px;
+  /*margin-right: 200px;*/
   position: top;
   float: right;
   display: block;
