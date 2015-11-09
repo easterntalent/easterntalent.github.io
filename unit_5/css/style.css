@@ -277,7 +277,7 @@ aside#twitter div#feed {
   float: right;
   display: inline-block;
   background: #456F74;
-  margin-left: 150px;
+  margin-left: 100px;
   padding: 50px, 10px, 50px, 10px;
   width: 50%;
   height: 75%%;
@@ -300,7 +300,7 @@ aside#twitter div#feed {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919; 
-  padding: 25px;
+  padding: 40px;
   text-transform: uppercase;
 }
 
