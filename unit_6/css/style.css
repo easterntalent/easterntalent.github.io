@@ -1,0 +1,412 @@
+@import url(https://fonts.googleapis.com/css?family=Palanquin:400,500,600,700|Archivo+Narrow:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+html { 
+    background: url('https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_5/images/gold_dark.jpg?raw=true') no-repeat center center fixed;
+	 -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+}
+
+* {
+  margin: 0;
+  padding: 0 auto;
+}
+
+body {
+	font-family: 'Archivo-Narrow', sans-serif;
+	font-weight: 300;
+	font-weight: 400;
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+  text-rendering: optimizeLegibility;
+	color: #D3CBBD;
+}
+
+header {
+	background: #403D3C;
+	height: 90px;
+	z-index: 170;
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+  width: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header div#logo {
+  background-color: transparent;
+  line-height: 90px;
+  width: 200px;
+	height: 200px;
+	float: left;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+
+h3 h4 h5 {
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'Palanquin', sans-serif;
+}
+
+a, a.visible {
+  text-decoration: none;
+  color: #FB9D29;
+}
+
+#menu,
+#menu ul,
+#menu ul li,
+#menu ul li a,
+#menu #menu-button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 2;
+  display: block;
+  position: relative;
+  text-decoration: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#menu #menu-button {
+	display: none;
+}
+
+#menu {
+	font-family: 'Archivo Narrow', sans-serif;
+	background: #403D3C;
+}
+	
+#menu > ul > li {
+	float: right;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 40px;
+}
+
+#menu.align-center > ul {
+  font-size: 0;
+  text-align: center;
+}
+
+#menu.align-center > ul > li {
+  display: inline-block;
+  float: none;
+}
+
+#menu > ul > li > a {
+	padding: 17px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  word-spacing: 40px;
+  text-decoration: none !important;
+  color: #D3CBBD;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+#menu > ul > li:hover > a {
+  color: #FFF5E4;
+}
+
+#congrats {
+  display: block; 
+  border-radius: 25px;
+  width: 400px;
+  height: 225px;
+  margin-right: 20px;
+  margin-left: 50px;
+  float: left;
+  background: #456F74; 
+  padding-bottom: 25;
+  padding: 100px 20px 200px;   
+  color: #1C1919;
+}
+
+#congrats #highlightPic {
+  position: top center;
+  padding: 10px;
+}
+
+#congrats #text {
+  padding-bottom: 20px;
+}
+
+#congrats #text p {
+  background: rgba(0,0,0,.07);
+  padding: 10px 15px 10px 20px;
+  position: relative;
+  margin: 0 0 40px 0;
+  font-size: .9em;
+  text-align: justify;
+  font-family: 'Palanquin', sans-serif;
+  text-transform: uppercase;
+  word-spacing: .25;
+}
+
+section#congrats #text:hover > a {
+  color: #E57323;
+}
+
+#intro {
+  margin-left: 550px;
+  margin-right: 500px;
+  margin-bottom: 75px;
+  display: block;
+  width: 1000px;
+  height: 225px;
+  background: #1C1919;
+  line-height: 1.5;
+  text-align: left;
+  padding: 120px 0px 250px 0px;
+  border-radius: 25px;
+}
+
+#intro h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #FB9D29;
+  text-align: center;
+  font-size: 65px;
+  line-height: 125%;
+  text-shadow: 1px .5px 4px #000000;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
+section#intro p {
+  background: rgba(115, 107, 106, .3);
+  background-width: 1000px;
+  color: #D3CBBD;
+  text-align: justify;
+  padding: 20px 25px 15px 25px;
+  font-size: 20px;
+  font-family: 'Palanquin', sans-serif;
+}
+
+section#talent {
+  background: #736B6A;
+  margin-top: 50px;
+  margin-bottom: 75px;
+  width: auto;
+  height: 350px;
+  padding: 35px 50px 25px 50px;
+  position: center;
+}
+
+section#talent a, a.visible {
+  color: #FFF5E4;
+  text-decoration: none;
+}
+
+section#talent h2 {
+  margin-left: 150px;
+  position: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+  color: #FB9D29;
+  text-align: justify;
+  text-shadow: 1px .5px 4px #000000;
+  padding-bottom: 20px;
+  padding-top: 5px;
+}
+
+section#talent ul {
+  float: left;
+  position: relative;
+  margin-left: 375px;
+  margin-bottom: 20px;
+  display: block;
+  font-family: 'Palanquin', serif;
+  font-size: 22px;
+  list-style: none;
+  text-transform: uppercase;
+  width: 800px;
+     column-count: 2;
+  -webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    -webkit-column-gap: 25px; 
+    -moz-column-gap: 25px; 
+    column-gap: 25px;
+}
+
+section#talent > ul > li {
+  padding: 5px;
+  display: block;
+  line-height: 1.75em;
+}
+
+section#talent li:hover > a {
+  color: #FFF;
+}
+
+section#talent li#pdf {
+  color: #456F74;
+}
+
+aside#twitter div#feed {
+  float: right;
+  display: block;
+  padding: 15px;
+  background: #FB9D29;
+  width: 30%;
+  height: auto;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+
+#client-news {
+  float: right;
+  display: inline-block;
+  background: #456F74;
+  margin-left: 100px;
+  padding: 50px, 10px, 50px, 10px;
+  width: 50%;
+  height: 75%%;
+  border-radius: 25px;
+  border 
+}
+
+#client-news h3 {
+  margin-left: 25px;
+  position: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+  color: #FB9D29;
+  text-align: justify;
+  text-shadow: 1px .5px 4px #000000;
+  padding-bottom: 50px;
+  padding-top: 5px;
+}
+
+#client-news p {
+  background: rgba(115, 107, 106, .5);
+  text-align: justify;
+  font-family: 'Palanquin', sans-serif;
+  color: #1C1919; 
+  padding: 40px;
+  text-transform: uppercase;
+}
+
+#client-news img {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+#contact h4 {
+  margin-left: 25px;
+  position: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+  color: #FB9D29;
+  text-align: justify;
+  text-shadow: 1px .5px 4px #000000;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+#contact {
+  display: inline-block;
+  background: #1C1919;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  width: auto;
+  height: 350px;
+  padding: 35px 50px 25px 50px;
+  position: center;
+}
+
+#contact div#la-address {
+  display: inline-block;
+  float:left;
+  margin-left: 25px;
+  font-family: 'Palanquin', sans-serif;
+  font-size: 24px;
+  padding-left: 100px
+}
+
+#contact div#map-la {
+  display: inline-block;
+  float:left;
+  padding: 10px; 
+  position: below;
+}
+#contact div#ny-address {
+  display: block;
+  float:left;
+  margin-left: 10px;
+  font-family: 'Palanquin', sans-serif;
+  font-size: 24px;
+  padding
+}
+
+#contact div#map-ny {
+  display: block;
+  float:left;
+  padding: 10px;
+  position: below;
+}
+
+#representation {
+	display: inline-block;
+  float:right;
+}
+
+section.#representation #rep-title {
+  margin-left: 25px;
+  position: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 60px;
+  color: #FB9D29;
+  text-align: justify;
+  text-shadow: 1px .5px 4px #000000;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+section.#representation p {
+  text-transform: uppercase;
+}
+
+footer p {
+	clear: both;	
+  background: #456F74;
+  font-family: 'Archivo Narrow', sans-serif;
+  height: 75px;
+  z-index: 170;
+  border-top: 1px solid black;
+  width:auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  color: #D3CBBD;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
