@@ -129,10 +129,10 @@ a, a.visible {
 #congrats {
   display: block; 
   border-radius: 25px;
-  width: 375px;
+  width: 400px;
   height: 225px;
-  margin-right: 25px;
-  margin-left: 50px;
+  margin-right: 20px;
+  margin-left: 0px;
   float: left;
   background: #456F74; 
   padding-bottom: 25;
@@ -168,9 +168,9 @@ section#congrats #text:hover > a {
 
 #intro {
   margin-left: 500px;
-  margin-right: 600px;
+  margin-right: 500px;
   display: block;
-  width: 900px;
+  width: 1000px;
   height: 225px;
   background: #1C1919;
   line-height: 1.5;
@@ -194,7 +194,7 @@ section#congrats #text:hover > a {
 section#intro p {
   color: #D3CBBD;
   background: rgba(115, 107, 106, .2);
-  background-width: 100%;
+  background-width: 1000px;
   text-align: justify;
   padding: 15px 15px 10px 25px;
   padding-top: 15px;
