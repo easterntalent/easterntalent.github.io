@@ -286,6 +286,14 @@ li.pdf {
   padding-top: 5px;
 }
 
+#client-news div.twitter {
+  float-right;
+  display: inline-block; 
+  padding-top: 50px;
+  background: rgba(69, 111, 116, .7);
+  width: 40%;
+}
+
 #contact {
   padding-top: 50px;
 }
