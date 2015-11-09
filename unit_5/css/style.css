@@ -249,7 +249,7 @@ section#talent ul {
 section#talent > ul > li {
   padding: 5px;
   display: block;
-  line-height: 1.5em;
+  line-height: 1.75em;
 }
 
 section#talent li:hover > a {
