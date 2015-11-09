@@ -280,7 +280,7 @@ section#client-news {
 }
 
 #client-news p {
-  background: rgba(115, 107, 106, .9);
+  background: rgba(115, 107, 106, .7);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
