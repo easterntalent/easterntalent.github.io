@@ -325,6 +325,7 @@ aside#twitter div#feed {
 }
 
 #contact {
+  float: left;
   display: inline-block;
   background: #1C1919;
   margin-top: 75px;
