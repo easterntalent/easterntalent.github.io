@@ -223,6 +223,7 @@ section#talent h2 {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
+  text-shadow: 1px .5px #FF0000;
   padding-bottom: 20px;
   padding-top: 5px;
 }
@@ -291,6 +292,7 @@ aside#twitter div#feed {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
+  text-shadow: 1px .5px #FF0000;
   padding-bottom: 50px;
 }
 
