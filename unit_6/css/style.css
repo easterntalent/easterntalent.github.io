@@ -339,7 +339,7 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
-  padding-left: 100px
+  position: left;
 }
 
 #contact div#map-la {
