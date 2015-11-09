@@ -370,7 +370,7 @@ aside#twitter div#feed {
   float:right;
 }
 
-#representation h5 {
+section.#representation #rep-title {
   margin-left: 25px;
   position: right;
   font-family: 'Roboto Condensed', sans-serif;
@@ -380,6 +380,10 @@ aside#twitter div#feed {
   text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
   padding-top: 10px;
+}
+
+section.#representation p {
+  text-transform: uppercase;
 }
 
 footer p {
