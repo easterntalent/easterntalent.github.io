@@ -261,13 +261,14 @@ li.pdf {
 }
 
 section#client-news {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 75px;
   display: inline-block; 
   float: left;
   padding-top: 50px;
   background: rgba(69, 111, 116, .8);
   width: 50%;
-  margin-left: 50px;
-  margin-right: 50px;
 }
 
 #client-news h3 {
