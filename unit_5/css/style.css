@@ -269,12 +269,12 @@ aside#twitter div#feed {
   height: auto;
   margin-top: auto;
   margin-left: 50px;
-  margin-right: 60px;
+  margin-right: 25px;
   border-radius: 25px;
 }
 
 #client-news {
-  margin: 75px, 25px, 50px, 25px;
+  margin: 75px, 25px, 50px, 0px;
   display: inline-block; 
   float: right;
   padding-top: 50px;
