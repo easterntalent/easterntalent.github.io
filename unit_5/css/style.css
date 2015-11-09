@@ -346,6 +346,7 @@ aside#twitter div#feed {
   display: inline-block;
   float:right;
   padding: 10px;
+  position: below;
 }
 #contact div#ny-address {
   display: inline-block;
@@ -360,6 +361,7 @@ aside#twitter div#feed {
   display: inline-block;
   float:right;
   padding: 10px;
+  position: below;
 }
 
 #representation {
