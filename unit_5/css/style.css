@@ -260,6 +260,19 @@ section#talent li#pdf {
   color: #456F74;
 }
 
+aside#twitter div#feed {
+  display: block;
+  float: left;
+  padding: 15px;
+  background: #FB9D29;
+  width: 30%;
+  height: auto;
+  margin-top: 200px;
+  margin-left: 50px;
+  margin-right: 60px;
+  border-radius: 25px;
+}
+
 section#client-news {
   margin: 75px, 50px, 50px, 75px;
   display: inline-block; 
@@ -292,19 +305,6 @@ section#client-news img {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-}
-
-aside#twitter div#feed {
-  display: block;
-  float: left;
-  padding: 15px;
-  background: #FB9D29;
-  width: 30%;
-  height: auto;
-  margin-top: 200px;
-  margin-left: 50px;
-  margin-right: 60px;
-  border-radius: 25px;
 }
 
 #contact {
