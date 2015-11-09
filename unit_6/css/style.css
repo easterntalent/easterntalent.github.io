@@ -232,7 +232,8 @@ section#talent ul {
   margin-left: 375px;
   margin-bottom: 20px;
   display: block;
-  font-family: 'Palanquin', serif;
+  /*font-family: 'Palanquin', serif;*/
+  font-family: 'Archivo-Narrow', sans-serif;
   font-size: 24px;
   list-style: none;
   text-transform: uppercase;
