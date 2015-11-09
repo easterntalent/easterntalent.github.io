@@ -297,7 +297,7 @@ section#client-news img {
   padding-top: 50px;
 }
 
-div#feed {
+section#twitter div#feed {
   float: right;
   padding-top: 50px;
   background: rgba(69, 111, 116, .7);
