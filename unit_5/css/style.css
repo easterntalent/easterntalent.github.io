@@ -340,6 +340,7 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
+  text-transform: uppercase;
 }
 
 #contact div#map-la {
@@ -351,6 +352,7 @@ aside#twitter div#feed {
   margin-left: 25px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
+  text-transform: uppercase;
 }
 
 #contact div#map-la {
