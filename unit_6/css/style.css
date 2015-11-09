@@ -184,7 +184,6 @@ section#congrats #text:hover > a {
   text-align: center;
   font-size: 65px;
   line-height: 125%;
-  text-shadow: 1px .5px 4px #000000;
   padding-top: 5px;
   padding-bottom: 20px;
 }
@@ -221,7 +220,6 @@ section#talent h2 {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px 4px #000000;
   padding-bottom: 20px;
   padding-top: 5px;
 }
@@ -292,7 +290,6 @@ aside#twitter div#feed {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
   padding-top: 5px;
 }
@@ -320,7 +317,6 @@ aside#twitter div#feed {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
   padding-top: 10px;
 }
@@ -379,7 +375,6 @@ section.#representation #rep-title {
   font-size: 60px;
   color: #FB9D29;
   text-align: justify;
-  text-shadow: 1px .5px 4px #000000;
   padding-bottom: 50px;
   padding-top: 10px;
 }
