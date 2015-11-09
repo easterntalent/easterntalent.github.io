@@ -261,6 +261,7 @@ li.pdf {
 
 section#client-news {
   display: inline-block; 
+  float: left;
   padding-top: 50px;
   background: rgba(69, 111, 116, .8);
   width: 50%;
@@ -294,7 +295,7 @@ section#client-news img {
 
 aside#twitter div#feed {
   display: block;
-  float: right;
+  float: left;
   padding-top: 50px;
   background: rgba(69, 111, 116, .7);
   width: 30%;
