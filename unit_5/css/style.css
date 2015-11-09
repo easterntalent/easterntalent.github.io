@@ -264,7 +264,7 @@ li.pdf {
 section#client-news {
   display: inline-block; 
   padding-top: 50px;
-  background: rgba(69, 111, 116, .7);
+  background: rgba(69, 111, 116, .);
   width: 50%;
   margin-left: 50px;
   margin-right: 50px;
@@ -282,7 +282,7 @@ section#client-news {
 }
 
 #client-news p {
-  background: rgba(115, 107, 106, .2);
+  background: rgba(115, 107, 106, .4);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
