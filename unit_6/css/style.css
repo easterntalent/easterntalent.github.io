@@ -140,7 +140,7 @@ a, a.visible {
 }
 
 #congrats div.highlightpic {
-  padding: 25px;
+  margin: 25px;
 }
 
 #congrats #text {
