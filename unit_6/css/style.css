@@ -238,7 +238,7 @@ section#talent ul {
   font-size: 24px;
   list-style: none;
   text-transform: uppercase;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   width: 725px;
      column-count: 2;
   -webkit-column-count: 2; 
@@ -265,7 +265,6 @@ section#talent > li#pdf {
 aside#twitter div#feed {
   float: left;
   display: block;
-  /*padding: 15px;*/
   width: 400px;
   height: 75%;
   margin-left: 150px;
