@@ -131,7 +131,7 @@ a, a.visible {
   width: 400px;
   height: 200px;
   margin-right: 20px;
-  margin-left: 50px;
+  margin-left: 0px;
   float: left;
   background: #456F74; 
   padding-bottom: 25;
