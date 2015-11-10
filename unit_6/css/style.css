@@ -194,7 +194,11 @@ section#intro p {
   text-align: justify;
   padding: 20px 25px 25px 25px;
   font-size: 20px;
-  font-family: 'Palanquin', sans-serif;
+  font-family: 'Palanquin', sans-serif; 
+}
+
+section#intro div#intro-para {
+  padding-bottom: 0px;
 }
 
 section#talent {
