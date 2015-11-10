@@ -204,7 +204,7 @@ section#talent {
   margin-bottom: 150px;
   width: auto;
   height: 350px;
-  padding: 35px 50px 25px 50px;
+  padding: 35px 50px 50px 50px;
   position: center;
 }
 
@@ -226,6 +226,8 @@ section#talent a, a.visible {
 }
 
 section#talent ul {
+  background: rgba(0,0,0,.07);
+  padding-right: 510px;
   color: white;
   float: left;
   position: relative;
