@@ -7,7 +7,7 @@ html {
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
+  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='..//images/gold_dark.jpg', sizingMethod='scale');
 	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 }
 
@@ -189,7 +189,7 @@ section#congrats #text:hover > a {
 
 section#intro p {
   background: rgba(115, 107, 106, .3);
-  background-width: 1000px;
+  background-width: 900px;
   color: #D3CBBD;
   text-align: justify;
   padding: 20px 25px 25px 25px;
