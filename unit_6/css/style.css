@@ -247,11 +247,6 @@ section#talent ul {
     column-gap: 25px;
 }
 
-section#talent div#background ul li {
-  background: rgba(0,0,0,.07);
-  background-size: 500px x 1000px;
-}
-
 section#talent > ul > li {
   padding: 5px;
   display: block;
