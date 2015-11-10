@@ -139,7 +139,7 @@ a, a.visible {
   color: #1C1919;
 }
 
-#congrats #highlightPic {
+#congrats div#highlightPic {
   position: top center;
   padding: 50px, 10px, 25px, 10px;
 }
