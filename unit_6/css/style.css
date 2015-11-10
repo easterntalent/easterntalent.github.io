@@ -226,10 +226,6 @@ section#talent a, a.visible {
   text-decoration: none;
 }
 
-div#background {
-  background: rgba(0,0,0,.07);
-}
-
 section#talent ul {
   color: white;
   float: left;
@@ -249,6 +245,11 @@ section#talent ul {
     -webkit-column-gap: 25px; 
     -moz-column-gap: 25px; 
     column-gap: 25px;
+}
+
+div#background ul li {
+  background: rgba(0,0,0,.07);
+  background-width: 1000px;
 }
 
 section#talent > ul > li {
