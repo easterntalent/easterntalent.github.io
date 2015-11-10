@@ -136,7 +136,6 @@ a, a.visible {
   background: #456F74; 
   padding-bottom: 25px;
   padding: 100px 20px 200px 20px;   
-  color: #1C1919;
 }
 
 #congrats img {
@@ -158,6 +157,7 @@ a, a.visible {
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
   word-spacing: .25;
+  color: #1C1919;
 }
 
 section#congrats a:hover {
