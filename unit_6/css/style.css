@@ -226,9 +226,11 @@ section#talent a, a.visible {
   text-decoration: none;
 }
 
-section#talent ul {
+div#background {
   background: rgba(0,0,0,.07);
-  background-width: 1000px;
+}
+
+section#talent ul {
   color: white;
   float: left;
   position: relative;
