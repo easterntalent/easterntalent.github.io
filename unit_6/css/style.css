@@ -165,11 +165,11 @@ section#congrats #text:hover > a {
 }
 
 #intro {
-  margin-left: 550px;
+  margin-left: 500px;
   margin-right: 500px;
   margin-bottom: 150px;
   display: block;
-  width: 1000px;
+  width: 1025px;
   height: 248px;
   background: #1C1919;
   line-height: 1.5;
