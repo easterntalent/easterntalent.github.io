@@ -145,6 +145,7 @@ a, a.visible {
 }
 
 #congrats #text {
+  padding-top: 50px;
   padding-bottom: 20px;
 }
 
