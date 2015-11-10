@@ -160,7 +160,7 @@ a, a.visible {
   word-spacing: .25;
 }
 
-section#congrats #text:hover > a {
+section#congrats a:hover {
   color: #E57323;
 }
 
