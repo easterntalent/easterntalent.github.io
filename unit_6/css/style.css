@@ -213,15 +213,13 @@ section#talent {
 }
 
 section#talent h2 {
-  margin-left: 375px;
+  margin-left: 300px;
   position: left;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
-  /*color: #FB9D29;*/
   color: #1C1919;
   text-align: justify;
   padding-bottom: 20px;
-  padding-top: 5px;
 }
 
 section#talent a, a.visible {
@@ -231,11 +229,11 @@ section#talent a, a.visible {
 
 section#talent ul {
   background: rgba(0,0,0,.07);
-  padding-right: 400px;
+  padding-right: 485px;
   color: white;
   float: left;
   position: relative;
-  margin-left: 375px;
+  margin-left: 300px;
   margin-bottom: 20px;
   display: block;
   font-family: 'Palanquin', sans-serif;
