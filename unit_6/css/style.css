@@ -184,7 +184,7 @@ section#congrats #text:hover > a {
   font-size: 65px;
   line-height: 125%;
   padding-top: 5px;
-  padding-bottom: 40px;
+  padding-bottom: 38px;
 }
 
 section#intro p {
@@ -280,7 +280,7 @@ aside#twitter div#feed {
   background: #456F74;
   padding: 50px, 10px, 25px, 10px;
   width: 50%;
-  height: 75%%;
+  height: 75%;
   border-radius: 25px;
   margin-bottom: 150px;
 }
