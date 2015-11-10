@@ -258,7 +258,7 @@ section#talent li:hover > a {
   color: #968F8D;
 }
 
-section#talent > li:last-child {
+section#talent > li:last-child a {
   color: #456F74;
 }
 
