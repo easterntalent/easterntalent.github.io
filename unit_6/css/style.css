@@ -247,7 +247,7 @@ section#talent ul {
     column-gap: 25px;
 }
 
-div#background ul li {
+section#talent div#background ul li {
   background: rgba(0,0,0,.07);
   background-size: 500px x 1000px;
 }
