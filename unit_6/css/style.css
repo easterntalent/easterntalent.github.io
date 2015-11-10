@@ -249,7 +249,7 @@ section#talent ul {
 
 div#background ul li {
   background: rgba(0,0,0,.07);
-  background-width: 1000px;
+  background-size: 500px x 1000px;
 }
 
 section#talent > ul > li {
