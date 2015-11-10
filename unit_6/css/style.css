@@ -134,12 +134,12 @@ a, a.visible {
   margin-left: 0px;
   float: left;
   background: #456F74; 
-  padding-bottom: 25;
+  padding-bottom: 25px;
   padding: 100px 20px 200px 20px;   
   color: #1C1919;
 }
 
-#congrats div#highlightPic {
+#congrats img {
   position: top center;
   padding: 50px, 10px, 25px, 10px;
 }
