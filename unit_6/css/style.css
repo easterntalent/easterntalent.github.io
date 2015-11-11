@@ -143,7 +143,7 @@ a, a.visible {
 }
 
 #congrats #text {
-  padding-top: 50px;
+  padding-top: 25px;
   padding-bottom: 20px;
 }
 
@@ -152,7 +152,7 @@ a, a.visible {
   padding: 7px 15px 7px 20px;
   position: relative;
   margin: 0 0 40px 0;
-  font-size: .9em;
+  font-size: 16px;
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
