@@ -302,11 +302,11 @@ li#roster a {
   padding-left: 40px;
 }
 
-#client-news div {
+#client-news div#container {
   padding: 4px;
   margin-left: 0;
   position: center;
-  display: block;
+  display: inline-block;
   list-style: none;
   column-count: 3;
   -webkit-column-count: 3; 
@@ -315,7 +315,7 @@ li#roster a {
     -moz-column-gap: 25px; 
     column-gap: 25px;
     width: inherit;
-    height: inherit;
+    height: 450px;
 }
 
 #client-news p {
@@ -324,7 +324,7 @@ li#roster a {
   color: #1C1919; 
   padding: 10px;
   text-transform: uppercase;
-  width: 500px;
+  width: 450px;
 }
 
 #client-news img {
