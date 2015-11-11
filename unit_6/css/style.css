@@ -285,9 +285,7 @@ li#roster a {
   width: inherit;
   height: 900px;
   border-radius: 25px;
-  margin-bottom: 100px;
-  margin-right: 15px;
-  margin-left: 25px;
+  margin:0;
 }
 
 #client-news h3 {
