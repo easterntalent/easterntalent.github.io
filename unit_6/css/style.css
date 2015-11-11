@@ -450,7 +450,7 @@ footer {
   text-transform: uppercase;
   color: #D3CBBD;
   line-height: 1;
-  display: inline-block;
+  display: block;
   position: relative;
   font-weight: lighter;
   -webkit-box-sizing: border-box;
