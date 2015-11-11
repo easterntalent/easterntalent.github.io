@@ -302,7 +302,7 @@ li#roster {
 }
 
 #client-news ul {
-  padding: 0, 0, 0, 4px;
+  padding: 4px;
   margin-left: 0;
   position: center;
   display: block;
@@ -318,7 +318,6 @@ li#roster {
 }
 
 #client-news li {
-  background: rgba(115, 107, 106, .5);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919; 
@@ -335,15 +334,15 @@ li#roster {
 }
 
 li#news1 {
-
+  background: rgba(115, 107, 106, .5);
 }
 
 li#news2 {
-
+  background: rgba(115, 107, 106, .5);
 }
 
 li#news3 {
-
+  background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
 }
 
 li#twitter {
