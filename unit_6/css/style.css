@@ -301,7 +301,7 @@ li#roster a {
   padding-left: 40px;
 }
 
-#client-news ul {
+#client-news div {
   padding: 4px;
   margin-left: 0;
   position: center;
@@ -317,7 +317,7 @@ li#roster a {
     height: inherit;
 }
 
-#client-news li {
+#client-news p {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919; 
@@ -333,31 +333,31 @@ li#roster a {
   margin-right: auto;
 }
 
-li#news1 {
+div#news1 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-li#news2 {
+div#news2 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-li#news3 {
+div#news3 {
   background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-li#news4 {
+div#news4 {
   background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-li#twitter {
+div#twitter {
   display: block;
   float-right;
   width: inherit;
