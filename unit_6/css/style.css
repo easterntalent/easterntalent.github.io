@@ -279,7 +279,7 @@ li#roster {
   display: block;
   background: #456F74;
   padding: 50px, 10px, 25px, 10px;
-  width: 1000px;
+  width: inherit;
   height: 900px;
   border-radius: 25px;
   margin-bottom: 150px;
@@ -335,7 +335,7 @@ li#twitter {
   display: block;
   float-right;
   width: inherit;
-  height: inherit;
+  height: auto;
   background: none;
 }
 
