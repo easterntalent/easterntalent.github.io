@@ -301,6 +301,7 @@ li#roster {
 }
 
 #client-news ul {
+  position: center;
   display: block;
   list-style: none;
   column-count: 3;
