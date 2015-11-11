@@ -25,17 +25,23 @@ aside div #background-aside {
 text-shadow: -1px 0 #456F74, 0 1px #456F74, 1px 0 #456F74, 0 -1px #456F74;
 
 
-.congrats img {
-  float: right;
-  padding: 200px 200px 200px 0px; 
+<!-- <div id="col1" class="col s1of2"> -->
 }
 
+ <a class="twitter-timeline" href="https://twitter.com/EasternTalent" data-widget-id="659036985584173056">Tweets by @EasternTalent</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-article.congrats {
-	display: block; 
-	width: 500px;
-  height: 500px;
-  float: right;
-  background: #FB9D29; 
-  border: 2px solid black;
-}
+ text-shadow: 1px .5px 4px #000000;
+
+footer
+
+  height:auto;
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+  background: #456F74;
+  border-top: 2px solid black;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;

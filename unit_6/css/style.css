@@ -352,6 +352,34 @@ li#twitter {
   background: none;
 }
 
+#representation {
+  float:right;
+  width: 400px;
+  height: 400px;
+  background: #FB9D29;
+  margin-top: 85px; 
+  margin-right: 90px;
+  -moz-border-radius: 300px;
+  -webkit-border-radius: 300px;
+  border-radius: 300px;
+}
+
+#representation p {
+  display: inline-block;
+  float:right;
+  font-family: 'Archivo-Narrow', sans-serif;
+  color: #1C1919;
+  margin-top: 150px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+#representation a {
+  color: #1C1919;
+}
+
 #contact h4 {
   margin-left: 25px;
   position: left;
@@ -373,6 +401,10 @@ li#twitter {
   height: 350px;
   padding: 35px 50px 25px 50px;
   position: center;
+}
+
+#contact style#la style#ny {
+  color: #456F74;
 }
 
 #contact div#la-address {
@@ -404,34 +436,6 @@ li#twitter {
   float:left;
   padding: 10px;
   position: below;
-}
-
-#representation {
-  float:right;
-  width: 400px;
-  height: 400px;
-  background: #FB9D29;
-  margin-top: 85px; 
-  margin-right: 90px;
-  -moz-border-radius: 300px;
-  -webkit-border-radius: 300px;
-  border-radius: 300px;
-}
-
-#representation p {
-	display: inline-block;
-  float:right;
-  font-family: 'Archivo-Narrow', sans-serif;
-  color: #1C1919;
-  margin-top: 150px;
-  margin-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-  line-height: 1.5;
-}
-
-#representation a {
-  color: #1C1919;
 }
 
 footer {
