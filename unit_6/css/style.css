@@ -350,6 +350,11 @@ li#news3 {
   padding: 10px;
 }
 
+li#news4 {
+  background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
+  padding: 10px;
+}
+
 li#twitter {
   display: block;
   float-right;
