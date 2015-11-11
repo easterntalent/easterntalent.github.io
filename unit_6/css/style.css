@@ -250,6 +250,7 @@ section#talent ul {
   text-transform: uppercase;
   padding-bottom: 20px;
   width: inherit;
+  height: inherit;
      column-count: 3;
   -webkit-column-count: 3; 
     -moz-column-count: 3; 
