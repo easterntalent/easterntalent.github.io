@@ -309,12 +309,13 @@ aside#twitter div#feed {
 #client-news ul {
   display: block;
   list-style: none;
-  column-count: 2;
-  -webkit-column-count: 2; 
-    -moz-column-count: 2; 
+  column-count: 1;
+  -webkit-column-count: 1; 
+    -moz-column-count: 1; 
     -webkit-column-gap: 25px; 
     -moz-column-gap: 25px; 
     column-gap: 25px;
+    width: 98%;
 }
 
 #client-news ul li {
@@ -324,6 +325,7 @@ aside#twitter div#feed {
   color: #1C1919; 
   padding: 40px;
   text-transform: uppercase;
+  width: 700px;
 }
 
 #client-news img {
