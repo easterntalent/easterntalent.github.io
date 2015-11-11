@@ -351,9 +351,8 @@ div#news3 {
   padding: 4px;
   margin-left: 0;
   position: center;
-  display: inline-block;
-  list-style: none;
-  width: inherit;
+  display: block;
+  width: auto;
   height: 450px;
 }
 
