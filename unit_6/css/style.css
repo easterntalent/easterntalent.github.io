@@ -139,6 +139,7 @@ a, a.visible {
 }
 
 #congrats img {
+  padding-top: 25px;
   margin: 0px;
 }
 
