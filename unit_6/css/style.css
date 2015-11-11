@@ -411,16 +411,15 @@ li#twitter {
   float:right;
 }
 
-section.#representation #rep-title {
-  margin-left: 25px;
-  position: right;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 60px;
-  color: #FB9D29;
-  text-align: justify;
-  padding-bottom: 50px;
-  padding-top: 10px;
+#representation {
+  width: 100px;
+  height: 100px;
+  background: #FB9D29;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
 }
+
 
 section.#representation p {
   text-transform: uppercase;
