@@ -301,7 +301,7 @@ li#roster {
 }
 
 #client-news ul {
-  padding: 0, 0, 0, 10px;
+  padding: 0, 0, 0, 4px;
   position: center;
   display: block;
   list-style: none;
