@@ -316,7 +316,7 @@ aside#twitter div#feed {
     -webkit-column-gap: 25px; 
     -moz-column-gap: 25px; 
     column-gap: 25px;
-    width: 98%;
+    width: 75%;
 }
 
 #client-news ul li {
