@@ -334,7 +334,7 @@ li#twitter {
   display: block;
   float-right;
   width: inherit;
-  height: inherit;
+  height: 400px;
   background: none;
 }
 
