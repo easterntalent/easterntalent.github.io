@@ -221,7 +221,7 @@ section#talent {
 }
 
 section#talent h2 {
-  margin-left: 300px;
+  margin-left: 75px;
   position: left;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
@@ -241,8 +241,8 @@ section#talent ul {
   color: white;
   float: left;
   position: relative;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 20px;
   display: block;
   font-family: 'Palanquin', sans-serif;
@@ -251,9 +251,9 @@ section#talent ul {
   text-transform: uppercase;
   padding-bottom: 20px;
   width: auto;
-     column-count: 3;
-  -webkit-column-count: 3; 
-    -moz-column-count: 3; 
+     column-count: 2;
+  -webkit-column-count: 2; 
+    -moz-column-count: 2; 
     -webkit-column-gap: 40px; 
     -moz-column-gap: 40px; 
     column-gap: 40px;
