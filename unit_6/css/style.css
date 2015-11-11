@@ -309,9 +309,9 @@ aside#twitter div#feed {
 #client-news ul {
   display: block;
   list-style: none;
-  column-count: 1;
-  -webkit-column-count: 1; 
-    -moz-column-count: 1; 
+  column-count: 3;
+  -webkit-column-count: 3; 
+    -moz-column-count: 3; 
     -webkit-column-gap: 25px; 
     -moz-column-gap: 25px; 
     column-gap: 25px;
@@ -323,9 +323,9 @@ aside#twitter div#feed {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919; 
-  padding: 40px;
+  padding: 20px;
   text-transform: uppercase;
-  width: 700px;
+  width: 500px;
 }
 
 #client-news img {
