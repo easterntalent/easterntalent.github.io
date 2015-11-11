@@ -408,9 +408,11 @@ li#twitter {
 
 #representation {
   float:right;
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
   background: #FB9D29;
+  margin-top: 55px; 
+  margin-right: 90px;
   -moz-border-radius: 300px;
   -webkit-border-radius: 300px;
   border-radius: 300px;
@@ -419,10 +421,6 @@ li#twitter {
 #representation p {
 	display: inline-block;
   float:right;
-}
-
-
-section.#representation p {
   text-transform: uppercase;
 }
 
