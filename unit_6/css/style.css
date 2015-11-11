@@ -271,12 +271,9 @@ section#talent > li:last-child a {
   color: #456F74;
 }
 
-aside#twitter div#feed {
-  float: left;
+li#twitter {
   display: block;
   width: 400px;
-  height: 75%;
-  margin-left: 150px;
   border-radius: 25px;
 }
 
