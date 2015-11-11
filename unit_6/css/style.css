@@ -241,7 +241,6 @@ section#talent ul {
   float: left;
   position: relative;
   margin-left: 300px;
-  margin-right: 300px;
   margin-bottom: 20px;
   display: block;
   font-family: 'Palanquin', sans-serif;
@@ -249,8 +248,7 @@ section#talent ul {
   list-style: none;
   text-transform: uppercase;
   padding-bottom: 20px;
-  width: inherit;
-  height: inherit;
+  width: 90%;
      column-count: 3;
   -webkit-column-count: 3; 
     -moz-column-count: 3; 
@@ -308,7 +306,8 @@ li#roster {
     -webkit-column-gap: 25px; 
     -moz-column-gap: 25px; 
     column-gap: 25px;
-    width: 75%;
+    width: inherit;
+    height: inherit;
 }
 
 #client-news ul li {
