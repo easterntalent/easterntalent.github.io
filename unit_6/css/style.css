@@ -285,7 +285,7 @@ aside#twitter div#feed {
   display: block;
   background: #456F74;
   padding: 50px, 10px, 25px, 10px;
-  width: 96%;
+  width: 94%;
   height: 700px;
   border-radius: 25px;
   margin-bottom: 150px;
@@ -303,7 +303,7 @@ aside#twitter div#feed {
   text-align: justify;
   padding-bottom: 25px;
   padding-top: 35px;
-  padding-left: 40px
+  padding-left: 40px;
 }
 
 #client-news ul {
