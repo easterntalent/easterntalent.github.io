@@ -356,6 +356,7 @@ div#news4 {
   background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
+  float: left;
 }
 
 div#twitter {
@@ -364,6 +365,7 @@ div#twitter {
   width: inherit;
   height: auto;
   background: none;
+  float: left;
 }
 
 #representation {
