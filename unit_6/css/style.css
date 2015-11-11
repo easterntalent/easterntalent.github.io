@@ -275,6 +275,7 @@ li#twitter {
   display: block;
   width: 400px;
   border-radius: 25px;
+  background: none;
 }
 
 #client-news {
