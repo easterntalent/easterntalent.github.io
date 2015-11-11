@@ -305,7 +305,18 @@ aside#twitter div#feed {
   padding-left: 40px
 }
 
-#client-news p {
+#client-news ul {
+  display: block;
+  list-style: none;
+  column-count: 2;
+  -webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    -webkit-column-gap: 25px; 
+    -moz-column-gap: 25px; 
+    column-gap: 25px;
+}
+
+#client-news ul li {
   background: rgba(115, 107, 106, .5);
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
