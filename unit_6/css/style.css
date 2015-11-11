@@ -271,13 +271,6 @@ section#talent > li:last-child a {
   color: #456F74;
 }
 
-li#twitter {
-  display: block;
-  width: 400px;
-  border-radius: 25px;
-  background: none;
-}
-
 #client-news {
   float: center;
   display: block;
@@ -332,6 +325,13 @@ li#twitter {
   margin-right: auto;
   padding: 40px;
   position: center;
+}
+
+li#twitter {
+  display: block;
+  width: 400px;
+  border-radius: 25px;
+  background: none;
 }
 
 #contact h4 {
