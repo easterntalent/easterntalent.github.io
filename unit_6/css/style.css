@@ -422,6 +422,7 @@ li#twitter {
 	display: inline-block;
   float:right;
   text-transform: uppercase;
+  color: #1C1919;
 }
 
 footer p {
