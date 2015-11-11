@@ -418,7 +418,7 @@ li#twitter {
   border-radius: 300px;
 }
 
-#representation p {
+#representation p a {
 	display: inline-block;
   float:right;
   text-transform: uppercase;
