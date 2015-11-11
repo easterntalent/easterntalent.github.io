@@ -418,7 +418,7 @@ li#twitter {
   border-radius: 300px;
 }
 
-#representation p a {
+#representation p {
 	display: inline-block;
   float:right;
   font-family: 'Archivo-Narrow', sans-serif;
@@ -428,6 +428,10 @@ li#twitter {
   margin-left: 20px;
   margin-right: 20px
   text-align: center;
+}
+
+#representation a {
+  color: #1C1919;
 }
 
 footer {
