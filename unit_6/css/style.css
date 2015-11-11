@@ -307,8 +307,7 @@ div#container1 {
   margin-left: 0;
   position: center;
   display: block;
-  list-style: none;
-  width: inherit;
+  width: auto;
   height: 450px;
 }
 
