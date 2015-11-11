@@ -422,12 +422,12 @@ li#twitter {
 	display: inline-block;
   float:right;
   font-family: 'Archivo-Narrow', sans-serif;
-  text-transform: uppercase;
   color: #1C1919;
   margin-top: 150px;
   margin-left: 20px;
   margin-right: 20px;
   text-align: center;
+  line-height: 1.5;
 }
 
 #representation a {
