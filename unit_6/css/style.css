@@ -336,14 +336,17 @@ li#roster a {
 
 li#news1 {
   background: rgba(115, 107, 106, .5);
+  padding: 10px;
 }
 
 li#news2 {
   background: rgba(115, 107, 106, .5);
+  padding: 10px;
 }
 
 li#news3 {
   background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
+  padding: 10px;
 }
 
 li#twitter {
