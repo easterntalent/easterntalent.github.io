@@ -267,7 +267,7 @@ section#talent li:hover > a {
   color: #968F8D;
 }
 
-section#talent > li:last-child a {
+li#roster {
   color: #456F74;
 }
 
