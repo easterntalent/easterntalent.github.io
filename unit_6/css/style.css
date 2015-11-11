@@ -281,8 +281,7 @@ aside#twitter div#feed {
 }
 
 #client-news {
-  position: center;
-  float: right;
+  float: center;
   display: block;
   background: #456F74;
   padding: 50px, 10px, 25px, 10px;
