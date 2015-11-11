@@ -303,6 +303,7 @@ li#roster {
 
 #client-news ul {
   padding: 0, 0, 0, 4px;
+  margin-left: 0;
   position: center;
   display: block;
   list-style: none;
