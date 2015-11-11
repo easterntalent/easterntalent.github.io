@@ -231,27 +231,23 @@ section#talent h2 {
   padding-bottom: 40px;
 }
 
-section#talent a, a.visible {
-  color: #FFF5E4;
-  text-decoration: none;
-}
-
 section#talent ul {
   background: rgba(0,0,0,.08);
   padding-right: 485px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+  width: 845px;
   color: white;
   float: left;
   position: relative;
-  margin-left: 0px;
   margin-right: 0px;
+  margin-left: 70px;
   margin-bottom: 20px;
   display: block;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
   list-style: none;
   text-transform: uppercase;
-  padding-bottom: 20px;
-  width: auto;
      column-count: 2;
   -webkit-column-count: 2; 
     -moz-column-count: 2; 
@@ -271,7 +267,12 @@ section#talent li:hover > a {
   color: #968F8D;
 }
 
-li#roster {
+section#talent a, a.visible {
+  color: #FFF5E4;
+  text-decoration: none;
+}
+
+li#roster a {
   color: #456F74;
 }
 
