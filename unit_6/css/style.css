@@ -331,6 +331,7 @@ li#roster {
 
 li#twitter {
   display: block;
+  float-right;
   width: inherit;
   height: inherit;
   background: none;
