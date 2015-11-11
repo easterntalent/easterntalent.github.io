@@ -254,9 +254,9 @@ section#talent ul {
      column-count: 3;
   -webkit-column-count: 3; 
     -moz-column-count: 3; 
-    -webkit-column-gap: 25px; 
-    -moz-column-gap: 25px; 
-    column-gap: 25px;
+    -webkit-column-gap: 40px; 
+    -moz-column-gap: 40px; 
+    column-gap: 40px;
 }
 
 section#talent > ul > li {
