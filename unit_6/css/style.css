@@ -281,6 +281,7 @@ aside#twitter div#feed {
 }
 
 #client-news {
+  position: center;
   float: right;
   display: block;
   background: #456F74;
