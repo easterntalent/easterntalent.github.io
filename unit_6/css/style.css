@@ -330,9 +330,9 @@ li#roster {
 
 li#twitter {
   display: block;
-  width: 400px;
+  width: inherit;
   border-radius: 25px;
-  background: none;
+  background: transparent;
 }
 
 #contact h4 {
