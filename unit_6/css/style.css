@@ -302,20 +302,14 @@ li#roster a {
   padding-left: 40px;
 }
 
-#client-news div#container {
+#client-news div#container1 {
   padding: 4px;
   margin-left: 0;
   position: center;
   display: inline-block;
   list-style: none;
-  column-count: 3;
-  -webkit-column-count: 3; 
-    -moz-column-count: 3; 
-    -webkit-column-gap: 25px; 
-    -moz-column-gap: 25px; 
-    column-gap: 25px;
-    width: inherit;
-    height: 450px;
+  width: inherit;
+  height: 450px;
 }
 
 #client-news p {
@@ -351,6 +345,17 @@ div#news3 {
   background: rgba(115, 107, 106, .5);background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
+}
+
+#client-news div#container2 {
+  float: left;
+  padding: 4px;
+  margin-left: 0;
+  position: center;
+  display: inline-block;
+  list-style: none;
+  width: inherit;
+  height: 450px;
 }
 
 div#news4 {
