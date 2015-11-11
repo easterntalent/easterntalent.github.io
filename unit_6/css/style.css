@@ -421,6 +421,7 @@ li#twitter {
 #representation p a {
 	display: inline-block;
   float:right;
+  font-family: 'Archivo-Narrow', sans-serif;
   text-transform: uppercase;
   color: #1C1919;
   margin-top: 150px;
