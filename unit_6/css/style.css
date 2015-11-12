@@ -344,8 +344,8 @@ th#news2 {
 }
 
 th#twitter {
-  display: inline-block;
-  width: inherit;
+  display: block;
+  width: 400px;
   height: auto;
   background: none;
   float:right;
