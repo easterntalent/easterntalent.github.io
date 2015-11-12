@@ -283,7 +283,6 @@ li#roster a {
 section#client-news {
   display: block;
   background: #456F74;
-  /*padding: 50px, 10px, 25px, 20px;*/
   width: inherit;
   height: 1000px;
   border-radius: 25px;
@@ -314,7 +313,7 @@ table {
   padding-left: 40px;
 }
 
-#client-news th td {
+#client-news tbody {
   padding:20px;
 }
 
