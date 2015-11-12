@@ -314,6 +314,10 @@ table {
   padding-left: 40px;
 }
 
+#client-news th td {
+  padding:20px;
+}
+
 #client-news p {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
@@ -329,17 +333,16 @@ table {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom:10px;
 }
 
 th#news1 {
   background: rgba(115, 107, 106, .5);
-  padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
 th#news2 {
   background: rgba(115, 107, 106, .5);
-  padding: 10px;
   font-family: 'Palanquin', sans-serif;
   height: 450px;
 }
@@ -357,13 +360,11 @@ th#twitter {
 
 td#news3 {
   background: rgba(115, 107, 106, .5);
-  padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
 td#news4 {
   background: rgba(115, 107, 106, .5);
-  padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
