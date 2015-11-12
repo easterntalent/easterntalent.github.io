@@ -131,7 +131,7 @@ a, a.visible {
   width: 400px;
   height: 338px;
   margin-right: 20px;
-  margin-left: 25px;
+  margin-left: 20px;
   float: left;
   background: #456F74; 
   padding-bottom: 25px;
@@ -278,27 +278,6 @@ li#roster a {
   color: #456F74;
 }
 
-ul#client-news {
-  display: block;
-  list-style-type: disc;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    -webkit-padding-start: 40px;
-}
-
-div#container {
-  float: center;
-  display: block;
-  background: #456F74;
-  padding: 50px, 10px, 25px, 20px;
-  width: inherit;
-  height: 1000px;
-  border-radius: 25px;
-  margin:0;
-}
-
 #client-news h3 {
   margin-left: 25px;
   position: right;
@@ -312,13 +291,15 @@ div#container {
   padding-left: 40px;
 }
 
-#client-news1 {
-  padding: 4px;
-  margin-left: 0;
-  position: center;
+table {
+  float: center;
   display: block;
-  width: auto;
-  height: 450px;
+  background: #456F74;
+  /*padding: 50px, 10px, 25px, 20px;*/
+  width: inherit;
+  height: 1000px;
+  border-radius: 25px;
+  margin:0;
 }
 
 #client-news p {
@@ -337,49 +318,36 @@ div#container {
   margin-right: auto;
 }
 
-div#news1 {
+th#news1 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-div#news2 {
+th#news2 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
   height: 450px;
 }
 
-div#news3 {
+th#news3 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
 }
 
-#client-news div#container2 {
-  float: left;
-  padding: 4px;
-  margin-left: 0;
-  position: center;
-  display: block;
-  width: auto;
-  height: 450px;
-}
-
-div#news4 {
+th#news4 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
-  float: left;
 }
 
-div#twitter {
+th#twitter {
   display: block;
-  float-right;
   width: inherit;
   height: auto;
   background: none;
-  float: left;
 }
 
 #representation {
