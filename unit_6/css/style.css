@@ -309,8 +309,8 @@ table {
   /*color: #FB9D29;*/
   color: #D3CBBD;
   text-align: justify;
-  padding-bottom: 25px;
-  padding-top: 35px;
+  padding-bottom: 10px;
+  padding-top: 30px;
   padding-left: 40px;
 }
 
@@ -321,6 +321,7 @@ table {
   padding: 10px;
   text-transform: uppercase;
   width: 450px;
+  font-weight:lighter;
 }
 
 #client-news img {
@@ -328,6 +329,10 @@ table {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#client-news th {
+  padding:20px;
 }
 
 th#news1 {
@@ -345,12 +350,13 @@ th#news2 {
 
 th#twitter {
   display: block;
-  width: 400px;
+  width: 500px;
   height: auto;
   background: none;
   float:right;
   margin-top:0;
-  margin-bottom:0;
+  margin-bottom:-1000px;
+  padding-bottom: 150px;
 }
 
 td#news3 {
