@@ -331,10 +331,6 @@ table {
   margin-right: auto;
 }
 
-#client-news th td {
-  padding: 15px;
-}
-
 th#news1 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
