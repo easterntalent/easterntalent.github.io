@@ -279,6 +279,17 @@ li#roster a {
   color: #456F74;
 }
 
+table {
+  float: center;
+  display: block;
+  background: #456F74;
+  /*padding: 50px, 10px, 25px, 20px;*/
+  width: inherit;
+  height: 1000px;
+  border-radius: 25px;
+  margin:0;
+}
+
 #client-news h3 {
   margin-left: 25px;
   position: right;
@@ -290,17 +301,6 @@ li#roster a {
   padding-bottom: 25px;
   padding-top: 35px;
   padding-left: 40px;
-}
-
-table {
-  float: center;
-  display: block;
-  background: #456F74;
-  /*padding: 50px, 10px, 25px, 20px;*/
-  width: inherit;
-  height: 1000px;
-  border-radius: 25px;
-  margin:0;
 }
 
 #client-news p {
