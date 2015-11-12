@@ -278,7 +278,17 @@ li#roster a {
   color: #456F74;
 }
 
-#client-news {
+ul#client-news {
+  display: block;
+  list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+div#container {
   float: center;
   display: block;
   background: #456F74;
@@ -302,7 +312,7 @@ li#roster a {
   padding-left: 40px;
 }
 
-div#container1 {
+#client-news1 {
   padding: 4px;
   margin-left: 0;
   position: center;
