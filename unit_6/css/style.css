@@ -324,6 +324,7 @@ th#news1 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
+  float:left;
 }
 
 th#news2 {
@@ -331,18 +332,21 @@ th#news2 {
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
   height: 450px;
+  float:right;
 }
 
 th#news3 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
+  float:left;
 }
 
 th#news4 {
   background: rgba(115, 107, 106, .5);
   padding: 10px;
   font-family: 'Palanquin', sans-serif;
+  float:center;
 }
 
 th#twitter {
@@ -350,6 +354,7 @@ th#twitter {
   width: inherit;
   height: auto;
   background: none;
+  float:right;
 }
 
 #representation {
