@@ -293,7 +293,6 @@ li#roster a {
 #client-news {
   display: block;
   width: inherit;
-  border-radius: 25px;
   margin:auto;
 }
 
@@ -301,7 +300,7 @@ li#roster a {
   height:400px;
   width:31.33%;
   float:left;
-  background-color:white;
+  background-color:transparent;
   margin:1%;
 }
 
