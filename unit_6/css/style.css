@@ -304,6 +304,10 @@ li#roster a {
   padding: 10px;
 }
 
+.col3 #twitter {
+  float:right;
+}
+
 #client-news h3 {
   margin-left: 25px;
   position: right;
@@ -323,7 +327,7 @@ li#roster a {
   color: #1C1919; 
   padding: 10px;
   text-transform: uppercase;
-  width: 450px;
+  width: auto;
   font-weight:lighter;
 }
 
