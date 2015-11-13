@@ -297,12 +297,13 @@ li#roster a {
   height:400px;
   width:31.33%;
   float:left;
-  background-color: gray;
+  background-color: rgba(0,0,0,.1);
   margin:1%;
 }
 
 div#twitter {
   float:right;
+  background:none;
 }
 
 #client-news h3 {
