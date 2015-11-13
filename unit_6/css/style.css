@@ -291,8 +291,7 @@ section#client-news {
 }
 
 table {
-  border-spacing: 10px
-  border-collapse: separate;
+  border-spacing: 20px;
   float: center;
   display: block;
   background: #456F74;
