@@ -262,7 +262,7 @@ section#talent ul {
     column-gap: 40px;
 }
 
-section#talent > ul > li {
+section#talent li {
   padding: 5px;
   display: block;
   line-height: 1.75em;
