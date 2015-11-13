@@ -266,7 +266,6 @@ section#talent li {
   padding: 5px;
   display: block;
   line-height: 1.75em;
-  width: inherit;
 }
 
 section#talent li:hover > a {
