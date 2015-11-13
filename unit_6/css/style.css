@@ -137,15 +137,11 @@ a, a.visible {
 #news-highlight {
   display: block; 
   border: 3px solid black;
-  border-radius: 25px;
-  width: 400px;
-  height: 338px;
+  width: 90%;
   margin-right: 20px;
   margin-left: 20px;
   float: left;
-  background: #456F74; 
-  padding-bottom: 25px;
-  padding: 100px 20px 200px 20px;   
+  background: #D4CBBD;   
 }
 
 #news-highlight img {
@@ -157,6 +153,7 @@ a, a.visible {
 }
 
 #news-highlight #text {
+  float:right;
   padding-top: 25px;
   padding-bottom: 20px;
 }
