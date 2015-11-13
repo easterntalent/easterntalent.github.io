@@ -313,6 +313,10 @@ table {
   padding-left: 40px;
 }
 
+#client-news td th {
+  margin-top:;
+}
+
 #client-news tbody {
   padding:20px;
 }
