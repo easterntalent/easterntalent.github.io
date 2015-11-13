@@ -297,8 +297,9 @@ li#roster a {
   height:400px;
   width:31.33%;
   float:left;
-  background-color: rgba(0,0,0,.1);
-  margin:1%;
+  background: rgba(211,203,189,.07);
+  margin:.16%;
+  padding:1%;
 }
 
 div#twitter {
@@ -322,11 +323,13 @@ div#twitter {
 #client-news p {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
+  background: rgba(211,203,189,.6);
   color: #1C1919; 
   padding: 10px;
   text-transform: uppercase;
   width: auto;
   font-weight:lighter;
+  line-height:1.5;
 }
 
 #client-news img {
