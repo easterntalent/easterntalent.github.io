@@ -302,6 +302,10 @@ li#roster a {
   padding: 10px;
 }
 
+section#client-news, div#twitter {
+  float:right;
+}
+
 #client-news h3 {
   margin-left: 25px;
   position: right;
