@@ -127,7 +127,7 @@ a, a.visible {
 
 #news-highlight {
   display: block; 
-  border: 3px solid #252729;
+  border: 3px solid black;
   border-radius: 25px;
   width: 400px;
   height: 338px;
@@ -180,7 +180,7 @@ section#news-highlight a:hover {
   line-height: 1.5;
   text-align: left;
   padding: 140px 0px 250px 0px;
-  border: 3px solid #252729;
+  border: 3px solid black;
 }
 
 #intro h1 {
@@ -224,7 +224,7 @@ section#talent {
   height: 450px;
   padding: 35px 50px 50px 150px;
   position: center;
-  border: 3px solid #252729;
+  border: 3px solid black;
 }
 
 section#talent h2 {
@@ -290,7 +290,7 @@ section#client-news {
   height: 1000px;
   border-radius: 25px;
   margin:0;
-  border: 3px solid #252729;
+  border: 3px solid black;
 }
 
 table {
@@ -385,7 +385,7 @@ td#news4 {
   -moz-border-radius: 300px;
   -webkit-border-radius: 300px;
   border-radius: 300px;
-  border: 3px solid #252729;
+  border: 3px solid black;
 }
 
 #representation p {
@@ -426,7 +426,7 @@ td#news4 {
   height: 350px;
   padding: 35px 50px 25px 50px;
   position: center;
-  border: 3px solid #252729;
+  border: 3px solid black;
 }
 
 #contact div#la-address {
