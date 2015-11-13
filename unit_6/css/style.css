@@ -300,7 +300,7 @@ li#roster a {
   height:400px;
   width:31.33%;
   float:left;
-  background:rgba(0,0,0,.09);
+  background-color: gray;
   margin:1%;
   padding: 10px;
 }
