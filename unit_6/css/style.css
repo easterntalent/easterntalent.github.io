@@ -316,7 +316,7 @@ table {
 }
 
 #client-news td th {
-  margin-top:;
+  outline: 10px black solid;
 }
 
 #client-news tbody {
@@ -383,11 +383,10 @@ td#news4 {
   -moz-border-radius: 300px;
   -webkit-border-radius: 300px;
   border-radius: 300px;
-  outline: 3px solid black;
 }
 
 #representation p {
-  display: inline-block;
+  display: block;
   float:right;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919;
