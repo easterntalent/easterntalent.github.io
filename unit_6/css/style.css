@@ -299,10 +299,9 @@ li#roster a {
   float:left;
   background-color: gray;
   margin:1%;
-  padding: 10px;
 }
 
-section#client-news, div#twitter {
+div#twitter {
   float:right;
 }
 
