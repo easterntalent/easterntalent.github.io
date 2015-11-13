@@ -418,8 +418,8 @@ li#roster a {
   position: below;
 }
 
-footer {
-	clear: both;	
+footer {	
+  clear: both;
   background: #456F74;
   font-family: 'Archivo-Narrow', sans-serif;
   height: 75px;
