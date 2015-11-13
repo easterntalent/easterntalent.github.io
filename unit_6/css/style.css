@@ -174,8 +174,8 @@ section#news-highlight a:hover {
   margin-right: 525px;
   margin-bottom: 100px;
   display: block;
-  width: 950px;
-  height: 248px;
+  width: 65%;
+  height: 250px;
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
@@ -190,7 +190,7 @@ section#news-highlight a:hover {
   font-size: 65px;
   line-height: 125%;
   padding-top: 5px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 }
 
 hr.hr1 {
