@@ -291,8 +291,7 @@ li#roster a {
 }
 
 #client-news {
-  display: block;
-  width: inherit;
+  width: 90%;
   margin:auto;
 }
 
