@@ -221,7 +221,7 @@ section#intro div#intro-para {
 }
 
 section#talent {
-  /*background: #736B6A;*/
+  display:block;
   background: #FB9D29;
   margin-top: 50px;
   margin-right: 0px;
