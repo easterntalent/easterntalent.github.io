@@ -137,9 +137,6 @@ a, a.visible {
 #news-highlight {
   display: block; 
   border: 3px solid black;
-  width: 90%;
-  margin-right: 20px;
-  margin-left: 20px;
   float: left;
   background: #D4CBBD;   
 }
