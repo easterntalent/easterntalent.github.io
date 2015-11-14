@@ -307,6 +307,7 @@ div#twitter {
   float:right;
   background:none;
   border:none;
+  width:25%;
 }
 
 #client-news h3 {
@@ -327,12 +328,11 @@ div#twitter {
   font-family: 'Palanquin', sans-serif;
   background: #D3CBBD;
   color: #1C1919; 
-  padding: 0px;
+  padding: 5px;
   text-transform: uppercase;
-  width: 100%;
   font-weight:lighter;
   line-height:1.5;
-  border:; 1px solid #403D3C;
+  border: 1px solid #403D3C;
   margin-top: 20px;
 }
 
