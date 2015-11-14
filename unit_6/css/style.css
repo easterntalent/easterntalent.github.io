@@ -351,6 +351,8 @@ div#twitter {
   background: #5B9299;
   width:25%;
   height:inherit;
+  margin-top:5px;
+  padding:23px;
 }
 
 #representation {
