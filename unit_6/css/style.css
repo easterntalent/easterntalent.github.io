@@ -72,7 +72,7 @@ p {
 
 a, a.visible {
   text-decoration: none;
-  color: #456F74;
+  color: #5B9299;
 }
 
 #menu,
@@ -352,7 +352,7 @@ div#news3 p {
 div#twitter {
   float:right;
   background:none;
-  border:none;
+  background: #5B9299;;
   width:25%;
 }
 
