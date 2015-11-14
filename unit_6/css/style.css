@@ -142,18 +142,19 @@ a, a.visible {
 }
 
 #news-highlight img {
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 0px;
-  padding-right:0px;
-  margin: 0px;
+  padding-top:10%;
+  height:55%;
+  width:55%;
+  padding-top:6%;
+  float:left;
 }
 
 #news-highlight #text {
   display:block;
-  float:right;
+  float:left;
   padding-top: 25px;
   padding-bottom: 20px;
+  padding-left:35%;
 }
 
 #news-highlight #text p {
@@ -167,6 +168,7 @@ a, a.visible {
   text-transform: uppercase;
   word-spacing: .25;
   color: #1C1919;
+  width:75%;
 }
 
 section#news-highlight a:hover {
