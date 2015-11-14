@@ -303,13 +303,6 @@ li#roster a {
   border: 4px solid black;
 }
 
-div#twitter {
-  float:right;
-  background:none;
-  border:none;
-  width:25%;
-}
-
 #client-news h3 {
   margin-left: 25px;
   position: right;
@@ -344,19 +337,24 @@ div#twitter {
   padding-bottom:10px;
 }
 
-div#news1 {
+div#news1 p {
   margin-top:20px;
 }
 
-div#news2 {
+div#news2 p {
   margin-top:1px;
 }
 
-div#news3 {
+div#news3 p {
   margin-top:20px;
 }
 
-div#news
+div#twitter {
+  float:right;
+  background:none;
+  border:none;
+  width:25%;
+}
 
 #representation {
   float:right;
