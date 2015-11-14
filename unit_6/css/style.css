@@ -333,7 +333,7 @@ div#twitter {
   font-weight:lighter;
   line-height:1.5;
   border: 1px solid #403D3C;
-  margin-top: 20px;
+  margin-top: 2px;
 }
 
 #client-news img {
@@ -343,6 +343,20 @@ div#twitter {
   margin-right: auto;
   padding-bottom:10px;
 }
+
+div#news1 {
+  margin-top:20px;
+}
+
+div#news2 {
+  margin-top:1px;
+}
+
+div#news3 {
+  margin-top:20px;
+}
+
+div#news
 
 #representation {
   float:right;
