@@ -351,9 +351,9 @@ div#news3 p {
 
 div#twitter {
   float:right;
-  background:none;
-  background: #5B9299;;
+  background: #5B9299;
   width:25%;
+  height:inherit;
 }
 
 #representation {
