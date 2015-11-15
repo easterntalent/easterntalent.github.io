@@ -136,7 +136,7 @@ a, a.visible {
 
 #news-highlight {
   display: block;
-  border: 3px solid black;
+  border: 5px solid black;
   float: left;
   background: #D4CBBD;
   width:auto;
@@ -147,6 +147,7 @@ a, a.visible {
   width: 55%;
   padding-top: 6%;
   float: left;
+  border-right:3px solid black;
 }
 
 #news-highlight #text {
@@ -213,7 +214,7 @@ section#news-highlight a:hover {
   padding-top: 20px;
 }
 
-hr.hr1 {
+hr#hr1 {
     border: 0;
     width: 100%;
     height: 1px;
@@ -231,10 +232,12 @@ section#intro p {
 
 section#intro p#p1 {
   padding-bottom:0;
+  padding-top:30px;
 }
 
 section#intro p#p2 {
-
+  padding-top: 15px;
+  padding-bottom: 19px;
 }
 
 section#intro div#intro-para {
@@ -246,8 +249,10 @@ section#talent {
   background: #FB9D29;
   width: 54%;
   height: 450px;
-  border: 3px solid black;
   float: left;
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  border-left: 3px solid black;
 }
 
 section#talent h2 {
@@ -256,8 +261,9 @@ section#talent h2 {
   font-size: 65px;
   color: #1C1919;
   text-align: justify;
-  padding-bottom: 35px;
-  padding-top: 25px;
+  padding-top: 105px;
+  padding-bottom: 25px;
+  padding-right: 0;
 }
 
 section#talent ul {
@@ -268,7 +274,7 @@ section#talent ul {
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  padding: 5px 182px 5px 75px;
+  padding: 5px 182px 12px 90px;
   width: auto;
   -webkit-column-count: 2;
   -moz-column-count: 2;
@@ -278,11 +284,12 @@ section#talent ul {
 }
 
 section#talent li {
-  padding: 5px;
+  padding: 7px 4px 3px 4px;
   display: block;
   line-height: 1.75em;
-  margin-right:-50px;
-  width:170%;
+  margin-right: 0px;
+  margin-left: -50px;
+  width: 170%;
 
 }
 
