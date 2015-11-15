@@ -375,6 +375,14 @@ div#twitter {
   padding:23px;
 }
 
+.col4 { 
+  height:400px;
+  width:31.33%;
+  float:left;
+  margin:.16%;
+  padding:1%;
+}
+
 #representation {
   float:right;
   width: 400px;
@@ -382,9 +390,6 @@ div#twitter {
   background: #FB9D29;
   margin-top: 85px; 
   margin-right: 90px;
-  -moz-border-radius: 300px;
-  -webkit-border-radius: 300px;
-  border-radius: 300px;
 }
 
 #representation p {
