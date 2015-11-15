@@ -139,6 +139,7 @@ a, a.visible {
   border: 3px solid black;
   float: left;
   background: #D4CBBD;
+  width:auto;
 }
 
 #news-highlight img {
@@ -225,7 +226,7 @@ section#intro p {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   width: 95%;
-  padding: 16px 16px 32px 16px;
+  padding: 25px 16px 32px 16px;
 }
 
 section#intro p#p1 {
@@ -243,7 +244,7 @@ section#intro div#intro-para {
 section#talent {
   display: block;
   background: #FB9D29;
-  width: 55%;
+  width: 54%;
   height: 450px;
   border: 3px solid black;
   float: left;
