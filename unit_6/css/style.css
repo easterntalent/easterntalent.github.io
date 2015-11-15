@@ -237,6 +237,10 @@ section#intro div#intro-para {
   padding-top: 0px;
 }
 
+hr#hr2 {
+  color:#1C1919;
+}
+
 section#talent {
   display: block;
   background: #FB9D29;
@@ -255,7 +259,7 @@ section#talent h2 {
   color: #1C1919;
   text-align: justify;
   padding-top: 105px;
-  padding-bottom: 25px;
+  padding-bottom: 15px;
   padding-right: 0;
 }
 
@@ -267,7 +271,7 @@ section#talent ul {
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  padding: 5px 182px 12px 90px;
+  padding:0px 182px 12px 90px;  
   width: auto;
   -webkit-column-count: 2;
   -moz-column-count: 2;
