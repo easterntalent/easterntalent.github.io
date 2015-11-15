@@ -225,11 +225,11 @@ section#intro p {
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   width: 95%;
-  padding: 16px;
+  padding: 16px 16px 32px 16px;
 }
 
 section#intro p#p1 {
-
+  padding-bottom:0;
 }
 
 section#intro p#p2 {
@@ -266,23 +266,22 @@ section#talent ul {
   font-family: 'Palanquin', sans-serif;
   font-size: 22px;
   list-style: none;
-  padding-right: 82px;
   text-transform: uppercase;
-  padding-bottom: 5px;
-  padding-top: 5px;
+  padding: 5px 182px 5px 75px;
+  width: auto;
   -webkit-column-count: 2;
   -moz-column-count: 2;
-  -webkit-column-gap: 40px;
-  -moz-column-gap: 40px;
-  column-gap: 40px;
-  width: auto;
+  -webkit-column-gap: 97px;
+  -moz-column-gap: 97px;
+  column-gap: 97px;
 }
 
 section#talent li {
   padding: 5px;
   display: block;
   line-height: 1.75em;
-}
+  margin-right:-50px;
+  width:170%;
 
 }
 
