@@ -288,9 +288,8 @@ section#talent li {
   display: block;
   line-height: 1.75em;
   margin-right: 0px;
-  margin-left: -50px;
+  margin-left: 0px;
   width: 170%;
-
 }
 
 section#talent li:hover > a {
