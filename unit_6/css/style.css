@@ -184,6 +184,14 @@ section#news-highlight a:hover {
   color: #E57323;
 }
 
+.col1 { 
+  height:400px;
+  width:31.33%;
+  float:left;
+  margin:.16%;
+  padding:1%;
+}
+
 #intro {
   margin-left: 478px;
   margin-right: 525px;
