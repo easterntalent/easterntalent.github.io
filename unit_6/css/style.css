@@ -231,6 +231,7 @@ section#intro p#p1 {
 section#intro p#p2 {
   padding-top: 15px;
   padding-bottom: 19px;
+  padding-right: 18px;
 }
 
 section#intro div#intro-para {
@@ -238,7 +239,8 @@ section#intro div#intro-para {
 }
 
 hr#hr2 {
-  color:#1C1919;
+  border-top: 1px solid #1C1919;
+  border-bottom: 1px solid #fff;
 }
 
 section#talent {
@@ -271,13 +273,14 @@ section#talent ul {
   font-size: 22px;
   list-style: none;
   text-transform: uppercase;
-  padding:0px 182px 12px 90px;  
-  width: auto;
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  -webkit-column-gap: 97px;
-  -moz-column-gap: 97px;
-  column-gap: 97px;
+  padding: 5px 182px 16px 95px;
+  width: 75%;
+  margin-left: 30px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-gap: 97px;
+    -moz-column-gap: 97px;
+    column-gap: 97px;
 }
 
 section#talent li {
