@@ -138,7 +138,8 @@ a, a.visible {
   display: block; 
   border: 3px solid black;
   float: left;
-  background: #D4CBBD;   
+  background: #D4CBBD;  
+  width:100%; 
 }
 
 #news-highlight img {
@@ -155,20 +156,28 @@ a, a.visible {
   padding-top: 25px;
   padding-bottom: 20px;
   padding-left:35%;
+  vertical-align:top;
 }
 
 #news-highlight #text p {
   background: rgba(0,0,0,.07);
   padding: 7px 15px 7px 20px;
   position: relative;
-  margin: 0 0 40px 0;
   font-size: 16px;
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
-  word-spacing: .25;
   color: #1C1919;
-  width:75%;
+  width:50%;
+  margin-left:35%;
+}
+
+.col2 { 
+  height:400px;
+  width:31.33%;
+  float:left;
+  margin:.16%;
+  padding:1%;
 }
 
 section#news-highlight a:hover {
