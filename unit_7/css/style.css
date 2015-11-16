@@ -320,10 +320,11 @@ li#roster a {
 
 #client-news {
   width: 90%;
-  margin:auto;
-  padding-bottom:125px;
-  border-top:5px solid black;
-  background:rgba(233,211,189,.1);
+  margin: auto;
+  padding: 85px;
+  border-top: 5px solid black;
+  background: rgba(233,211,189,.1);
+  background-size: cover;
 }
 
 .col3 { 
