@@ -275,7 +275,7 @@ section#talent ul {
   list-style: none;
   text-transform: uppercase;
   padding: 45px 0px 5px 80px;
-  margin-left: -50px;
+  margin-left: 0px;
     -webkit-column-count: 2;
     -moz-column-count: 2;
     -webkit-column-gap: 30px;
