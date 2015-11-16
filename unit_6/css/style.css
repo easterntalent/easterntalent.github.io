@@ -308,6 +308,7 @@ li#roster a {
 #client-news {
   width: 90%;
   margin:auto;
+  padding-bottom:125px;
 }
 
 .col3 { 
@@ -384,16 +385,18 @@ div#twitter {
 }
 
 #representation {
-  width: 400px;
-  height: 400px;
+  width: 27%;
+  height: 450px;
   background: #FB9D29;
-  float: left; 
-  border:5px solid black;
+  float: left;
+  margin: 0;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
 }
 
 #representation p {
   display: block;
-  float:left;
+  float: left;
   font-family: 'Palanquin', sans-serif;
   color: #1C1919;
   margin-top: 150px;
@@ -420,13 +423,14 @@ div#twitter {
 }
 
 #contact {
- float: left;
+  float: left;
   display: block;
   background: #1C1919;
   width: 72%;
   height: 450px;
   margin: 0;
-  border: 5px solid black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
 }
 
 #contact div#la-address {
