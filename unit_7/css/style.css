@@ -270,7 +270,7 @@ section#talent {
   padding-right: 12.5px;
 }
 
-section#talent h2 {
+section#talent h2 a {
   margin-left: 75px;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
@@ -279,10 +279,6 @@ section#talent h2 {
   padding-top: 50px;
   padding-bottom: 50px;
   padding-right: 0;
-}
-
-h2 a.visible {
-  color: #1C1919;
 }
 
 section#talent ul {
@@ -417,7 +413,7 @@ div#twitter {
 }
 
 #representation {
-  width: 554px;
+  width: 560px;
   height: 500px;
   background: #FB9D29;
   float: left;
@@ -427,7 +423,7 @@ div#twitter {
 }
 
 #representation p {
- display: block;
+  display: block;
   float: left;
   font-family: 'Roboto Condensed', sans-serif;
   color: #1C1919;
