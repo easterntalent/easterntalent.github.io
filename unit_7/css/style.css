@@ -173,6 +173,9 @@ a, a.visible {
   border:10px solid rgba(0, 0, 0, .8);
 }
 
+a#moz-background-size{
+  color:#FB9D29;
+}
 .col2 { 
   height:400px;
   width:31.33%;
