@@ -149,6 +149,7 @@ a, a.visible {
   padding-top: 6%;
   float: left;
   border-right:3px solid black;
+  border-bottom:5px solid black;
 }
 
 #news-highlight #text {
