@@ -411,7 +411,7 @@ div#twitter {
 }
 
 #representation {
-  width: 28%;
+  width: 554px;
   height: 450px;
   background: #FB9D29;
   float: left;
@@ -454,11 +454,12 @@ div#twitter {
   float: left;
   display: block;
   background: #1C1919;
-  width: 72%;
+  width: 65%;
   height: 450px;
   margin: 0;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
+  border-right: 3px solid black;
 }
 
 #contact div#la-address p {
