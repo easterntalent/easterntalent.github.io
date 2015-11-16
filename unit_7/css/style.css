@@ -164,7 +164,7 @@ a, a.visible {
     color: #1C1919;
     width: 100%;
     margin-left: 80%;
-    border: 10px solid #1C1919;
+    border: 10px solid black;
     float: left;
     display: block;
 }
@@ -239,13 +239,13 @@ section#intro p {
 section#intro p#p1 {
   padding-bottom: 0;
   padding-top: 30px;
-  padding-right: 38px;
+  padding-right: 40px;
 }
 
 section#intro p#p2 {
-  padding-top: 39px;
-  padding-bottom: 29px;
-  padding-right: 38px;
+  padding-top: 24px;
+  padding-bottom: 20px;
+  padding-right: 40px;
 }
 
 section#intro div#intro-para {
@@ -281,6 +281,10 @@ section#talent h2 {
   padding-right: 0;
 }
 
+h2 a {
+  color: #1C1919;
+}
+
 section#talent ul {
   color: white;
   float: left;
@@ -303,9 +307,11 @@ section#talent li {
   line-height: 1.75em;
   margin-left: 15px;
   width: auto;
-  font-weight:bold;
+  font-weight: bold;
   text-shadow: 0px .5px .5px #4d4d4d;
   color: #fff;
+  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 2px;
 }
 
 section#talent li:hover > a {
@@ -442,7 +448,7 @@ div#twitter {
 }
 
 #representation a:hover {
-  color: #FFF5E4;
+  color: #968F8D;
 }
 
 #contact {
