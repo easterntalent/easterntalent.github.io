@@ -325,7 +325,7 @@ li#roster a {
 #client-news {
   width: auto;
   margin: auto;
-  padding: 85px;
+  padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
   background: url('..//images/gold_dark.jpg') no-repeat center center;
    -webkit-background-size: cover;
@@ -468,6 +468,10 @@ div#twitter {
   position: left;
 }
 
+#contact span.main {
+  color:#5B9299;
+}
+
 #contact div#map-la {
   display: block;
   float:left;
@@ -480,6 +484,10 @@ div#twitter {
   margin-left: 10px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
+}
+
+#contact span.nyoff {
+  color:#5B9299;
 }
 
 #contact div#map-ny {
