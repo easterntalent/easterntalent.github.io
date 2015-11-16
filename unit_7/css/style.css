@@ -334,7 +334,15 @@ li#roster a {
     background-size: cover;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=''..//images/gold_dark.jpg, sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
-  background-color: rgba(233,211,189,.3);
+}
+
+#overlay {
+  background-color: rgba(233,211,189,.1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .col3 { 
