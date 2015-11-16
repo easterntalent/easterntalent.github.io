@@ -281,7 +281,7 @@ section#talent h2 {
   padding-right: 0;
 }
 
-h2 a {
+h2 a.visible {
   color: #1C1919;
 }
 
