@@ -250,8 +250,7 @@ section#talent {
   width: 54%;
   height: 450px;
   float: left;
-  border-top: 5px solid black;
-  border-right: 5px solid black;
+  border-bottom: 5px solid black;
   border-left: 1px solid black;
 }
 
