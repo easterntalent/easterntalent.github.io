@@ -20,7 +20,6 @@ html {
 
 body {
 	font-family: 'Archivo-Narrow', sans-serif;
-	font-weight: 300;
 	font-weight: 400;
   height: auto !important;
   height: 100%;
@@ -410,7 +409,7 @@ div#twitter {
 }
 
 #representation {
-  width: 560px;
+  width: 557px;
   height: 500px;
   background: #F19F0F;
   float: left;
