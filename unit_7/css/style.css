@@ -148,10 +148,10 @@ a, a.visible {
 #news-highlight img {
   height: 55%;
   width: 55%;
-  padding-top: 6%;
+  padding-top: 5%;
   float: left;
-  border-right:3px solid black;
-  border-bottom:5px solid black;
+  border-right: 3px solid black;
+  border-bottom: 5px solid black;
 }
 
 #news-highlight #text {
@@ -214,6 +214,7 @@ a#more.visible {
   text-align: left;
   border-right:2px solid black;
   border-bottom: 5px solid black;
+  border-top:5px solid black;
   margin: 0;
   padding: 0;
   height: 475px;
@@ -267,6 +268,7 @@ section#talent {
   float: left;
   border-bottom: 5px solid black;
   border-left: 1px solid black;
+  border-top:5px solid black;
   padding-right: 12.5px;
 }
 
