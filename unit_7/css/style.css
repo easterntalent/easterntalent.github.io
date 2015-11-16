@@ -441,6 +441,10 @@ div#twitter {
   color: #5B9299;
 }
 
+#representation a:hover {
+  color: #FFF5E4;
+}
+
 #contact {
   float: left;
   display: block;
