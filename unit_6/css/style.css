@@ -253,6 +253,7 @@ section#talent {
   float: left;
   border-bottom: 5px solid black;
   border-left: 1px solid black;
+  padding-right: 12.5px;
 }
 
 section#talent h2 {
@@ -267,7 +268,6 @@ section#talent h2 {
 }
 
 section#talent ul {
-  background: rgba(0,0,0,.08);
   color: white;
   float: left;
   font-family: 'Palanquin', sans-serif;
@@ -290,6 +290,10 @@ section#talent li {
   margin-right: 0px;
   margin-left: 0px;
   width: 170%;
+}
+
+div#background-talent {
+  background:rgba(0,0,0,.08)
 }
 
 section#talent li:hover > a {
