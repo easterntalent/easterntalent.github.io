@@ -194,7 +194,9 @@ section#news-highlight a:hover {
 }
 
 section#news-highlight a#more {
-  color:#FB9D29;
+  padding: 12px 10px 10px;
+  color: #566473;
+  text-shadow: none;
 }
 
 .col1 { 
