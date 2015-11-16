@@ -411,8 +411,8 @@ div#twitter {
 }
 
 #representation {
-  width: 554px;
-  height: 450px;
+  width: 28%;
+  height: 500px;
   background: #FB9D29;
   float: left;
   margin: 0;
@@ -421,9 +421,9 @@ div#twitter {
 }
 
 #representation p {
-  display: block;
+ display: block;
   float: left;
-  font-family: 'Palanquin', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: #1C1919;
   margin-top: 150px;
   margin-left: 20px;
@@ -431,10 +431,26 @@ div#twitter {
   text-align: center;
   line-height: 1.5;
   text-transform: uppercase;
+  background: #D3CBBD;
+  border: 3px solid black;
+  font-size: 20px;
+  padding: 10px;
 }
 
 #representation a {
-  color: #1C1919;
+  color: #5B9299;
+}
+
+#contact {
+  float: left;
+  display: block;
+  background: #1C1919;
+  width: 65%;
+  height: 500px;
+  margin: 0;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 3px solid black;
 }
 
 #contact h4 {
@@ -448,18 +464,6 @@ div#twitter {
 
 #contact a {
   color: #FB9D29;
-}
-
-#contact {
-  float: left;
-  display: block;
-  background: #1C1919;
-  width: 65%;
-  height: 450px;
-  margin: 0;
-  border-top: 5px solid black;
-  border-bottom: 5px solid black;
-  border-right: 3px solid black;
 }
 
 #contact div#la-address p {
@@ -488,7 +492,7 @@ div#twitter {
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 24px;
+  padding-left: 35px;
 }
 
 #contact span.nyoff {
