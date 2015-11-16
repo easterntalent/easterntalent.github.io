@@ -2,13 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 html { 
-    background: url('..//images/gold_dark.jpg') no-repeat center center;
-	 -webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-  	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=''..//images/gold_dark.jpg, sizingMethod='scale');
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 }
 
 * {
@@ -140,8 +133,14 @@ a, a.visible {
   background: #D4CBBD;
   width:auto;
   height:550px;
-  background: rgba(233,211,189,.1);
-  background-size: cover;
+  background: url('..//images/gold_dark.jpg') no-repeat center center;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=''..//images/gold_dark.jpg, sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+  background-color: rgba(233,211,189,.1);
 }
 
 #news-highlight img {
@@ -335,7 +334,14 @@ li#roster a {
   margin: auto;
   padding: 85px;
   border-top: 5px solid black;
-  background: rgba(233,211,189,.3);
+  background: url('..//images/gold_dark.jpg') no-repeat center center;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=''..//images/gold_dark.jpg, sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+  background-color: rgba(233,211,189,.3);
 }
 
 .col3 { 
