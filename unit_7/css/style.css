@@ -193,7 +193,7 @@ section#news-highlight a:hover {
   color: #FB9D29;
 }
 
-a#more.visible {
+section#news-highlight a#more.visible {
   color:#FB9D29;
 }
 
@@ -234,20 +234,20 @@ section#intro p {
   color: #D3CBBD;
   text-align: justify;
   font-family: 'Palanquin', sans-serif;
-  width: 95%;
+  width: 89%;
   padding: 25px 16px 32px 16px;
 }
 
 section#intro p#p1 {
   padding-bottom: 0;
   padding-top: 30px;
-  padding-right: 18px;
+  padding-right: 19px;
 }
 
 section#intro p#p2 {
   padding-top: 15px;
   padding-bottom: 29px;
-  padding-right: 18px;
+  padding-right: 19px;
 }
 
 section#intro div#intro-para {
@@ -257,6 +257,7 @@ section#intro div#intro-para {
 hr#hr2 {
   border-top: 1px solid #1C1919;
   border-bottom: 1px solid #fff;
+  width:101% ;
 }
 
 section#talent {
@@ -302,9 +303,9 @@ section#talent li {
   padding: 7px 4px 3px 4px;
   display: block;
   line-height: 1.75em;
-  margin-right: 0px;
-  margin-left: 0px;
-  width: 170%;
+  margin-left: 15px;
+  width: auto;
+  font-weight:bold;
 }
 
 section#talent li:hover > a {
@@ -317,16 +318,16 @@ section#talent a, a.visible {
 }
 
 li#roster a {
-  color: #456F74;
+  color: #5B9299;
+  font-weight:bold;
 }
 
 #client-news {
-  width: 90%;
+  width: auto;
   margin: auto;
   padding: 85px;
   border-top: 5px solid black;
   background: rgba(233,211,189,.1);
-  background-size: cover;
 }
 
 .col3 { 
