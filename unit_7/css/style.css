@@ -194,9 +194,13 @@ section#news-highlight a:hover {
 }
 
 section#news-highlight a#more {
-  padding: 12px 10px 10px;
-  color: #566473;
-  text-shadow: none;
+  display: block;
+  text-shadow: 0 0 1px rgba(255,255,255,0.3);
+  padding: 10px 20px;
+  background: #0f7c67;
+  -webkit-transition: -webkit-transform 0.3s;
+  -moz-transition: -moz-transform 0.3s;
+  transition: transform 0.3s;
 }
 
 .col1 { 
