@@ -473,16 +473,17 @@ div#twitter {
 
 #contact div#map-la {
   display: block;
-  float:left;
-  padding: 10px; 
-  position: below;
+  float: left;
+  padding: 25px;
 }
+
 #contact div#ny-address {
   display: block;
-  float:left;
+  float: left;
   margin-left: 10px;
   font-family: 'Palanquin', sans-serif;
   font-size: 24px;
+  padding-left: 35px;
 }
 
 #contact span.nyoff {
@@ -491,9 +492,8 @@ div#twitter {
 
 #contact div#map-ny {
   display: block;
-  float:left;
-  padding: 10px;
-  position: below;
+  float: left;
+  padding: 25px;
 }
 
 footer {	
