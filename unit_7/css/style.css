@@ -209,12 +209,12 @@ section#news-highlight a#more {
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
-  border-right:2px solid black;
+  border-right: 2px solid black;
   border-bottom: 5px solid black;
-  border-top:5px solid black;
+  border-top: 5px solid black;
   margin: 0;
   padding: 0;
-  height: 475px;
+  height: 525px;
 }
 
 #intro h1 {
@@ -223,8 +223,8 @@ section#news-highlight a#more {
   text-align: center;
   font-size: 65px;
   line-height: 125%;
-  padding-bottom: 30px;
-  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 section#intro p {
@@ -262,7 +262,7 @@ section#talent {
   display: block;
   background: #FB9D29;
   width: 54%;
-  height: 475px;
+  height: 500px;
   float: left;
   border-bottom: 5px solid black;
   border-left: 1px solid black;
