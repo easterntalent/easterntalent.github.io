@@ -336,15 +336,6 @@ li#roster a {
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
 }
 
-#layer {
-  background-color: rgba(233,211,189,.3);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .col3 { 
   height:400px;
   width:31.33%;
