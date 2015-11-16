@@ -437,7 +437,7 @@ div#twitter {
   color: #1C1919;
 }
 
-#contact h4 {
+#contact h4 a {
   margin-left: 75px;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
