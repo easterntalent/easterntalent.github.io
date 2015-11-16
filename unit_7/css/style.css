@@ -160,7 +160,7 @@ a, a.visible {
 }
 
 #news-highlight #text p {
-  background: rgba(0,0,0,.07);
+  background: #D3CBBD;
   padding: 7px 15px 7px 20px;
   position: relative;
   font-size: 22px;
