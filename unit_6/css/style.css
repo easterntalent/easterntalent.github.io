@@ -292,10 +292,6 @@ section#talent li {
   width: 170%;
 }
 
-div#background-talent {
-  background:rgba(0,0,0,.08)
-}
-
 section#talent li:hover > a {
   color: #968F8D;
 }
