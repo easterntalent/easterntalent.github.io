@@ -141,6 +141,8 @@ a, a.visible {
   background: #D4CBBD;
   width:auto;
   height:550px;
+  background: rgba(233,211,189,.1);
+  background-size: cover;
 }
 
 #news-highlight img {
@@ -150,7 +152,6 @@ a, a.visible {
   float: left;
   border-right:3px solid black;
   border-bottom:5px solid black;
-  background:rgba(233,211,189,.1);
 }
 
 #news-highlight #text {
