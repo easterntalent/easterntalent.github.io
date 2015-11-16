@@ -203,6 +203,28 @@ section#news-highlight a#more {
   transition: transform 0.3s;
 }
 
+#more a::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  padding: 10px 20px;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  color: #0f7c67;
+  content: attr(data-hover);
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+    -webkit-transform: translateX(-25%);
+}
+
+#more a {
+  overflow: hidden;
+  margin: 0 15px;
+}
+
 .col1 { 
   height:400px;
   width:31.33%;
