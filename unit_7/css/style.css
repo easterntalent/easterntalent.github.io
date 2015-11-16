@@ -140,6 +140,7 @@ a, a.visible {
   float: left;
   background: #D4CBBD;
   width:auto;
+  height:550px;
 }
 
 #news-highlight img {
@@ -168,7 +169,7 @@ a, a.visible {
   font-family: 'Palanquin', sans-serif;
   text-transform: uppercase;
   color: #1C1919;
-  width: 50%;
+  width: 100%;
   margin-left: 38%;
   border:10px solid rgba(0, 0, 0, .8);
 }
