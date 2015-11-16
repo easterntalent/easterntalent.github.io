@@ -464,11 +464,11 @@ div#twitter {
 #contact div#la-address p {
   display: block;
   float: left;
-  margin-left: 25px;
+  margin-left: 0;
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 75px;
+  padding-left: 50px;
 }
 
 #contact span.main {
@@ -476,19 +476,18 @@ div#twitter {
 }
 
 #contact div#map-la {
-  display: block;
-  float: left;
-  padding: 25px;
+    display: block;
+    float: left;
+    padding: 25px;
 }
 
 #contact div#ny-address p {
   display: block;
   float: left;
-  margin-left: 10px;
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 35px;
+  padding-left: 24px;
 }
 
 #contact span.nyoff {
