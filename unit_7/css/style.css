@@ -302,7 +302,7 @@ section#talent li {
   padding: 7px 4px 3px 4px;
   display: block;
   line-height: 1.75em;
-  margin-left: 15px;
+  margin-left: 10px;
   width: auto;
   font-weight: bold;
   text-shadow: 0px .5px .5px #4d4d4d;
@@ -428,16 +428,18 @@ div#twitter {
   float: left;
   font-family: 'Roboto Condensed', sans-serif;
   color: #1C1919;
-  margin-top: 150px;
-  margin-left: 20px;
-  margin-right: 20px;
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.75;
   text-transform: uppercase;
   background: #D3CBBD;
-  border: 3px solid black;
-  font-size: 20px;
-  padding: 10px;
+  font-size: 22px;
+  border-bottom: 4px solid black;
+  border-top: 4px solid black;
+  border-right: 4px solid black;
+  height: 225px;
+  width: 400px;
+  padding: 90px 25px 0px 25px;
+  margin-top: 15%;
 }
 
 #representation a {
@@ -457,13 +459,14 @@ div#twitter {
   margin: 0;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
-  border-right: 3px solid black;
+  border-right: 5px solid black;
 }
 
 #contact h4 {
   margin-left: 75px;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
+  color:#F19F0F;
   text-align: justify;
   padding-bottom: 50px;
   padding-top: 50px;
@@ -480,7 +483,7 @@ div#twitter {
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 50px;
+  padding-left: 80px;
 }
 
 #contact span.main {
