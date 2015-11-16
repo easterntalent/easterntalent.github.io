@@ -458,7 +458,7 @@ div#twitter {
   border-bottom: 5px solid black;
 }
 
-#contact div#la-address {
+#contact div#la-address p {
   display: block;
   float: left;
   margin-left: 25px;
@@ -478,7 +478,7 @@ div#twitter {
   padding: 25px;
 }
 
-#contact div#ny-address {
+#contact div#ny-address p {
   display: block;
   float: left;
   margin-left: 10px;
