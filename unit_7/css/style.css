@@ -59,7 +59,7 @@ h3 h4 h5 {
 
 p {
   font-size: 18px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 a, a.visible {
@@ -522,6 +522,7 @@ div#footer-ny {
 
 div#copyright {
   position:center;
+  float:left;
 }
 
 footer {	
@@ -534,13 +535,13 @@ footer {
   top: 0;
   left: 0;
   right: 0;
-  text-align: center;
   text-decoration: none !important;
   text-transform: uppercase;
   color: #F19F0F;
   line-height: 1;
   display: block;
   position: relative;
+  font-family:'Roboto Condensed', sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
