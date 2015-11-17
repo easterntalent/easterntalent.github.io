@@ -519,6 +519,11 @@ div#footer-la {
 div#footer-ny {
 
 }
+
+div#copyright {
+  position:center;
+}
+
 footer {	
   clear: both;
   background: #456F74;
