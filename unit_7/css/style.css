@@ -330,13 +330,7 @@ li#roster a {
   margin: auto;
   padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
-  /*background: url('..//images/gold_dark.jpg') no-repeat center center;
-   -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=''..//images/gold_dark.jpg, sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";*/
+  background: url('..//images/gold_dark.jpg');
 }
 
 .col3 { 
