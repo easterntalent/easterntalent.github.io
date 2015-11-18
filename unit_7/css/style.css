@@ -28,6 +28,10 @@ body {
 	color: #D3CBBD;
 }
 
+#wrapper {
+  width:90%;
+}
+
 header {
 	background: #403D3C;
 	height: 90px;
@@ -131,7 +135,7 @@ a, a.visible {
   float: left;
   width: auto;
   height: 550px;
-  background: url('..//images/gold_darklighter.jpg') no-repeat;
+  background: url('..//images/gold_darklighter.jpg') center center no-repeat;
 }
 
 #news-highlight img {
@@ -324,7 +328,7 @@ li#roster a {
   margin: auto;
   padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
-  background: url('..//images/gold_darklighter.jpg') center no-repeat;
+  background: url('..//images/gold_darklighter.jpg') center center;
 }
 
 .col3 { 
