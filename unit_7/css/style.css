@@ -134,7 +134,7 @@ a, a.visible {
   background: url('..//images/gold_dark.jpg');
 }
 
-#layer {
+.layer {
   background-color:rgba(233,211,189,.1);
   width:100%;
   height:100%;
