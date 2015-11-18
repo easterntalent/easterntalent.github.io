@@ -131,8 +131,10 @@ a, a.visible {
   float: left;
   width: auto;
   height: 550px;
-  /*background: transparent url('..//images/gold_dark.jpg') no-repeat center 0 0;
-  background: rgba(233,211,189,.1);*/
+  background: linear-gradient(
+    rgba(233,211,189,.1), 
+    ),
+    url('..//images/gold_dark.jpg');
 }
 
 #news-highlight img {
