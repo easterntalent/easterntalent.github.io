@@ -324,7 +324,7 @@ li#roster a {
   margin: auto;
   padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
-  background: url('..//images/gold_darklighter.jpg') no-repeat;
+  background: url('..//images/gold_darklighter.jpg') center no-repeat;
 }
 
 .col3 { 
