@@ -35,6 +35,9 @@ body {
 	color: #D3CBBD;
 }
 
+#wrapper {
+
+}
 
 header {
 	background: #403D3C;
@@ -138,8 +141,7 @@ a, a.visible {
   display: block;
   float: left;
   width: auto;
-  /*background: url('..//images/gold_darklighter.png') center center no-repeat;
-  background-size: cover;*/
+ max-height:550px;
 }
 
 #news-highlight img {
