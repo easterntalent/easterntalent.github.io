@@ -134,9 +134,8 @@ a, a.visible {
   display: block;
   float: left;
   width: auto;
-  height: 550px;
-  background: url('..//images/gold_darklighter.png') center center no-repeat;
-  background-size: cover;
+  /*background: url('..//images/gold_darklighter.png') center center no-repeat;
+  background-size: cover;*/
 }
 
 #news-highlight img {
@@ -329,8 +328,8 @@ li#roster a {
   margin: auto;
   padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
-  background: url('..//images/gold_darklighter.png') center center no-repeat;
-  background-size: cover;
+  /*background: url('..//images/gold_darklighter.png') center center no-repeat;
+  background-size: cover;*/
 }
 
 .col3 { 
