@@ -422,7 +422,7 @@ div#twitter {
   margin: 0;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
-  padding-bottom:100px;
+  padding-bottom:50px;
 }
 
 #representation p {
@@ -461,7 +461,7 @@ div#twitter {
   border-top: 5px solid black;
   border-bottom: 5px solid black;
   border-right: 5px solid black;
-  padding-bottom:100px;
+  padding-bottom:50px;
 }
 
 #contact h4 {
@@ -517,18 +517,6 @@ div#twitter {
   display: block;
   float: left;
   padding: 25px;
-}
-
-div#footer-la {
-  float: left;
-  font-family: 'Roboto Condensed', sans-serif;
-  padding-left:100px;
-}
-
-div#footer-ny {
-  font-size: 18px;
-  float: left;
-  padding-right:100px;
 }
 
 div#copyright {
