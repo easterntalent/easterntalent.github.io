@@ -131,7 +131,7 @@ a, a.visible {
   float: left;
   width: auto;
   height: 550px;
-  background: url('..//images/gold_dark.jpg');
+  background: url('..//images/gold_dark.jpg') no-repeat;
 }
 
 .layer {
@@ -330,7 +330,7 @@ li#roster a {
   margin: auto;
   padding: 85px 85px 150px 85px;
   border-top: 5px solid black;
-  background: url('..//images/gold_dark.jpg');
+  background: url('..//images/gold_dark.jpg') no-repeat;
 }
 
 .col3 { 
