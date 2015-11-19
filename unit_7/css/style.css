@@ -254,6 +254,7 @@ hr#hr2 {
   border-top: 1px solid #1C1919;
   border-bottom: 1px solid #fff;
   width:inherit;
+  border: 0;
 }
 
 section#talent {
@@ -420,16 +421,6 @@ div#twitter {
   height: inherit;
   margin-top: 5px;
   margin-right: 80px;
-}
-
-.divider {
-  position:absolute;
-  left:50%;
-  top:10%;
-  bottom:10%;
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
 .col4 { 
