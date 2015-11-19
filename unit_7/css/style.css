@@ -327,7 +327,7 @@ li#roster a {
   width: auto;
   border-top: 5px solid black;
   margin-left: 80px;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 .col3 { 
@@ -406,16 +406,10 @@ div#news2 p {
 }
 
 div#news3 p {
-  width: 435px;
-  height: 475px;
-  margin-right: 50px;
-  margin-left: -10px;
-  margin-top: 40px;
+ margin-top:30px;
 }
 
 div#news4 p {
-  width: 425px;
-  height: 475px;
   margin-top: 40px;
 }
 
