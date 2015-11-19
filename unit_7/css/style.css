@@ -376,19 +376,20 @@ li#roster a {
 }
 
 div#news1 {
- width: 435px;
+  width: 435px;
   height: 475px;
   margin-right: 10px;
 }
 
 div#news2 {
-  width: 435px;
+  width: 425px;
   height: 475px;
 }
 
 div#news3 {
-  width: 425px;
+  width: 435px;
   height: 475px;
+  margin-right: 10px;
 }
 
 div#news4 {
@@ -405,14 +406,11 @@ div#news2 p {
 }
 
 div#news3 p {
-  width: 435px;
-  height: 475px;
-  margin-right: 10px;
+  margin-top:30px;
 }
 
 div#news4 p {
-  width: 435px;
-  height: 475px;
+  margin-top:10px;
 }
 
 div#twitter {
