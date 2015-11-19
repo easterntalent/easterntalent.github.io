@@ -148,27 +148,27 @@ a, a.visible {
 
 #news-highlight img {
   height: 55%;
-  width: 55%;
-  padding-top: 5%;
-  float: left;
-  border-right: 3px solid black;
-  border-bottom: 5px solid black;
+    width: 55%;
+    float: left;
+    border-right: 5px solid black;
+    margin-top: 6%;
 }
 
-section#news-highlight #text {
+section#news-highlight #text p {
   display: block;
-  background: #D3CBBD;
-  padding: 7px 15px 7px 20px;
-  font-size: 22px;
-  text-align: justify;
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  color: #1C1919;
-  width: 100%;
-  margin-left: 80%;
-  border: 5px solid black;
-  float: left;
-  line-height:1.5;
+    background: #D3CBBD;
+    padding: 7px 15px 7px 20px;
+    font-size: 22px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #1C1919;
+    width: 33.3333%;
+    border: 5px solid black;
+    float: right;
+    line-height: 1.5;
+    margin-top: 14%;
+    margin-right: 6%
 }
 
 a#moz-background-size {
@@ -207,15 +207,14 @@ section#news-highlight a#more {
 
 #intro {
   display: block;
-  width: 45%;
+  width: 100%;
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
   border-bottom: 5px solid black;
   border-top: 5px solid black;
-  margin: 0;
-  padding: 0;
   height: 552px;
+  float: left;
 }
 
 #intro h1 {
@@ -238,19 +237,12 @@ section#intro p {
 }
 
 section#intro p#p1 {
-  padding-bottom: 0;
-  padding-top: 30px;
-  padding-right: 40px;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 50px;
 }
 
 section#intro p#p2 {
-  padding-top: 24px;
-  padding-bottom: 20px;
-  padding-right: 40px;
-}
-
-section#intro div#intro-para {
-  padding-top: 0px;
 }
 
 hr#hr2 {
