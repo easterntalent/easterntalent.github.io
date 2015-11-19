@@ -391,11 +391,13 @@ div#news3 {
   height: 475px;
   margin-right: 50px;
   margin-left:-10px;
+  margin-top:40px;
 }
 
 div#news4 {
   width: 425px;
   height: 475px;
+  margin-top:40px;
 }
 
 div#news1 p {
