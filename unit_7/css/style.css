@@ -155,15 +155,8 @@ a, a.visible {
   border-bottom: 5px solid black;
 }
 
-#news-highlight #text {
+#news-highlight p {
   display: block;
-  padding-top: 50px;
-  padding-bottom: 20px;
-  padding-left: 35%;
-  margin-top: -25%;
-}
-
-#news-highlight #text p {
   background: #D3CBBD;
   padding: 7px 15px 7px 20px;
   font-size: 22px;
@@ -173,9 +166,8 @@ a, a.visible {
   color: #1C1919;
   width: 100%;
   margin-left: 80%;
-  border: 10px solid black;
+  border: 5px solid black;
   float: left;
-  display: block;
   line-height:1.5;
 }
 
