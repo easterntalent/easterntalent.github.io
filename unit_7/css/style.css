@@ -377,17 +377,22 @@ li#roster a {
 
 div#news1 {
   width: 425px;
-  height: inherit;
+  height: 475px;
 }
 
 div#news2 {
   width: 425px;
-  height: inherit;
+  height: 475px;
 }
 
 div#news3 {
   width: 425px;
-  height: inherit;
+  height: 475px;
+}
+
+div#news4 {
+  width: 425px;
+  height: 475px;
 }
 
 div#news1 p {
