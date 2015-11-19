@@ -388,7 +388,7 @@ div#news2 {
 div#news3 {
   width: 435px;
   height: 475px;
-  margin-right: 10px;
+  margin-right: 50px;
   margin-left:-10px;
 }
 
@@ -410,7 +410,7 @@ div#news3 p {
 }
 
 div#news4 p {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 div#twitter {
