@@ -143,32 +143,32 @@ a, a.visible {
   display: block;
   float: left;
   width: auto;
- max-height:550px;
+  max-height:550px;
 }
 
 #news-highlight img {
   height: 55%;
-    width: 55%;
-    float: left;
-    border-right: 5px solid black;
-    margin-top: 6%;
+  width: 55%;
+  float: left;
+  border-right: 5px solid black;
+  margin-top: 6%;
 }
 
 section#news-highlight #text p {
   display: block;
-    background: #D3CBBD;
-    padding: 7px 15px 7px 20px;
-    font-size: 22px;
-    text-align: justify;
-    font-family: 'Raleway', sans-serif;
-    text-transform: uppercase;
-    color: #1C1919;
-    width: 33.3333%;
-    border: 5px solid black;
-    float: right;
-    line-height: 1.5;
-    margin-top: 14%;
-    margin-right: 6%
+  background: #D3CBBD;
+  padding: 7px 15px 7px 20px;
+  font-size: 22px;
+  text-align: justify;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  color: #1C1919;
+  width: 33.3333%;
+  border: 5px solid black;
+  float: right;
+  line-height: 1.5;
+  margin-top: 14%;
+  margin-right: 6%
 }
 
 a#moz-background-size {
@@ -188,8 +188,10 @@ section#news-highlight a:hover {
 }
 
 section#news-highlight a#more {
+  color:#F19F0F;
   display: block;
   text-shadow: 0 0 1px rgba(255,255,255,0.3);
+  text-transform:uppercase bold;
   padding: 10px 20px;
   background: #0f7c67;
   -webkit-transition: -webkit-transform 0.3s;
@@ -213,8 +215,11 @@ section#news-highlight a#more {
   text-align: left;
   border-bottom: 5px solid black;
   border-top: 5px solid black;
-  height: 552px;
+  height: inherit;
   float: left;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 #intro h1 {
@@ -232,8 +237,7 @@ section#intro p {
   color: #D3CBBD;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
-  width: 89%;
-  padding: 25px 16px 32px 40px;
+  width: 100%;
 }
 
 section#intro p#p1 {
@@ -243,24 +247,25 @@ section#intro p#p1 {
 }
 
 section#intro p#p2 {
+  padding: 2% 25% 50px 25%;
 }
 
 hr#hr2 {
   border-top: 1px solid #1C1919;
   border-bottom: 1px solid #fff;
-  width:101% ;
+  width:inherit;
 }
 
 section#talent {
   display: block;
   background: #F19F0F;
-  width: 54%;
-  height: 552px;
+  width: 100%;
+  height: inherit;
   float: left;
   border-bottom: 5px solid black;
-  border-left: 4px solid black;
-  border-top: 5px solid black;
-  padding-right: 12.5px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
 }
 
 section#talent h2 a {
@@ -269,6 +274,7 @@ section#talent h2 a {
   font-size: 65px;
   color: #1C1919;
   text-align: justify;
+  text-transform: uppercase;
 }
 
 section#talent h2 {
@@ -277,19 +283,21 @@ section#talent h2 {
 }
 
 section#talent ul {
-  float: left;
+ float: left;
   font-size: 22px;
   color: #FFF5E4;
   list-style: none;
   text-transform: uppercase;
-  padding: 45px 0px 5px 80px;
-  font-weight:500;
+  font-weight: 500;
   margin-left: 0px;
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    -webkit-column-gap: 25px;
-    -moz-column-gap: 25px;
-    column-gap: 25px;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  -webkit-column-gap: 25px;
+  -moz-column-gap: 25px;
+  column-gap: 25px;
+  padding-left: 25%;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 section#talent li {
