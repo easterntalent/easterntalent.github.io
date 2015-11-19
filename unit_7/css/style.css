@@ -326,7 +326,7 @@ li#roster a {
 #client-news {
   width: auto;
   margin: auto;
-  padding: 85px 65px 150px 65px;
+  padding: 85px 35px 150px 35px;
   border-top: 5px solid black;
   /*background: url('..//images/gold_darklighter.png') center center no-repeat;
   background-size: cover;*/
@@ -379,6 +379,7 @@ div#news1 {
   width: 435px;
   height: 475px;
   margin-right: 10px;
+  margin-left: -10px;
 }
 
 div#news2 {
@@ -390,6 +391,7 @@ div#news3 {
   width: 435px;
   height: 475px;
   margin-right: 10px;
+  margin-left:-10px;
 }
 
 div#news4 {
@@ -414,12 +416,12 @@ div#news4 p {
 }
 
 div#twitter {
-  float:right;
+  float: right;
   background: #5B9299;
-  width:25%;
-  height:inherit;
-  margin-top:5px;
-  padding:26px;
+  width: 30%;
+  height: inherit;
+  margin-top: 5px;
+  margin-right: 0;
 }
 
 .col4 { 
