@@ -125,10 +125,10 @@ a, a.visible {
 }
 
 #menu > ul > li > a {
-	padding: 17px;
+	padding: 10px;
   font-size: 18px;
   letter-spacing: 1px;
-  word-spacing: 5px;
+  word-spacing: 2px;
   text-decoration: none !important;
   color: #D3CBBD;
   font-weight: 400;
