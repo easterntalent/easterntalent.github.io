@@ -347,6 +347,7 @@ li#roster a {
   font-size: 65px;
   color: #5B9299;
   text-align: justify;
+  text-transform:uppercase;
   padding-top:75%;
   padding-bottom:50px;
   text-shadow: 0px .5px .5px #4d4d4d;
@@ -375,7 +376,18 @@ li#roster a {
 }
 
 div#news1 {
-  
+  width: 425px;
+  height: inherit;
+}
+
+div#news2 {
+  width: 425px;
+  height: inherit;
+}
+
+div#news3 {
+  width: 425px;
+  height: inherit;
 }
 
 div#news1 p {
