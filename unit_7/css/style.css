@@ -257,24 +257,24 @@ hr#hr2 {
 }
 
 section#talent {
-  display: block;
+ display: block;
   background: #F19F0F;
   width: 100%;
   height: inherit;
   float: left;
   border-bottom: 5px solid black;
   padding: 0;
-  margin: 0;
+  margin: 0 0 50px 0;
   overflow: hidden;
 }
 
 section#talent h2 a {
-  margin-left: 75px;
-  font-family: 'Roboto Condensed', sans-serif;
+ font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
   color: #1C1919;
   text-align: justify;
   text-transform: uppercase;
+  padding-left: 15%;
 }
 
 section#talent h2 {
@@ -295,7 +295,7 @@ section#talent ul {
   -webkit-column-gap: 25px;
   -moz-column-gap: 25px;
   column-gap: 25px;
-  padding-left: 25%;
+  padding-left: 22%;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -372,6 +372,10 @@ li#roster a {
   margin-right: auto;
   padding-bottom:0px;
   outline: 1px solid #1C1919;
+}
+
+div#news1 {
+  
 }
 
 div#news1 p {
