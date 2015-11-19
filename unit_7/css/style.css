@@ -524,7 +524,11 @@ div#copyright {
   padding-left:40%;
 }
 
-footer a {	
+footer a {
+  color:#F19F0F;
+}
+
+footer {	
   clear:both;
   background: #456F74;
   font-weight: 500;
