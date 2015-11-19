@@ -155,7 +155,7 @@ a, a.visible {
   border-bottom: 5px solid black;
 }
 
-#news-highlight p {
+section#news-highlight #text {
   display: block;
   background: #D3CBBD;
   padding: 7px 15px 7px 20px;
