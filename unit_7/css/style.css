@@ -351,6 +351,7 @@ section#talent li {
   width: auto;
   color: #D3CBBD;
   font-family: 'Raleway', sans-serif;
+  font-size: 24px;
 }
 
 section#talent li:hover > a {
