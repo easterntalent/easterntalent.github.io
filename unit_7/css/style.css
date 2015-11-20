@@ -305,13 +305,13 @@ section#talent h2 {
   padding-bottom: 15px;
   background-color: #D3CBBD;
   padding-top: 15px;
-  border-bottom: 5px solid black;
+  border-bottom: 5px solid #456F74;
   margin-right: 50%;
-  border-right: 5px solid black;
+  border-right: 5px solid #456F74;
   padding-left: 25%;
   margin-bottom: 75px;
-  border-top: 5px solid black;
-  outline: 3px solid #456F74;
+  border-top: 5px solid #456F74;
+  outline: 4px solid black;
 }
 
 section#talent ul {
@@ -378,15 +378,15 @@ section#talent a, a.visible {
   text-transform: uppercase;
   padding-top: 15px;
   padding-bottom: 15px;
-  border-bottom: 5px solid black;
-  border-right: 5px solid black;
+  border-bottom: 5px #456F74;
+  border-right: 5px #456F74;
   background-color: #D3CBBD;
   background-size: inherit;
   margin-right: 50%;
   padding-left: 25%;
   margin-bottom: 100px;
-  border-top: 5px solid black;
-  outline: 3px solid #456F74;
+  border-top: 5px #456F74;
+  outline: 4px solid black;
 }
 
 #client-news p {
