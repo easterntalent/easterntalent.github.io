@@ -324,14 +324,14 @@ section#talent h2 a {
 }
 
 section#talent h2 {
-  padding-bottom: 25px;
+  padding-bottom: 15px;
   background-color: #D3CBBD;
-  padding-top: 25px;
+  padding-top: 15px;
   border-bottom: 5px solid black;
   margin-right: 25%;
   border-right: 5px solid black;
   margin-top: 0;
-  padding-left:49%;
+  padding-left:51%;
 }
 
 section#talent ul {
@@ -399,8 +399,8 @@ li#roster a {
   color: #1C1919;
   text-align: justify;
   text-transform: uppercase;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-bottom: 5px solid black;
   border-left: 5px solid black;
   margin-bottom: 50px;
