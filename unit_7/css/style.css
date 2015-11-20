@@ -314,10 +314,14 @@ section#talent h2 {
   margin-bottom: 75px;
 <<<<<<< HEAD
   border-top: 4px solid #456F74;
+<<<<<<< HEAD
 =======
   border-top: 5px solid #456F74;
   outline: 4px solid black;
 >>>>>>> parent of b469612... fs
+=======
+  outline: 5px solid black;
+>>>>>>> parent of 16c8090... f
 }
 
 section#talent ul {
