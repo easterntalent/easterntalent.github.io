@@ -420,14 +420,14 @@ div#news1 {
   height: 475px;
   margin-right: 50px;
   margin-left: 50px;
-  outline: 5px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 div#news2 {
   width: 425px;
   height: 475px;
   margin-left:15px;
-  outline: 5px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 div#news3 {
@@ -436,7 +436,7 @@ div#news3 {
   margin-top: 40px;
   margin-right: 50px;
   margin-left: 50px;
-  outline: 5px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 div#news4 {
@@ -444,7 +444,7 @@ div#news4 {
   height: 475px;
   margin-top:40px;
   margin-left:15px;
-  outline: 5px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 div#news1 p {
@@ -470,7 +470,7 @@ div#twitter {
   height: inherit;
   margin-top: 5px;
   margin-right: 60px;
-  outline: 5px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 .col4 { 
