@@ -193,7 +193,7 @@ section#news-highlight a#more {
   text-decoration:underline;
 }
 
-section#news-highlight a:hover #more {
+section#news-highlight a#more:hover {
   color: #FFF5E4;
   }
 
