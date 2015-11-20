@@ -535,12 +535,14 @@ div#twitter {
 
 #contact h4 {
   margin-left: 75px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Gruppo', sans-serif;
+  color: #F19F0F;
+  text-align: left;
   font-size: 65px;
-  color:#F19F0F;
-  text-align: justify;
+  line-height: 125%;
   padding-bottom: 50px;
   padding-top: 50px;
+  text-transform: uppercase;
 }
 
 #contact a {
