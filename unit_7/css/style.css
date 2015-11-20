@@ -188,15 +188,14 @@ section#news-highlight a:hover {
 }
 
 section#news-highlight a#more {
-  color:#F19F0F;
-  display: block;
-  text-transform:uppercase bold;
-  padding: 10px 20px;
-  background: #0f7c67;
-  -webkit-transition: -webkit-transform 0.3s;
-  -moz-transition: -moz-transform 0.3s;
-  transition: transform 0.3s;
+  color:black;
+  font-weight:bolder;
+  text-decoration:underline;
 }
+
+section#news-highlight a:hover #more {
+  color: #FFF5E4;
+  }
 
 .col1 { 
   height:400px;
