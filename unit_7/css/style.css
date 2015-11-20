@@ -357,10 +357,6 @@ section#talent a, a.visible {
   text-decoration: none;
 }
 
-li#roster a {
-  color: #5B9299;
-}
-
 #client-news {
   width: auto;
   margin-bottom: 100px;
