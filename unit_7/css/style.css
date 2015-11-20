@@ -287,6 +287,8 @@ section#talent {
   clear: both;
   border-bottom: 5px solid black;
   padding-top: 50px;
+  width:auto;
+  height:inherit;
 }
 
 section#talent h2 a {
