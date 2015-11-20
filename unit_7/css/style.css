@@ -252,10 +252,41 @@ section#intro p#p2 {
   padding: 2% 25% 50px 25%;
 }
 
+hr#hr1 {
+  clear: both;
+  float: left;
+  width: 80%;
+  height: 1px;
+  margin: 1.4em 0;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+      linear,
+      left bottom,
+      right bottom,
+      color-stop(0, rgb(255,255,255)),
+      color-stop(0.1, rgb(221,221,221)),
+      color-stop(0.9, rgb(221,221,221)),
+      color-stop(1, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      left center,
+      rgb(255,255,255) 0%,
+      rgb(221,221,221) 10%,
+      rgb(221,221,221) 90%,
+      rgb(255,255,255) 100%
+  );
+}
+  /*border-top: 1px solid #1C1919;
+  border-bottom: 1px solid #fff;
+  width:inherit;
+  border: 0;*/
+}
+
 hr#hr2 {
   clear: both;
-  float: none;
-  width: 74.75%;
+  float: right;
+  width: 80%;
   height: 1px;
   margin: 1.4em 0;
   border: none;
