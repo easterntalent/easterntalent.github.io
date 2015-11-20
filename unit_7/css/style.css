@@ -277,11 +277,6 @@ hr#hr1 {
       rgb(255,255,255) 100%
   );
 }
-  /*border-top: 1px solid #1C1919;
-  border-bottom: 1px solid #fff;
-  width:inherit;
-  border: 0;*/
-}
 
 hr#hr2 {
   clear: both;
@@ -308,10 +303,6 @@ hr#hr2 {
       rgb(255,255,255) 100%
   );
 }
-  /*border-top: 1px solid #1C1919;
-  border-bottom: 1px solid #fff;
-  width:inherit;
-  border: 0;*/
 
 section#talent {
   background-color: #F19F0F;
