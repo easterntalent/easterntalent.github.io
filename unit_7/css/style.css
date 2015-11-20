@@ -255,7 +255,7 @@ section#intro p#p2 {
 hr#hr1 {
   clear: both;
   float: left;
-  width: 80%;
+  width: 75%;
   height: 1px;
   margin: 1.4em 0;
   border: none;
@@ -286,7 +286,7 @@ hr#hr1 {
 hr#hr2 {
   clear: both;
   float: right;
-  width: 80%;
+  width: 75%;
   height: 1px;
   margin: 1.4em 0;
   border: none;
