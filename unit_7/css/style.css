@@ -239,7 +239,7 @@ section#intro p {
   text-align: justify;
   font-family: 'Raleway', sans-serif;
   width: 100%;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 section#intro p#p1 {
@@ -509,6 +509,7 @@ div#twitter {
   margin-left: 80px;
   margin-top: 125px;
   padding-top: 10px;
+  outline:5px solid #456F74;
 }
 
 #representation a {
