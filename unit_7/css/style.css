@@ -267,18 +267,17 @@ hr#hr1 {
 }
 
 hr#hr2 {
-    margin-right: 0;
-    clear: both;
-    padding-top: 0;
-    float: left;
-    width: 75%;
-    height: 1px;
-    margin-top: 2%;
-    margin-bottom: 6em;
-    border: none;
-    background: #ddd;
-    background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(255,255,255)), color-stop(0.1, rgb(221,221,221)), color-stop(0.9, rgb(64,61,60)), color-stop(1, rgb(64,61,60)) );
-    background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgbrgb(64,61,60) 90%, rgb(64,61,60) 100% );
+  margin-right: 0;
+  clear: both;
+  padding-top: 0;
+  width: inherit;
+  height: 1px;
+  margin-top: 2%;
+  margin-bottom: 3.5em;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(64,61,60)), color-stop(0.1, rgb(64,61,60)), color-stop(0.9, rgb(221,221,221)), color-stop(1, rgb(255,255,255)) );
+  background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgb(221,221,22133) 90%, rgb(255,255,255) 100% );
 }
 
 hr#hr3 {
