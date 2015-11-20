@@ -303,6 +303,8 @@ section#talent h2 {
   border-bottom: 5px solid black;
   margin-right: 25%;
   border-right: 5px solid black;
+  margin-top: 0;
+  padding-left:45%;
 }
 
 section#talent ul {
@@ -350,6 +352,7 @@ li#roster a {
   border-top: 5px solid black;
   margin-left: 80px;
   margin-bottom: 150px;
+  margin-top:0;
 }
 
 .col3 { 
@@ -368,7 +371,7 @@ li#roster a {
   color: #5B9299;
   text-align: justify;
   text-transform: uppercase;
-  padding-top: 0;
+  padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 3%;
   border-bottom: 3px solid black;
@@ -376,7 +379,6 @@ li#roster a {
   background-color: #1C1919;
   background-size: inherit;
   margin-left: 10%;
-  margin-top: 50%;
 }
 
 #client-news p {
