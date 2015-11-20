@@ -231,6 +231,7 @@ section#news-highlight a#more:hover {
   padding-bottom: 50px;
   padding-top: 50px;
   text-transform: uppercase;
+  border-bottom: 5px solid #456F74;
 }
 
 section#intro p {
