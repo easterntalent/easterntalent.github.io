@@ -416,7 +416,7 @@ li#roster a {
   text-transform: uppercase;
   font-weight:lighter;
   line-height:1.5;
-  border: 3px solid #1C1919;
+  border: 3px solid #403D3C;
   font-weight:500;
 }
 
@@ -426,7 +426,7 @@ li#roster a {
   margin-left: auto;
   margin-right: auto;
   padding-bottom:0px;
-  outline: 1px solid #1C1919;
+  outline: 3px solid #403D3C;
 }
 
 div#news1 {
