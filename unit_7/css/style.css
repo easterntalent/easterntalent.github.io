@@ -165,7 +165,7 @@ section#news-highlight #text p {
   text-transform: uppercase;
   color: #1C1919;
   width: 33.3333%;
-  border: 5px solid #F19F0F;
+  border: 3px solid #F19F0F;
   outline:5px solid black;
   float: right;
   line-height: 1.5;
@@ -312,16 +312,9 @@ section#talent h2 {
   border-right: 5px solid #456F74;
   padding-left: 25%;
   margin-bottom: 75px;
-<<<<<<< HEAD
   border-top: 4px solid #456F74;
-<<<<<<< HEAD
-=======
   border-top: 5px solid #456F74;
-  outline: 4px solid black;
->>>>>>> parent of b469612... fs
-=======
   outline: 5px solid black;
->>>>>>> parent of 16c8090... f
 }
 
 section#talent ul {
@@ -545,12 +538,13 @@ div#twitter {
 
 #contact h4 {
   margin-left: 75px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Gruppo', sans-serif;
   font-size: 65px;
   color:#F19F0F;
   text-align: justify;
   padding-bottom: 50px;
   padding-top: 50px;
+  text-transform:uppercase;
 }
 
 #contact a {
