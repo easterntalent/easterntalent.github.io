@@ -223,7 +223,7 @@ section#news-highlight a#more:hover {
 }
 
 #intro h1 {
-  font-family: 'Gruppo', serif;
+  font-family: 'Gruppo', sans-serif;
   color: #F19F0F;
   text-align: center;
   font-size: 65px;
@@ -502,14 +502,14 @@ div#twitter {
   text-transform: uppercase;
   background: #D3CBBD;
   font-size: 22px;
-  border: 5px solid black;
+  border: 5px solid #456F74;
   height: 225px;
   width: 400px;
   padding: 90px 25px 0px 25px;
   margin-left: 80px;
   margin-top: 125px;
   padding-top: 10px;
-  outline:3px solid #456F74;
+  outline:4px solid black;
 }
 
 #representation a {
