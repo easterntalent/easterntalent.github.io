@@ -296,6 +296,33 @@ hr#hr2 {
   );
 }
 
+hr#hr3 {
+  margin-right: 0;
+  clear: both;
+  padding-top: 0;
+  float: none;
+  width: 75%;
+  height: 1px;
+  margin-top: -1.75%;
+  margin-bottom: 6em;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    right bottom,
+    color-stop(0, rgb(255,255,255)),
+    color-stop(0.1, rgb(221,221,221)),
+    color-stop(0.9, rgb(221,221,221)),
+    color-stop(1, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      left center,
+      rgb(255,255,255) 0%,
+      rgb(221,221,221) 10%,
+      rgb(221,221,221) 90%,
+      rgb(255,255,255) 100%
+  );
 section#talent {
   background-color: #F19F0F;
   padding-bottom:50px;
