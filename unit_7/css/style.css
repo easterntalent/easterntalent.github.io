@@ -231,7 +231,6 @@ section#news-highlight a#more:hover {
   padding-bottom: 50px;
   padding-top: 50px;
   text-transform: uppercase;
-  border-bottom:5px solid #456F74;
 }
 
 section#intro p {
@@ -279,6 +278,10 @@ hr#hr2 {
   background: #ddd;
   background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(64,61,60)), color-stop(0.1, rgb(64,61,60)), color-stop(0.9, rgb(221,221,221)), color-stop(1, rgb(255,255,255)) );
   background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgb(221,221,22133) 90%, rgb(255,255,255) 100% );*/
+}
+
+hr.hr1 {
+  border-top: 1px solid #456F74;
 }
 
 section#talent {
@@ -500,13 +503,14 @@ div#twitter {
   text-transform: uppercase;
   background: #D3CBBD;
   font-size: 22px;
-  border: 7px solid black;
+  border: 5px solid #456F74;
   height: 225px;
   width: 400px;
   padding: 90px 25px 0px 25px;
   margin-left: 80px;
   margin-top: 125px;
   padding-top: 10px;
+  outline:4px solid black;
 }
 
 #representation a {
