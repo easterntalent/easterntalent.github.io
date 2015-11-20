@@ -444,7 +444,7 @@ div#news1 {
 div#news2 {
   width: 425px;
   height: 475px;
-  margin-left:-10px;
+  margin-left:15px;
 }
 
 div#news3 {
@@ -459,7 +459,7 @@ div#news4 {
   width: 425px;
   height: 475px;
   margin-top:40px;
-  margin-left:-10px;
+  margin-left:15px;
 }
 
 div#news1 p {
