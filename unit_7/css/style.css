@@ -256,44 +256,30 @@ hr#hr1 {
   margin-right: 0;
   clear: both;
   padding-top: 0;
-  float: right;
+  float: left;
   width: 75%;
   height: 1px;
-  margin-top: -1.75%;
+  margin-top: 2%;
   margin-bottom: 6em;
   border: none;
   background: #ddd;
-  background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(255,255,255)), color-stop(0.1, rgb(221,221,221)), color-stop(0.9, rgb(221,221,221)), color-stop(1, rgb(255,255,255)) );
-  background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgb(221,221,221) 90%, rgb(255,255,255) 100% );
+  background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(64,61,60)), color-stop(0.1, rgb(64,61,60)), color-stop(0.9, rgb(221,221,221)), color-stop(1, rgb(255,255,255)) );
+  background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgb(221,221,22133) 90%, rgb(255,255,255) 100% );
 }
 
 hr#hr2 {
   margin-right: 0;
   clear: both;
   padding-top: 0;
-  float: right;
+  float: left;
   width: 75%;
   height: 1px;
-  margin-top: -1.75%;
+  margin-top: 2%;
   margin-bottom: 6em;
   border: none;
   background: #ddd;
-  background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    right bottom,
-    color-stop(0, rgb(255,255,255)),
-    color-stop(0.1, rgb(221,221,221)),
-    color-stop(0.9, rgb(221,221,221)),
-    color-stop(1, rgb(255,255,255))
-  );
-  background-image: -moz-linear-gradient(
-      left center,
-      rgb(255,255,255) 0%,
-      rgb(221,221,221) 10%,
-      rgb(221,221,221) 90%,
-      rgb(255,255,255) 100%
-  );
+  background-image: -webkit-gradient( linear, left bottom, right bottom, color-stop(0, rgb(64,61,60)), color-stop(0.1, rgb(64,61,60)), color-stop(0.9, rgb(221,221,221)), color-stop(1, rgb(255,255,255)) );
+  background-image: -moz-linear-gradient( left center, rgb(255,255,255) 0%, rgb(221,221,221) 10%, rgb(221,221,22133) 90%, rgb(255,255,255) 100% );
 }
 
 hr#hr3 {
@@ -342,14 +328,14 @@ section#talent h2 a {
 }
 
 section#talent h2 {
-  padding-bottom: 15px;
+ padding-bottom: 15px;
   background-color: #D3CBBD;
   padding-top: 15px;
   border-bottom: 5px solid black;
-  margin-right: 25%;
+  margin-right: 50%;
   border-right: 5px solid black;
   margin-top: 0;
-  padding-left:51%;
+  padding-left: 25%;
 }
 
 section#talent ul {
@@ -367,7 +353,7 @@ section#talent ul {
   column-gap: 50px;
   padding-left: 26%;
   padding-bottom: 50px;
-  padding-top: 50px;
+  padding-top: 0px;
   margin-top: 0;
 }
 
