@@ -186,7 +186,7 @@ a#moz-background-size {
 }
 
 section#news-highlight a:hover {
-  color: #F19F0F;
+  color: #F19F0F;;
 }
 
 section#news-highlight a#more {
@@ -419,6 +419,10 @@ section#talent a, a.visible {
   margin-right: auto;
   padding-bottom:0px;
   outline: 3px solid #403D3C;
+}
+
+section#client-news li:hover > a {
+  color: #F19F0F;
 }
 
 div#news1 {
