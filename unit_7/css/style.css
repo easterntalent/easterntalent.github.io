@@ -282,15 +282,13 @@ hr#hr2 {
   border: 0;*/
 
 section#talent {
-  display: block;
-  background: #F19F0F;
-  width: 100%;
-  height: inherit;
-  float: left;
+  padding-bottom: 50px;
+  background-color: #D3CBBD;
+  padding-top: 50px;
   border-bottom: 5px solid black;
-  padding: 0;
-  margin: 0 0 50px 0;
-  overflow: hidden;
+  margin-right: 25%;
+  border-right: 5px solid black;
+  padding-left: 45%;
 }
 
 section#talent h2 a {
@@ -303,8 +301,12 @@ section#talent h2 a {
 }
 
 section#talent h2 {
-  padding-top:75px;
-  padding-bottom:25px;
+  padding-bottom: 50px;
+  background-color: #D3CBBD;
+  padding-top: 50px;
+  border-bottom: 5px solid black;
+  margin-right: 25%;
+  border-right: 5px solid black;
 }
 
 section#talent ul {
@@ -370,7 +372,7 @@ li#roster a {
   color: #5B9299;
   text-align: justify;
   text-transform: uppercase;
-  padding-top: 75%;
+  padding-top: 0;
   padding-bottom: 50px;
   padding-left: 3%;
   border-bottom: 3px solid black;
@@ -378,6 +380,7 @@ li#roster a {
   background-color: #1C1919;
   background-size: inherit;
   margin-left: 10%;
+  margin-top: 50%;
 }
 
 #client-news p {
