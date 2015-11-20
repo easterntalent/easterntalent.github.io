@@ -403,20 +403,18 @@ div#news1 {
   width: 435px;
   height: 475px;
   margin-right: 50px;
-  margin-left: 80px;
 }
 
 div#news2 {
   width: 425px;
   height: 475px;
-  margin-left:-15px;
+  margin-left:-10px;
 }
 
 div#news3 {
   width: 435px;
   height: 475px;
   margin-right: 50px;
-  margin-left:80px;
   margin-top:40px;
 }
 
@@ -424,7 +422,7 @@ div#news4 {
   width: 425px;
   height: 475px;
   margin-top:40px;
-  margin-left:-15px;
+  margin-left:-10px;
 }
 
 div#news1 p {
@@ -449,7 +447,7 @@ div#twitter {
   width: 30%;
   height: inherit;
   margin-top: 5px;
-  margin-right: 80px;
+  margin-right: 60px;
 }
 
 .col4 { 
@@ -580,7 +578,7 @@ footer {
   clear:both;
   background: #456F74;
   font-weight: 500;
-  height: 50px;
+  height: 75px;
   z-index: 170;
   width: auto;
   top: 0;
