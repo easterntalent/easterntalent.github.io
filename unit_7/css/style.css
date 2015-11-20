@@ -166,6 +166,7 @@ section#news-highlight #text p {
   color: #1C1919;
   width: 33.3333%;
   border: 5px solid #F19F0F;
+  outline:3px solid black;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
@@ -227,8 +228,8 @@ section#news-highlight a#more:hover {
   text-align: center;
   font-size: 65px;
   line-height: 125%;
-  padding-bottom: 100px;
-  padding-top: 100px;
+  padding-bottom: 50px;
+  padding-top: 50px;
   text-transform: uppercase;
 }
 
@@ -244,11 +245,11 @@ section#intro p {
 section#intro p#p1 {
   padding-left: 25%;
   padding-right: 25%;
-  padding-top: 50px;
+  padding-top: 75px;
 }
 
 section#intro p#p2 {
-  padding: 2% 25% 55px 25%;
+  padding: 2% 25% 75px 25%;
 }
 
 /*hr#hr1 {
@@ -293,9 +294,10 @@ hr {
 
 section#talent {
   background-color: #F19F0F;
-  padding-bottom:50px;
-  clear:both;
-  border-bottom:5px solid black;
+  padding-bottom: 50px;
+  clear: both;
+  border-bottom: 5px solid black;
+  padding-top: 50px;
 }
 
 section#talent h2 a {
@@ -308,14 +310,16 @@ section#talent h2 a {
 }
 
 section#talent h2 {
- padding-bottom: 15px;
+  padding-bottom: 15px;
   background-color: #D3CBBD;
   padding-top: 15px;
   border-bottom: 5px solid black;
   margin-right: 50%;
   border-right: 5px solid black;
-  margin-top: 0;
   padding-left: 25%;
+  margin-bottom: 75px;
+  border-top: 5px solid black;
+  outline: 3px solid #456F74;
 }
 
 section#talent ul {
@@ -359,7 +363,8 @@ section#talent a, a.visible {
 #client-news {
   width: auto;
   margin-bottom: 100px;
-  margin-top:0;
+  margin-top: 0;
+  padding-top: 50px;
 }
 
 .col3 { 
@@ -386,6 +391,9 @@ section#talent a, a.visible {
   background-size: inherit;
   margin-right: 50%;
   padding-left: 25%;
+  margin-bottom: 100px;
+  border-top: 5px solid black;
+  outline: 3px solid #456F74;
 }
 
 #client-news p {
