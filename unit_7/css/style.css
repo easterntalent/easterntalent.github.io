@@ -187,11 +187,11 @@ a#moz-background-size {
 }
 
 #news-highlight a:hover {
-  color: #453B74;;
+  color: #F19F0F;
 }
 
 #news-highlight a#more {
-  color: #F19F0F;
+  color: black;
   font-weight: bolder;
   text-decoration: underline;
 }
