@@ -3,13 +3,13 @@
 @import url(https://fonts.googleapis.com/css?family=Gruppo);
 
 html { 
-  background: url('..//images/gold_muted_web.png') no-repeat center center;
+  /*background: url('..//images/gold_muted_web.png') no-repeat center center;
   background-size: cover;
   -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://github.com/easterntalent/easterntalent.github.io/blob/master/unit_3/images/gold.jpg?raw=true', sizingMethod='scale')";*/
 }
 
 * {
@@ -326,6 +326,8 @@ hr.hr1 {
   margin-top: 0;
   margin-bottom: 100px;
   padding-top: 50px;
+  background: url('..//images/gold_muted_web.png') no-repeat center center;
+  background-size: cover;
 }
 
 .col3 { 
