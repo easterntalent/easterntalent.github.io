@@ -140,6 +140,10 @@ a, a.visible {
   color: #FFF5E4;
 }
   
+a.name #about {
+  padding-top: 2%;
+}
+
 #news-highlight {
   display: block;
   float: left;
