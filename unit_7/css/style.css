@@ -143,10 +143,16 @@ a, a.visible {
 #news-highlight {
   display: block;
   float: left;
+  width: 100%;
+  max-height: 550px;
+  background: url('..//images/gold_muted_web.png') no-repeat center center;
+  background-size: cover;
+  /*display: block;
+  float: left;
   width: auto;
   max-height:550px;
   background: url('..//images/gold_muted_web.png') no-repeat center center;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 #news-highlight img {
@@ -168,7 +174,7 @@ a, a.visible {
   color: #1C1919;
   width: 33.3333%;
   border: 3px solid #F19F0F;
-  outline:5px solid black;
+  outline:7px solid black;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
