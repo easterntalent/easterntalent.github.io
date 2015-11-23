@@ -186,7 +186,7 @@ a#moz-background-size {
 }
 
 section#news-highlight a:hover {
-  color: #453B74;;
+  color: #F19F0F;;
 }
 
 section#news-highlight a#more {
@@ -196,7 +196,7 @@ section#news-highlight a#more {
 }
 
 section#news-highlight a#more:hover {
-  color: #453B74;
+  color: #F19F0F;
   }
 
 .col1 { 
@@ -419,7 +419,7 @@ section#talent a, a.visible {
 }
 
 section#client-news li:hover > a {
-  color: #453B74;
+  color: #F19F0F;
 }
 
 div#news1 {
@@ -524,7 +524,7 @@ div#twitter {
 }
 
 #representation a:hover {
-  color: #453B74;
+  color: #968F8D;
 }
 
 #contact {
