@@ -308,7 +308,6 @@ hr.hr1 {
 }
 
 #talent h2 {
-  
   background-color: #D3CBBD;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -346,7 +345,7 @@ hr.hr1 {
   line-height: 2.5em;
   margin-left: 10px;
   width: auto;
-  color: #FFF5E4;
+  color: #D3CBBD;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
 }
