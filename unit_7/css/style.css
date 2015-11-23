@@ -236,8 +236,8 @@ a#moz-background-size {
   text-align: center;
   font-size: 65px;
   line-height: 125%;
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   text-transform: uppercase;
   border-bottom: 5px solid #456F74;
 }
@@ -269,7 +269,7 @@ hr.hr1 {
   background-color: #F19F0F;
   clear: both;
   border-bottom: 5px solid black;
-  padding-top: 50px;
+  padding-top: 100px;
   padding-bottom: 50px;
   width: auto;
   height: inherit;
