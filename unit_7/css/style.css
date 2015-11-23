@@ -139,16 +139,16 @@ a, a.visible {
 #menu > ul > li:hover > a {
   color: #FFF5E4;
 }
-  
-a.name #about {
-  padding-top: 2%;
-}
 
 #news-highlight {
   display: block;
   float: left;
   width: auto;
   max-height:550px;
+}
+
+a#ourtalent {
+  padding-top:2%;
 }
 
 #news-highlight img {
