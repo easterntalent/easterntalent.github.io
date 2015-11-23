@@ -404,6 +404,10 @@ div#news1:hover {
   margin-left:15px;
 }
 
+div#news2:hover {
+  background: #F19F0F;
+}
+
 #news3 {
   width: 435px;
   height: 475px;
@@ -412,11 +416,19 @@ div#news1:hover {
   margin-left: 50px;
 }
 
+div#news3:hover {
+  background: #F19F0F;
+}
+
 #news4 {
   width: 425px;
   height: 475px;
   margin-top: 40px;
   margin-left: 15px;
+}
+
+div#news4:hover {
+  background: #F19F0F;
 }
 
 #news1 p {
