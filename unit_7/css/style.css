@@ -145,6 +145,8 @@ a, a.visible {
   float: left;
   width: auto;
   max-height:550px;
+  background: url('..//images/gold_muted_web.png') no-repeat center center;
+  background-size: cover;
 }
 
 #news-highlight img {
