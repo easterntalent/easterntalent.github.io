@@ -324,8 +324,8 @@ hr.hr1 {
 #client-news {
   width: auto;
   margin-top: 0;
-  margin-bottom: 100px;
   padding-top: 50px;
+  padding-bottom: 100px;
   background: url('..//images/gold_muted_web.png') no-repeat center center;
   background-size: cover;
 }
