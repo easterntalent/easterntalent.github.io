@@ -415,7 +415,7 @@ section#talent a, a.visible {
   outline: 3px solid #403D3C;
 }
 
-section#client-news li:hover > a {
+#client-news a:hover {
   color: #453B74;
 }
 
