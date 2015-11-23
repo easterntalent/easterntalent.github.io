@@ -292,7 +292,6 @@ hr.hr1 {
 #talent ul {
   float: left;
   font-size: 22px;
-  color: #D3CBBD;
   list-style: none;
   text-transform: uppercase;
   font-weight: 500;
@@ -308,8 +307,9 @@ hr.hr1 {
   margin-top: 0;
 }
 
-#talent li {
+#talent li a {
   padding: 7px 4px 3px 4px;
+  color: #D3CBBD;
   display: block;
   line-height: 2.5em;
   margin-left: 10px;
