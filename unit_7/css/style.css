@@ -323,11 +323,6 @@ hr.hr1 {
   color: #968F8D;
 }
 
-section#talent a, a.visible {
-  color: #1C1919;
-  text-decoration: none;
-}
-
 #client-news {
   width: auto;
   margin-top: 0;
