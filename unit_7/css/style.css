@@ -263,11 +263,11 @@ hr.hr1 {
   border-bottom: 5px solid black;
   padding-top: 50px;
   padding-bottom: 50px;
-  width:auto;
-  height:inherit;
+  width: auto;
+  height: inherit;
 }
 
-#talent h2 a.visible {
+#talent h2 a {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 65px;
   color: #1C1919;
@@ -292,7 +292,7 @@ hr.hr1 {
 #talent ul {
   float: left;
   font-size: 22px;
-  color: #FFF5E4;
+  color: #D3CBBD;
   list-style: none;
   text-transform: uppercase;
   font-weight: 500;
@@ -314,7 +314,6 @@ hr.hr1 {
   line-height: 2.5em;
   margin-left: 10px;
   width: auto;
-  color: #D3CBBD;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
 }
