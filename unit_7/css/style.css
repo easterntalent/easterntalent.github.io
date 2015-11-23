@@ -341,7 +341,6 @@ hr.hr1 {
 }
 
 #allnews {
-
 }
 
 #client-news h3 {
@@ -393,6 +392,10 @@ hr.hr1 {
   height: 475px;
   margin-right: 50px;
   margin-left: 50px;
+}
+
+div#news1:hover {
+  background: #F19F0F;
 }
 
 #news2 {
