@@ -186,7 +186,7 @@ a#moz-background-size {
 }
 
 section#news-highlight a:hover {
-  color: #F19F0F;;
+  color: #453B74;;
 }
 
 section#news-highlight a#more {
@@ -196,7 +196,7 @@ section#news-highlight a#more {
 }
 
 section#news-highlight a#more:hover {
-  color: #F19F0F;
+  color: #453B74;
   }
 
 .col1 { 
@@ -364,9 +364,6 @@ section#talent a, a.visible {
   padding-top: 50px;
 }
 
-#client-news a:hover {
-  color: #453B74;
-
 .col3 { 
   height:400px;
   width:31.33%;
@@ -419,7 +416,7 @@ section#talent a, a.visible {
 }
 
 section#client-news li:hover > a {
-  color: #F19F0F;
+  color: #453B74;
 }
 
 div#news1 {
@@ -524,7 +521,7 @@ div#twitter {
 }
 
 #representation a:hover {
-  color: #968F8D;
+  color: #453B74;
 }
 
 #contact {
