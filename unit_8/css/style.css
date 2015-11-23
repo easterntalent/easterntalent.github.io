@@ -37,7 +37,7 @@ body {
 
 header {
 	background: #403D3C;
-	height: 5.625em;
+	height: 90px;
 	z-index: 170;
   margin: 0 auto;
   border-bottom: 3px solid #F19F0F;
@@ -50,9 +50,9 @@ header {
 
 header div#logo {
   background-color: transparent;
-  line-height: 5.625em;
-  width: 12.5em;
-	height: 12.5em;
+  line-height: 90px;
+  width: 200px;
+	height: 200px;
 	float: left;
 	padding-top: 15px;
 	padding-left: 20px;
@@ -137,7 +137,7 @@ a, a.visible {
   display: block;
   float: left;
   width: 100%;
-  max-height: 34.375em;
+  max-height: 550px;
   background: url('..//images/gold_muted_web.png') no-repeat center center;
   background-size: cover;
 }
@@ -173,7 +173,7 @@ a#moz-background-size {
 }
 
 .col2 { 
-  height: 25em;
+  height: 400px;
   width: 31.33%;
   float: left;
   margin:.16%;
@@ -195,7 +195,7 @@ a#moz-background-size {
 }
 
 .col1 { 
-  height: 25em;
+  height: 400px;
   width: 31.33%;
   float: left;
   margin: .16%;
@@ -280,7 +280,7 @@ hr.hr1 {
   border-right: 5px solid black;
   border-bottom: 5px solid black;
   margin-right: 50%;
-  margin-bottom: 4.6875em;
+  margin-bottom: 75px;
 }
 
 #talent ul {
@@ -289,7 +289,7 @@ hr.hr1 {
   list-style: none;
   text-transform: uppercase;
   font-weight: 500;
-  margin-left: 0;
+  margin-left: 0px;
   -webkit-column-count: 2;
   -moz-column-count: 2;
   -webkit-column-gap: 50px;
@@ -305,7 +305,7 @@ hr.hr1 {
   color: #fff;
   display: block;
   line-height: 2.5em;
-  margin-left: 0.625em;
+  margin-left: 10px;
   width: auto;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
@@ -325,7 +325,7 @@ hr.hr1 {
 }
 
 .col3 { 
-  height:25em;
+  height:400px;
   width:31.33%;
   float:left;
   background: rgba(211,203,189,.7);
@@ -336,7 +336,7 @@ hr.hr1 {
 
 #allnews {
   width: 90%;
-  margin-left: 0.9375em;
+  margin-left: 15px;
 }
 
 #client-news h3 {
@@ -354,7 +354,7 @@ hr.hr1 {
   background-color: #D3CBBD;
   background-size: inherit;
   margin-right: 50%;
-  margin-bottom: 6.25em;
+  margin-bottom: 100px;
 }
 
 #client-news p {
@@ -384,10 +384,10 @@ hr.hr1 {
 }
 
 #news1 {
-  width: 27.1875em;
-  height: 29.6875em;
-  margin-right: 3.125em;
-  margin-left: 3.125em;
+  width: 435px;
+  height: 475px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 div#news1:hover {
@@ -396,9 +396,9 @@ div#news1:hover {
 
 #news2 {
   width: 425px;
-  height: 26.5625em;
-  margin-right: 3.125em;
-  margin-left: 0.9375em;
+  height: 475px;
+  margin-right: 50px;
+  margin-left: 15px;
 }
 
 div#news2:hover {
@@ -406,11 +406,11 @@ div#news2:hover {
 }
 
 #news3 {
-  width: 27.1875em;
-  height: 29.6875em;
-  margin-top: 2.5em;
-  margin-right: 3.125em;
-  margin-left: 3.125em;
+  width: 435px;
+  height: 475px;
+  margin-top: 40px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 div#news3:hover {
@@ -418,10 +418,10 @@ div#news3:hover {
 }
 
 #news4 {
-  width: 26.5625em;
-  height: 29.6875em;
-  margin-top: 2.5em;
-  margin-left: 0.9375em;
+  width: 425px;
+  height: 475px;
+  margin-top: 40px;
+  margin-left: 15px;
 }
 
 div#news4:hover {
@@ -429,19 +429,19 @@ div#news4:hover {
 }
 
 #news1 p {
-  margin-top: 1.875em;
+  margin-top: 30px;
 }
 
 #news2 p {
-  margin-top: 0.625em;
+  margin-top: 10px;
 }
 
 #news3 p {
- margin-top: 1.875em;
+ margin-top: 30px;
 }
 
 #news4 p {
-  margin-top: 1.25em;
+  margin-top: 20px;
 }
 
 #twitter {
@@ -449,12 +449,12 @@ div#news4:hover {
   background: #5B9299;
   height: inherit;
   margin-top: -29.8em;
-  margin-left: 3.125em;
+  margin-left: 50px;
   padding: 20px;
 }
 
 .col4 { 
-  height:25em;
+  height:400px;
   width:31.33%;
   float:left;
   margin:.16%;
@@ -469,7 +469,7 @@ div#news4:hover {
   border-top: 5px solid black;
   border-bottom: 5px solid black;
   padding-bottom: 50px;
-  min-height: 31.25em;
+  min-height: 500px;
 }
 
 #representation p {
@@ -483,11 +483,11 @@ div#news4:hover {
   background: #D3CBBD;
   font-size: 22px;
   border: 5px solid black;
-  height: 14.0625em;
-  width: 25em;
+  height: 225px;
+  width: 400px;
   padding: 10px 25px 0px 25px;
-  margin-top: 7.8125em;
-  margin-left: 5em;
+  margin-top: 125px;
+  margin-left: 80px;
 }
 
 #representation a {
@@ -503,7 +503,7 @@ div#news4:hover {
   display: block;
   background: #1C1919;
   width: 65%;
-  height: 31.25em;
+  height: 500px;
   margin: 0;
   border-top: 5px solid black;
   border-right: 5px solid black;
@@ -512,7 +512,7 @@ div#news4:hover {
 }
 
 #contact h4 {
-  margin-left: 4.6875em;
+  margin-left: 75px;
   font-family: 'Gruppo', sans-serif;
   font-size: 65px;
   color: #F19F0F;
@@ -586,7 +586,7 @@ footer {
   top: 0;
   left: 0;
   right: 0;
-  height: 3.125em;
+  height:50px;
   text-decoration: none !important;
   text-transform: uppercase;
   color: #F19F0F;
@@ -597,4 +597,8 @@ footer {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;  
+}
+
+@media only screen and (max-width: 480px) {
+
 }
