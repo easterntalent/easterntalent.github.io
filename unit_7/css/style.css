@@ -178,11 +178,11 @@ a#moz-background-size {
 }
 
 .col2 { 
-  height:400px;
-  width:31.33%;
-  float:left;
-  margin:.16%;
-  padding:1%;
+  height: 400px;
+  width: 31.33%;
+  float: left;
+  margin: .16%;
+  padding: 1%;
 }
 
 #news-highlight a:hover {
