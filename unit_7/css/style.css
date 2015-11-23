@@ -364,6 +364,9 @@ section#talent a, a.visible {
   padding-top: 50px;
 }
 
+#client-news a:hover {
+  color: #453B74;
+
 .col3 { 
   height:400px;
   width:31.33%;
