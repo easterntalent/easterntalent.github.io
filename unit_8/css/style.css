@@ -12,13 +12,13 @@ html {
 }
 
 .clearfix:after {
-    font-size: 0;
-    height: 0;
-    visibility: hidden;
-    content: " ";
-    display: block;
-    clear: both;
-  }
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+  content: " ";
+  display: block;
+  clear: both;
+}
 
 body {
 	font-family: 'Archivo-Narrow', sans-serif;
@@ -51,11 +51,11 @@ header {
 header div#logo {
   background-color: transparent;
   line-height: 90px;
-  width: 200px;
+  width: 12.5%;
 	height: 200px;
 	float: left;
 	padding-top: 15px;
-	padding-left: 20px;
+	padding-left: 1.25%;
 	padding-bottom: 15px;
 }
 
@@ -146,22 +146,28 @@ a, a.visible {
   height: 55%;
   width: 55%;
   float: left;
-  border-right: 5px solid black;
+  border-right: .57% solid black;
   margin-top: 5%;
 }
 
 #news-highlight #text p {
   display: block;
   background: #D3CBBD;
-  padding: 7px 15px 7px 20px;
+  padding: 7px .95% 7px 1.25%;
   font-size: 22px;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: #1C1919;
   width: 33.3333%;
-  border: 8px solid black;
-  outline:1px solid #F19F0F;
+  border-top: 8px solid black;
+  border-right: .5% solid black;
+  border-bottom: 8px solid black;
+  border-left: .5% solid black;
+  outline-top: 1px solid #F19F0F;
+  outline-right: .0625% solid #F19F0F;
+  outline-bottom: 1px solid #F19F0F;
+  outline-left: .0625% solid #F19F0F;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
@@ -277,7 +283,7 @@ hr.hr1 {
   padding-bottom: 15px;
   padding-left: 25%;
   border-top: 5px solid black;
-  border-right: 5px solid black;
+  border-right: .625% solid black;
   border-bottom: 5px solid black;
   margin-right: 50%;
   margin-bottom: 75px;
@@ -289,23 +295,23 @@ hr.hr1 {
   list-style: none;
   text-transform: uppercase;
   font-weight: 500;
-  margin-left: 0px;
+  margin-left: 0;
   -webkit-column-count: 2;
   -moz-column-count: 2;
-  -webkit-column-gap: 50px;
-  -moz-column-gap: 50px;
-  column-gap: 50px;
-  padding-top: 0px;
+  -webkit-column-gap: 3.125%;
+  -moz-column-gap: 3.125%;
+  column-gap: 3.125%;
+  padding-top: 0;
   padding-left: 26%;
   margin-top: 0;
 }
 
 #talent li a {
-  padding: 7px 4px 3px 4px;
+  padding: 7px .33% 3px .33%;
   color: #fff;
   display: block;
   line-height: 2.5em;
-  margin-left: 10px;
+  margin-left: .82%;
   width: auto;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
@@ -325,18 +331,21 @@ hr.hr1 {
 }
 
 .col3 { 
-  height:400px;
-  width:31.33%;
-  float:left;
+  height: 400px;
+  width: 31.33%;
+  float: left;
   background: rgba(211,203,189,.7);
-  margin:.16%;
-  padding:1%;
-  border: 5px solid black;
+  margin: .16%;
+  padding: 1%;
+  border-top: 5px solid black;
+  border-right: .347% solid black;
+  border-bottom: 5px solid black;
+  border-left: .347% solid black;
 }
 
 #allnews {
   width: 90%;
-  margin-left: 15px;
+  margin-left: 1%;
 }
 
 #client-news h3 {
@@ -349,7 +358,7 @@ hr.hr1 {
   padding-bottom: 15px;
   padding-left: 25%;
   border-top: 5px solid black;
-  border-right: 5px solid black;
+  border-right: .3125% solid black;
   border-bottom: 5px solid black;
   background-color: #D3CBBD;
   background-size: inherit;
@@ -362,11 +371,11 @@ hr.hr1 {
   font-family: 'Raleway', sans-serif;
   background: #D3CBBD;
   color: #1C1919; 
-  padding: 5px;
+  padding: 1.12%;
   text-transform: uppercase;
   font-weight: lighter;
   line-height: 1.5;
-  border: 3px solid #403D3C;
+  border: .69% solid #403D3C;
   font-weight: 500;
 }
 
@@ -376,7 +385,7 @@ hr.hr1 {
   margin-right: auto;
   margin-left: auto;
   padding-bottom: 0px;
-  outline: 3px solid #403D3C;
+  outline: .69% solid #403D3C;
 }
 
 #client-news a:hover {
@@ -384,10 +393,10 @@ hr.hr1 {
 }
 
 #news1 {
-  width: 435px;
+  width: 27.19%;
   height: 475px;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 11.5%;
+  margin-left: 11.5%;
 }
 
 div#news1:hover {
@@ -395,10 +404,10 @@ div#news1:hover {
 }
 
 #news2 {
-  width: 425px;
+  width: 26.56%;
   height: 475px;
-  margin-right: 50px;
-  margin-left: 15px;
+  margin-right: 11.75%;
+  margin-left: 3.53%;
 }
 
 div#news2:hover {
@@ -406,11 +415,11 @@ div#news2:hover {
 }
 
 #news3 {
-  width: 435px;
+  width: 27.19%;
   height: 475px;
   margin-top: 40px;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 11.5%;
+  margin-left: 11.5%;
 }
 
 div#news3:hover {
@@ -418,10 +427,10 @@ div#news3:hover {
 }
 
 #news4 {
-  width: 425px;
+  width: 26.56%;
   height: 475px;
   margin-top: 40px;
-  margin-left: 15px;
+  margin-left: 3.53%;
 }
 
 div#news4:hover {
@@ -449,16 +458,16 @@ div#news4:hover {
   background: #5B9299;
   height: inherit;
   margin-top: -29.8em;
-  margin-left: 50px;
-  padding: 20px;
+  margin-left: 10%;
+  padding: 4%;
 }
 
 .col4 { 
-  height:400px;
-  width:31.33%;
-  float:left;
-  margin:.16%;
-  padding:1%;
+  height: 400px;
+  width :31.33%;
+  float: left;
+  margin: .16%;
+  padding: 1%;
 }
 
 #representation {
@@ -482,12 +491,12 @@ div#news4:hover {
   text-transform: uppercase;
   background: #D3CBBD;
   font-size: 22px;
-  border: 5px solid black;
+  border: .89% solid black;
   height: 225px;
-  width: 400px;
-  padding: 10px 25px 0px 25px;
+  width: 71.43%;
+  padding: 10px 4.46% 0px 4.46%;
   margin-top: 125px;
-  margin-left: 80px;
+  margin-left: 14.29%;
 }
 
 #representation a {
@@ -505,14 +514,14 @@ div#news4:hover {
   width: 65%;
   height: 500px;
   margin: 0;
-  border-top: 5px solid black;
-  border-right: 5px solid black;
-  border-bottom: 5px solid black;
+  border-top: 50px solid black;
+  border-right: .48% solid black;
+  border-bottom: 50px solid black;
   padding-bottom: 50px;
 }
 
 #contact h4 {
-  margin-left: 75px;
+  margin-left: 7.21%;
   font-family: 'Gruppo', sans-serif;
   font-size: 65px;
   color: #F19F0F;
@@ -534,17 +543,17 @@ div#news4:hover {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
   padding-top: 20px;
-  padding-left: 80px;
+  padding-left: 7.73%;
 }
 
 #contact span.main {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-la {
   display: block;
   float: left;
-  padding: 25px;
+  padding: 2.4%;
 }
 
 #contact div#ny-address p {
@@ -553,28 +562,28 @@ div#news4:hover {
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 35px;
+  padding-left: 14%;
   padding-top: 20px;
 }
 
 #contact span.nyoff {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-ny {
   display: block;
   float: left;
-  padding: 25px;
+  padding: 25px 10% 25px 10%;
 }
 
 #copyright {
   float: left;
-  padding-left :40%;
+  padding-left: 40%;
 }
 
 footer a {
   color: #F19F0F;
-  padding-left:50px;
+  padding-left: 5.53%;
 }
 
 footer {	
@@ -586,7 +595,7 @@ footer {
   top: 0;
   left: 0;
   right: 0;
-  height:50px;
+  height: 50px;
   text-decoration: none !important;
   text-transform: uppercase;
   color: #F19F0F;
