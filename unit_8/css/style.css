@@ -149,6 +149,10 @@ a, a.visible {
   margin-top: 5%;
 }
 
+#news-highlight #text {
+  background: rgba(211, 203, 189, .5);
+}
+
 #news-highlight #text p {
   display: block;
   background: url('..//images/gold_muted_web.png');
