@@ -163,8 +163,7 @@ a, a.visible {
   text-transform: uppercase;
   color: #1C1919;
   width: 33.3333%;
-  border: 8px solid black;
-  outline:1px solid #F19F0F;
+  border: 5px solid black;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
