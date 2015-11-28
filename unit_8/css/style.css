@@ -327,12 +327,12 @@ hr.hr1 {
 }
 
 .col3 { 
-  height:400px;
-  width:31.33%;
-  float:left;
+  height: 400px;
+  width: 31.33%;
+  float: left;
   background: rgba(211,203,189,.7);
-  margin:.16%;
-  padding:1%;
+  margin: .16%;
+  padding: 1%;
   border: 5px solid black;
 }
 
@@ -386,10 +386,15 @@ hr.hr1 {
 }
 
 #news1 {
-  width: 435px;
+  width: 29.35%;
   height: 475px;
   margin-right: 50px;
   margin-left: 50px;
+}
+
+#news1 img {
+  width: 380px;
+  height 225px;
 }
 
 div#news1:hover {
@@ -397,18 +402,22 @@ div#news1:hover {
 }
 
 #news2 {
-  width: 425px;
+  width: 29.35%;
   height: 475px;
   margin-right: 50px;
   margin-left: 15px;
 }
 
-div#news2:hover {
+#news2 img {
+  width: 390px;
+  height: 225px;
+}
+
   background: #F19F0F;
 }
 
 #news3 {
-  width: 435px;
+  width: 29.35%;
   height: 475px;
   margin-top: 40px;
   margin-right: 50px;
@@ -419,8 +428,13 @@ div#news3:hover {
   background: #F19F0F;
 }
 
+#news3 img {
+  width: 230px;
+  height: 200px;
+}
+
 #news4 {
-  width: 425px;
+  width: 29.35%;
   height: 475px;
   margin-top: 40px;
   margin-left: 15px;
@@ -428,6 +442,11 @@ div#news3:hover {
 
 div#news4:hover {
   background: #F19F0F;
+}
+
+#news4 img {
+  width: 205px;
+  height: 300px;
 }
 
 #news1 p {
