@@ -133,7 +133,15 @@ a, a.visible {
   color: #FFF5E4;
 }
 
+#menu img#facebook-logo {
+  width: 30px;
+  height: 30px;
+}
 
+#menu img#twitter-logo {
+  width: 30px;
+  height: 30px;
+}
 
 #news-highlight {
   display: block;
