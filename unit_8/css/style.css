@@ -108,10 +108,6 @@ a, a.visible {
 	padding-right: 40px;
 }
 
-#menu ul li.web-link {
-  width: 33.33%;
-}
-
 #menu.align-center ul {
   font-size: 0;
   text-align: center;
