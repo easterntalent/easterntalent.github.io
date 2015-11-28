@@ -576,7 +576,7 @@ div#news4:hover {
 }
 
 #contact div#map-la iframe {
-  width: 80%;
+  width: 68%;
   height: 200px;
   border: 4px solid #F19F0F;
 }
@@ -602,19 +602,19 @@ div#news4:hover {
 }
 
 #contact div#map-ny iframe {
-  width: 80%;
+  width: 68%;
   height: 200px;
   border: 4px solid #F19F0F;
 }
 
 #copyright {
   float: left;
-  padding-left :40%;
+  padding-left: 40%;
 }
 
 footer a {
   color: #F19F0F;
-  padding-left:50px;
+  padding-left: 50px;
 }
 
 footer {	
