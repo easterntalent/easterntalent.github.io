@@ -554,15 +554,6 @@ div#news4:hover {
   color: #FB9D29;
 }
 
-.col5 { 
-  height: 400px;
-  width: 25%;
-  float: left;
-  margin: .16%;
-  padding: 1%;
-  display:block;
-}
-
 #contact div#la-address p {
   float: left;
   margin-left: 0;
@@ -598,7 +589,7 @@ div#news4:hover {
 }
 
 #contact span.nyoff {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-ny {
