@@ -721,11 +721,17 @@ footer {
   #news1, #news2, #news3, #news4 {
     width: 33%;
   }
+  #representation {
+    width: 34%;
+    height: 650px;
+  }
+
   #representation p {
     height: 275px;
   }
   #contact {
     width: 66%;
+    height: 650px;
   }
   #representation {
     width: 34%;
