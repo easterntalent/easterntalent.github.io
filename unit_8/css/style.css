@@ -581,6 +581,10 @@ div#news4:hover {
   border: 4px solid #F19F0F;
 }
 
+#contact div#ny-address {
+  float: left;
+}
+
 #contact div#ny-address p {
   display: block;
   float: left;
