@@ -51,7 +51,7 @@ header {
 header div#logo {
   background-color: transparent;
   line-height: 90px;
-  width: 200px;
+  width: 12.76%;
 	height: 200px;
 	float: left;
 	padding-top: 15px;
@@ -134,12 +134,12 @@ a, a.visible {
 }
 
 #menu img#facebook-logo {
-  width: 30px;
+  width: 60%;
   height: 30px;
 }
 
 #menu img#twitter-logo {
-  width: 30px;
+  width: 60%;
   height: 30px;
 }
 
@@ -173,7 +173,7 @@ a, a.visible {
   float: right;
   line-height: 1.5;
   margin-top: 14%;
-  margin-right: 6%
+  margin-right: 6%;
 }
 
 a#moz-background-size {
@@ -566,7 +566,7 @@ div#news4:hover {
 }
 
 #contact span.main {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-la {
@@ -576,7 +576,7 @@ div#news4:hover {
 }
 
 #contact div#map-la iframe {
-  width: 200px;
+  width: 80%;
   height: 200px;
 }
 
@@ -601,7 +601,7 @@ div#news4:hover {
 }
 
 #contact div#map-ny iframe {
-  width: 200px;
+  width: 80%;
   height: 200px;
 }
 
