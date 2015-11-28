@@ -595,13 +595,13 @@ div#news4:hover {
   padding: 25px;
 }
 
-#contact #ny-address iframe#nymap {
+iframe#nymap {
   width: 200px;
   height: 200px;
   border: 1px solid #F19F0F;
 }
 
-#contact #la-address iframe#lamap {
+iframe#lamap {
   width: 200px;
   height: 200px;
   border: 1px solid #F19F0F;
