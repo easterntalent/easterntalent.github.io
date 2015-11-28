@@ -649,22 +649,21 @@ footer {
 }
 
 @media only screen and (max-width : 1285px) {
-   #contact h4 {
-    margin-left: 50px;
-  }
   #allnews {
     margin-left: 0;
   }
-
   #representation p {
     line-height: 1.5;
+  }
+  #contact h4 {
+    margin-left: 50px;
   }
   #contact div#la-address p {
     padding-left: 50px;
   }
 }
       
-  @media only screen and (max-width : 1225px) {
+@media only screen and (max-width : 1225px) {
     #client-news p {
       line-height: 1.4;
     }
