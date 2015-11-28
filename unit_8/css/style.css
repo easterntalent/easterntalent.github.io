@@ -555,6 +555,7 @@ div#news4:hover {
 }
 
 #contact div#la-address p {
+  display: block;
   float: left;
   margin-left: 0;
   font-size: 20px;
@@ -569,22 +570,13 @@ div#news4:hover {
 }
 
 #contact div#map-la {
+  display: block;
   float: left;
   padding: 25px;
 }
 
-#contact div#map-la iframe {
-  width: 68%;
-  height: 200px;
-  border: 4px solid #F19F0F;
-}
-
-#contact div#ny-address {
-  margin-left: 0;
-  padding-right: 0;
-}
-
 #contact div#ny-address p {
+  display: block;
   float: left;
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
@@ -594,24 +586,13 @@ div#news4:hover {
 }
 
 #contact span.nyoff {
-  color: #5B9299;
+  color:#5B9299;
 }
 
 #contact div#map-ny {
   display: block;
   float: left;
   padding: 25px;
-}
-
-#contact div#map-ny iframe {
-  width: 68%;
-  height: 200px;
-  border: 4px solid #F19F0F;
-}
-
-#copyright {
-  float: left;
-  padding-left: 40%;
 }
 
 footer a {
