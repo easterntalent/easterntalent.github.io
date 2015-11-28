@@ -652,6 +652,9 @@ footer {
   #allnews {
     margin-left: 0;
   }
+  #client-news p {
+    line-height: 1.4;
+    }
   #representation p {
     line-height: 1.5;
   }
@@ -664,12 +667,7 @@ footer {
 }
       
 @media only screen and (max-width : 1225px) {
-    #client-news p {
-      line-height: 1.4;
-    }
-
-    #contact div#la-address p {
-        padding-left: 50px;
+  
     }
 
   @media only screen and (max-width : 1240px) {
@@ -702,7 +700,6 @@ footer {
       #contact div#ny-address p {
         padding-left: 20px;
       }
-
     }
 
     /* Medium Devices, Desktops */
