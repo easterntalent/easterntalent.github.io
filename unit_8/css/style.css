@@ -595,6 +595,11 @@ div#news4:hover {
   padding: 25px;
 }
 
+#copyright {
+  float: left;
+  padding-left: 40%;
+}
+
 footer a {
   color: #F19F0F;
   padding-left: 50px;
