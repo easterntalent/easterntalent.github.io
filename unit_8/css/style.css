@@ -573,6 +573,7 @@ div#news4:hover {
   display: block;
   float: left;
   padding: 25px;
+  width: 24.53%;
 }
 
 #contact div#ny-address p {
@@ -593,17 +594,18 @@ div#news4:hover {
   display: block;
   float: left;
   padding: 25px;
+  width: 24.53%;
 }
 
 iframe#nymap {
-  width: 200px;
-  height: 200px;
+  max-width:100%;
+  max-height: 100%;
   border: 3px solid #F19F0F;
 }
 
 iframe#lamap {
-  width: 200px;
-  height: 200px;
+  max-width: 100%;
+  max-height: 100%;
   border: 3px solid #F19F0F;
  } 
 
