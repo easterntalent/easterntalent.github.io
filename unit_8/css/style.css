@@ -134,12 +134,12 @@ a, a.visible {
 }
 
 #menu img#facebook-logo {
-  width: 33.33%;
+  width: inherit;
   height: 30px;
 }
 
 #menu img#twitter-logo {
-  width: 33.33%;
+  width: inherit;
   height: 30px;
 }
 
