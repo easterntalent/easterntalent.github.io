@@ -647,7 +647,7 @@ footer {
     }
 
     @media only screen and (max-width : 1330px) {
-        h2, h3 {
+        #talent h2 #client-news h3 {
           padding-left: 20%;
         }
     }
