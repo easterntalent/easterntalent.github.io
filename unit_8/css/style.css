@@ -133,16 +133,6 @@ a, a.visible {
   color: #FFF5E4;
 }
 
-#menu li img#facebook-logo {
-  width: 1.86%;
-  height: 30px;
-}
-
-#menu li img#twitter-logo {
-  width: 1.86%;
-  height: 30px;
-}
-
 #news-highlight {
   display: block;
   float: left;
