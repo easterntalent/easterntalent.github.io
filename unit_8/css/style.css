@@ -595,6 +595,11 @@ div#news4:hover {
   padding: 25px;
 }
 
+#contact iframe {
+  width: 200px;
+  height: 200px;
+}
+
 #copyright {
   float: left;
   padding-left: 40%;
