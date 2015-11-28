@@ -133,6 +133,11 @@ a, a.visible {
   color: #FFF5E4;
 }
 
+#menu ul li img {
+  width: 1.86%;
+  height: 30px;
+}
+
 #news-highlight {
   display: block;
   float: left;
