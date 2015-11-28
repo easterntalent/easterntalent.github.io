@@ -51,7 +51,7 @@ header {
 header div#logo {
   background-color: transparent;
   line-height: 90px;
-  width: 200px;
+  width: 12.43%;
 	height: 200px;
 	float: left;
 	padding-top: 15px;
@@ -158,7 +158,7 @@ a, a.visible {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: black;
-  width: 33.3333%;
+  width: 33.33%;
   border: 5px solid black;
   float: right;
   line-height: 1.5;
@@ -393,8 +393,8 @@ hr.hr1 {
 }
 
 #news1 img {
-  width: 380px;
-  height 225px;
+  width: 89.42%;
+  height: 225px;
 }
 
 div#news1:hover {
@@ -409,11 +409,8 @@ div#news1:hover {
 }
 
 #news2 img {
-  width: 390px;
+  width: 89.42%;
   height: 225px;
-}
-
-  background: #F19F0F;
 }
 
 #news3 {
@@ -429,7 +426,7 @@ div#news3:hover {
 }
 
 #news3 img {
-  width: 230px;
+  width: 54.12%;
   height: 200px;
 }
 
@@ -445,7 +442,7 @@ div#news4:hover {
 }
 
 #news4 img {
-  width: 205px;
+  width: 48.42%;
   height: 300px;
 }
 
@@ -475,11 +472,11 @@ div#news4:hover {
 }
 
 .col4 { 
-  height:400px;
-  width:31.33%;
-  float:left;
-  margin:.16%;
-  padding:1%;
+  height: 400px;
+  width: 31.33%;
+  float: left;
+  margin: .16%;
+  padding: 1%;
 }
 
 #representation {
@@ -505,7 +502,7 @@ div#news4:hover {
   font-size: 22px;
   border: 5px solid black;
   height: 225px;
-  width: 400px;
+  width: 71.03%;
   padding: 10px 25px 0px 25px;
   margin-top: 125px;
   margin-left: 80px;
