@@ -595,7 +595,7 @@ div#news4:hover {
   padding: 25px;
 }
 
-#contact #map-la #map-ny iframe {
+#contact iframe#nymap iframe#lamap {
   width: 200px;
   height: 200px;
   border: 1px solid #F19F0F;
