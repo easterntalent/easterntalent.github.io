@@ -578,6 +578,7 @@ div#news4:hover {
 #contact div#map-la iframe {
   width: 80%;
   height: 200px;
+  border: 4px solid #F19F0F;
 }
 
 #contact div#ny-address p {
@@ -603,6 +604,7 @@ div#news4:hover {
 #contact div#map-ny iframe {
   width: 80%;
   height: 200px;
+  border: 4px solid #F19F0F;
 }
 
 #copyright {
