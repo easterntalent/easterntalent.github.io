@@ -598,13 +598,13 @@ div#news4:hover {
 iframe#nymap {
   width: 200px;
   height: 200px;
-  border: 1px solid #F19F0F;
+  border: 2px solid #F19F0F;
 }
 
 iframe#lamap {
   width: 200px;
   height: 200px;
-  border: 1px solid #F19F0F;
+  border: 2px solid #F19F0F;
  } 
 
 #copyright {
