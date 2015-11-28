@@ -598,6 +598,7 @@ div#news4:hover {
 #contact iframe {
   width: 200px;
   height: 200px;
+  border: 1px solid #F19F0F;
 }
 
 #copyright {
