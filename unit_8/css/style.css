@@ -640,9 +640,3 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;  
 }
-
-@media screen and (min-width: 1287px) {
-  h2 a, h3 {
-    padding-left: 20%;
-  }
-}
