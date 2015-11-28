@@ -101,24 +101,28 @@ a, a.visible {
 	background: #403D3C;
 }
 	
-#menu > ul > li {
+#menu ul li {
 	float: right;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-right: 40px;
 }
 
-#menu.align-center > ul {
+#menu ul li.web-link {
+  width: 33.33%;
+}
+
+#menu.align-center ul {
   font-size: 0;
   text-align: center;
 }
 
-#menu.align-center > ul > li {
+#menu.align-center ul li {
   display: inline-block;
   float: none;
 }
 
-#menu > ul > li > a {
+#menu ul li a {
 	padding: 10px;
   font-size: 18px;
   letter-spacing: 1px;
@@ -129,14 +133,11 @@ a, a.visible {
   text-transform: uppercase;
 }
 
-#menu > ul > li:hover > a {
+#menu ul li:hover > a {
   color: #FFF5E4;
 }
 
-#menu ul li img {
-  width: 1.86%;
-  height: 30px;
-}
+
 
 #news-highlight {
   display: block;
