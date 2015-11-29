@@ -380,6 +380,7 @@ hr.hr1 {
   line-height: 1.5;
   border: 3px solid #403D3C;
   font-weight: 500;
+  margin-top: 30px;
 }
 
 #client-news img {
@@ -389,6 +390,8 @@ hr.hr1 {
   margin-left: auto;
   padding-bottom: 0px;
   outline: 3px solid #403D3C;
+  width: 100%;
+  max-height: 225px;
 }
 
 #client-news a:hover {
@@ -402,11 +405,6 @@ hr.hr1 {
   margin-left: 50px;
 }
 
-#news1 img {
-  width: 100%;
-  max-height: 225px;
-}
-
 div#news1:hover {
   background: #F19F0F;
 }
@@ -416,11 +414,6 @@ div#news1:hover {
   height: 475px;
   margin-right: 50px;
   margin-left: 15px;
-}
-
-#news2 img {
-  width: 100%;
-  height: 225px;
 }
 
 #news3 {
@@ -435,11 +428,6 @@ div#news3:hover {
   background: #F19F0F;
 }
 
-#news3 img {
-  width: 75%;
-  height: 200px;
-}
-
 #news4 {
   width: 29.35%;
   height: 475px;
@@ -451,26 +439,6 @@ div#news4:hover {
   background: #F19F0F;
 }
 
-#news4 img {
-  width: 50%;
-  height: 250px;
-}
-
-#news1 p {
-  margin-top: 30px;
-}
-
-#news2 p {
-  margin-top: 10px;
-}
-
-#news3 p {
- margin-top: 30px;
-}
-
-#news4 p {
-  margin-top: 30px;
-}
 
 #twitter {
   float: left;
