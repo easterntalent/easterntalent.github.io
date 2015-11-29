@@ -152,6 +152,10 @@ a, a.visible {
   background: #456F74;
 }
 
+#news-highlight:hover {
+  background: #F19F0F;
+}
+
 #news-highlight img {
   height: 55%;
   width: 55%;
@@ -170,7 +174,7 @@ a, a.visible {
   text-transform: uppercase;
   color: black;
   width: 33.33%;
-  border: 5px solid #F19F0F;
+  border: 5px solid black;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
