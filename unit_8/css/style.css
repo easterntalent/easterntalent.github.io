@@ -641,7 +641,7 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (max-width : 1285px) {
+/*@media only screen and (max-width : 1285px) {
   #talent h2 {
     padding-left: 22%{
   }
@@ -731,7 +731,7 @@ footer {
   #twitter {
     width: inherit;
   }
-}
+}*/
    /*/* Small Devices, Tablets */
     /*@media only screen and (max-width : 768px) {
 
