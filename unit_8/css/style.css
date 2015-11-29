@@ -552,6 +552,7 @@ div#news4:hover {
   padding-top: 20px;
   padding-left: 5%;
   padding-right: 1.5%;
+  width: 100%;
 }
 
 #contact div#ny-address p {
@@ -563,6 +564,7 @@ div#news4:hover {
   padding-left: 1.5%;
   padding-top: 20px;
   padding-right: 1.5%;
+  width: 100%;
 }
 
 #contact span.nyoff {
