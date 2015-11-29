@@ -106,7 +106,7 @@ a, a.visible {
 	float: right;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	padding-right: 40px;
+	padding-right: 2.5%;
 }
 
 #menu.align-center ul {
@@ -470,7 +470,7 @@ div#news4:hover {
 }
 
 #contact h4 {
-  margin-left: 75px;
+  margin-left: 7.2%;
   font-family: 'Gruppo', sans-serif;
   font-size: 65px;
   color: #F19F0F;
@@ -583,7 +583,7 @@ iframe#lamap {
 
 footer a {
   color: #F19F0F;
-  padding-left: 50px;
+  padding-left: 1%;
 }
 
 footer {	
@@ -595,7 +595,7 @@ footer {
   top: 0;
   left: 0;
   right: 0;
-  height:50px;
+  height: 50px;
   text-decoration: none !important;
   text-transform: uppercase;
   color: #F19F0F;
