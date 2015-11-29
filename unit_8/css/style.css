@@ -404,7 +404,7 @@ hr.hr1 {
 
 #news1 img {
   width: 100%;
-  height: 225px;
+  max-height: 225px;
 }
 
 div#news1:hover {
@@ -452,8 +452,8 @@ div#news4:hover {
 }
 
 #news4 img {
-  width: 55%;
-  height: 300px;
+  width: 50%;
+  height: 250px;
 }
 
 #news1 p {
@@ -469,7 +469,7 @@ div#news4:hover {
 }
 
 #news4 p {
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #twitter {
