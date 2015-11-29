@@ -526,6 +526,13 @@ div#news4:hover {
   padding-top: 6%;
 }
 
+#contact div#map-ny {
+  display: block;
+  float: left;
+  padding-left: 4%;
+  padding-top: 6%;
+}
+
 #contact div#la-address {
   display: block;
   float: left;
@@ -535,6 +542,7 @@ div#news4:hover {
 #contact div#ny-address {
   display: block;
   float: left;
+  padding-left: 8%;
 }
 
 #contact div#ny-address p {
