@@ -287,7 +287,7 @@ hr.hr1 {
   background-color: #D3CBBD;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 20%;
+  padding-left: 24%;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
@@ -359,7 +359,7 @@ hr.hr1 {
   text-transform: uppercase;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 20%;
+  padding-left: 24%;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
@@ -609,7 +609,7 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (max-width : 1285px) {
+@media only screen and (max-width : 1300px) {
   #talent h2 {
     padding-left: 22%{
   }
@@ -619,15 +619,16 @@ footer {
   #client-news h3 {
     padding-left: 22%;
   }
+   #representation p {
+    line-height: 1.5;
+  }
 }
       
 @media only screen and (max-width : 1225px) {
   #client-news p {
     line-height: 1.5;
   }
-  #representation p {
-    line-height: 1.5;
-  }
+ 
   #contact h4 {
     margin-left: 50px;
   } 
