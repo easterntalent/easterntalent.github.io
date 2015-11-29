@@ -466,7 +466,7 @@ div#news4:hover {
   border-top: 5px solid black;
   border-bottom: 5px solid black;
   padding-bottom: 10.04%;
-  min-height: 500px;
+  height: 500px;
 }
 
 #representation p {
