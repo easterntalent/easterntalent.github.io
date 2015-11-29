@@ -526,7 +526,9 @@ div#news4:hover {
 #contact div#la-address {
   display: block;
   float: left;
+  padding-right: 4%;
   padding-left: 10%;
+  width: auto;
   position: relative;
 }
 
@@ -535,6 +537,8 @@ div#news4:hover {
   float: left;
   padding-left: 6%;
   position: relative;
+  padding-right: 4%;
+  width: auto;
 }
 
 #contact div#la-address p {
