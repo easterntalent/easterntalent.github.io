@@ -651,6 +651,18 @@ footer {
   }
 }
 
+@media only screen and (max-width: 1600px) {
+  #representation p {
+    line-height: 1.75;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #representation p {
+    line-height: 1.5;
+  }
+}
+
 /*@media only screen and (max-width : 1250px) {
   #client-news p {
     line-height: 1.3;
