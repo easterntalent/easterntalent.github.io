@@ -170,7 +170,7 @@ a, a.visible {
   text-transform: uppercase;
   color: black;
   width: 33.33%;
-  border: 5px #F19F0F;
+  border: 5px solid #F19F0F;
   float: right;
   line-height: 1.5;
   margin-top: 14%;
