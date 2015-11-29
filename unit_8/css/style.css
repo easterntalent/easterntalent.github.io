@@ -194,7 +194,7 @@ a#moz-background-size {
 }
 
 #news-highlight a {
-  color: black;
+  color: #456F74;
 }
 
 #news-highlight a:hover {
@@ -204,14 +204,14 @@ a#moz-background-size {
 }
 
 #news-highlight a#more {
-  color: #403D3C;
+  color: #456F74;
   font-weight: bolder;
   text-decoration: underline;
   letter-spacing: .2em;
 }
 
 #news-highlight a#more:hover {
-  color: #456F74;
+  color: #403D3C;
   text-decoration: underline;
   font-weight: bolder;
 }
