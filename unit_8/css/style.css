@@ -617,7 +617,7 @@ footer {
   }
 
   #talent h2 {
-    padding-left: 22%{
+    padding-left: 22% {
   }
 
   #allnews {
@@ -638,15 +638,17 @@ footer {
   #client-news p {
     line-height: 1.5;
   }
- 
+
+  #representation p {
+    line-height: 1.5;
+  }
+
   #contact h4 {
     margin-left: 50px;
   } 
+
   #contact div#la-address p {
     padding-left: 50px;
-  }
-  #representation p {
-    line-height: 1.5;
   }
 }
 
