@@ -18,7 +18,7 @@ html {
   content: " ";
   display: block;
   clear: both;
-  }
+}
 
 body {
 	font-family: 'Archivo-Narrow', sans-serif;
@@ -79,7 +79,7 @@ a, a.visible {
 #menu ul li,
 #menu ul li a,
 #menu #menu-button {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   border: 0;
   list-style: none;
@@ -224,7 +224,7 @@ a#moz-background-size {
   border-top: 5px solid black;
   height: inherit;
   float: left;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   overflow: hidden;
 }
@@ -463,7 +463,7 @@ div#news4:hover {
   width: 35%;
   background: #F19F0F;
   float: left;
-  margin: 0;
+  margin: 0 auto;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
   padding-bottom: 50px;
@@ -502,7 +502,7 @@ div#news4:hover {
   background: #1C1919;
   width: 65%;
   height: 500px;
-  margin: 0;
+  margin: 0 auto;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
