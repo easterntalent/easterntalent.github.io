@@ -286,14 +286,13 @@ hr.hr1 {
 
 #talent h2 {
   background-color: #D3CBBD;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: .88%;
+  padding-bottom: .88%;
   padding-left: 22%;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
   margin-right: 50%;
-  margin-bottom: 75px;
 }
 
 #talent ul {
@@ -433,7 +432,7 @@ div#news3:hover {
 #news4 {
   width: 29.35%;
   height: 475px;
-  margin-top: 10.65%;
+  margin-top: 40px;
   margin-left: 3.99%;
 }
 
