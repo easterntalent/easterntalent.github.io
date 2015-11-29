@@ -590,9 +590,14 @@ iframe#lamap {
   height: 500px;
 }
 
-#representation p {
+#representation div#rep {
   display: block;
   float: left;
+  margin-top: 25%;
+  margin-left: 13%;
+}
+
+#representation p {
   font-family: 'Roboto Condensed', sans-serif;
   color: black;
   text-align: center;
@@ -604,8 +609,6 @@ iframe#lamap {
   height: 220px;
   width: 75%;
   padding: 1% 7.07% 0 7.07%;
-  margin-top: 25%;
-  margin-left: 13%;
 }
 
 #representation a {
