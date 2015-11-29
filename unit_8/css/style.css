@@ -514,6 +514,7 @@ div#news4:hover {
   padding-top: 6%;
   padding-left: 4%;
   position: relative;
+  float: right;
 }
 
 #contact div#map-ny {
