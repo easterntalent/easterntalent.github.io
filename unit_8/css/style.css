@@ -302,13 +302,13 @@ hr.hr1 {
   list-style: none;
   text-transform: uppercase;
   font-weight: 500;
-  margin-left: 0px;
+  margin-left: 0;
   -webkit-column-count: 2;
   -moz-column-count: 2;
-  -webkit-column-gap: 50px;
-  -moz-column-gap: 50px;
-  column-gap: 50px;
-  padding-top: 0px;
+  -webkit-column-gap: 4.23%;
+  -moz-column-gap: 4.23%;
+  column-gap: 4.23%;
+  padding-top: 4.23%;
   padding-left: 26%;
   margin-top: 0;
 }
