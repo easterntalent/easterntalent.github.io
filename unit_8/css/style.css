@@ -611,7 +611,7 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (max-width : 1330px) {
+@media only screen and (max-width: 1330px) {
   #representation p {
     line-height: 1.4;
   }
@@ -633,7 +633,7 @@ footer {
    }
 }
       
-@media only screen and (max-width : 1285px) {
+@media only screen and (max-width: 1285px) {
   #client-news p {
     line-height: 1.5;
   }
