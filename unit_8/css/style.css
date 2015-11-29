@@ -528,10 +528,17 @@ div#news4:hover {
 
 #contact div#la-address {
   display: block;
-  float:left;
+  float: left;
+  padding-left: 10%;
+}
+
+#contact div#ny-address {
+  display: block;
+  float: left;
 }
 
 #contact div#ny-address p {
+  display: block;
   float: left;
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
