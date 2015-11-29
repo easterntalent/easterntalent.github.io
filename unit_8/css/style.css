@@ -526,8 +526,12 @@ div#news4:hover {
   padding-top: 6%;
 }
 
-#contact div#ny-address p {
+#contact div#la-address {
   display: block;
+  float:left;
+}
+
+#contact div#ny-address p {
   float: left;
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
@@ -538,7 +542,7 @@ div#news4:hover {
 }
 
 #contact span.nyoff {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-ny {
