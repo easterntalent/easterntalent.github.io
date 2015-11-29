@@ -511,7 +511,6 @@ div#news4:hover {
 
 #contact div#map-la {
   display: block;
-  float: left;
   padding-left: 4%;
   padding-top: 6%;
   position: relative;
@@ -519,7 +518,6 @@ div#news4:hover {
 
 #contact div#map-ny {
   display: block;
-  float: left;
   padding-left: 4%;
   padding-top: 6%;
   position: relative;
