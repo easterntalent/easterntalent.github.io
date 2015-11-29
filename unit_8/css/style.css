@@ -512,11 +512,13 @@ div#news4:hover {
 #contact div#ny {
   float: left;
   width: 50%;
+  position: relative;
 }
 
 #contact div#la {
   float: left;
   width: 50%;
+  position: relative
 }
 
 #contact div#map-la {
