@@ -538,7 +538,7 @@ div#news4:hover {
 }
 
 #contact span.main {
-  color:#5B9299;
+  color: #5B9299;
 }
 
 #contact div#map-la {
@@ -569,12 +569,12 @@ div#news4:hover {
 
 #copyright {
   float: left;
-  padding-left :40%;
+  padding-left: 40%;
 }
 
 footer a {
   color: #F19F0F;
-  padding-left:50px;
+  padding-left: 50px;
 }
 
 footer {	
