@@ -510,6 +510,14 @@ div#news4:hover {
   color: #5B9299;
 }
 
+#contact div#ny {
+  float: left;
+}
+
+#contact div#la {
+  float: left;
+}
+
 #contact div#map-la {
   display: block;
   float: left;
