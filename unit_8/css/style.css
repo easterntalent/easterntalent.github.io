@@ -296,7 +296,7 @@ hr.hr1 {
 }
 
 #talent ul {
-  width: 80%;
+  width: 85%;
   float: left;
   font-size: 22px;
   list-style: none;
@@ -471,7 +471,7 @@ div#news4:hover {
 }
 
 #contact h4 {
-  margin-left: 7.2%;
+  margin-left: 5;
   font-family: 'Gruppo', sans-serif;
   font-size: 65px;
   color: #F19F0F;
@@ -493,7 +493,7 @@ div#news4:hover {
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
   padding-top: 20px;
-  padding-left: 7.5%;
+  padding-left: 5%;
   padding-right: 1.5%;
 }
 
@@ -513,7 +513,7 @@ div#news4:hover {
   font-size: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 4%;
+  padding-left: 1.5%;
   padding-top: 20px;
   padding-right: 1.5%;
 }
@@ -564,7 +564,7 @@ iframe#lamap {
   border: 5px solid black;
   height: 220px;
   width: 71.03%;
-  padding: 4% 7.07% 0 7.07%;
+  padding: 1% 7.07% 0 7.07%;
   margin-top: 24%;
   margin-left: 15%;
 }
