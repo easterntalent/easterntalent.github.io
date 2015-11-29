@@ -702,6 +702,11 @@ footer {
   }
 }
 
+@viewport {
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+
 @-ms-viewport {
   width: device-width;
 }
