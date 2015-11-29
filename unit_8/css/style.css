@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Gruppo);
 
 html { 
+
 }
 
 * {
@@ -54,9 +55,9 @@ header div#logo {
   width: 12.76%;
 	height: 200px;
 	float: left;
-	padding-top: 15px;
-	padding-left: 20px;
-	padding-bottom: 15px;
+	padding-top: 1.05%;
+	padding-left: 1.41%;
+	padding-bottom: 1.05%;
 }
 
 h3 h4 h5 {
@@ -162,7 +163,7 @@ a, a.visible {
 #news-highlight #text p {
   display: block;
   background: #D3CBBD;
-  padding: 7px 15px 7px 20px;
+  padding: .49% 1.05% .40% 1.41%;
   font-size: 22px;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
@@ -268,8 +269,8 @@ hr.hr1 {
   background-color: #F19F0F;
   clear: both;
   border-bottom: 5px solid black;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 7.03%;
+  padding-bottom: 7.03%;
   width: auto;
   height: inherit;
 }
@@ -287,7 +288,7 @@ hr.hr1 {
   background-color: #D3CBBD;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 24%;
+  padding-left: 22%;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
@@ -313,11 +314,11 @@ hr.hr1 {
 }
 
 #talent li a {
-  padding: 7px 4px 3px 4px;
+  padding: 1.87% 1.07% .8% 1.07%;
   color: #fff;
   display: block;
   line-height: 2.5em;
-  margin-left: 10px;
+  margin-left: 97.32%;
   width: auto;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
@@ -330,8 +331,8 @@ hr.hr1 {
 #client-news {
   width: auto;
   margin-top: 0;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 7.03%;
+  padding-bottom: 7.03%;
   background: url('..//images/gold_muted_web.png') no-repeat center center;
   background-size: cover;
 }
@@ -348,7 +349,7 @@ hr.hr1 {
 
 #allnews {
   width: 90%;
-  margin-left: 15px;
+  margin-left: 1.2%;
 }
 
 #client-news h3 {
@@ -359,7 +360,7 @@ hr.hr1 {
   text-transform: uppercase;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 24%;
+  padding-left: 22%;
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
@@ -376,13 +377,13 @@ hr.hr1 {
   font-family: 'Raleway', sans-serif;
   background: #D3CBBD;
   color: black; 
-  padding: 5px;
+  padding: 1.47%;
   text-transform: uppercase;
   font-weight: lighter;
   line-height: 1.5;
   border: 3px solid #403D3C;
   font-weight: 500;
-  margin-top: 30px;
+  margin-top: 8.79%;
 }
 
 #client-news img {
@@ -390,7 +391,7 @@ hr.hr1 {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  padding-bottom: 0px;
+  padding-bottom: 0;
   outline: 3px solid #403D3C;
   width: 100%;
   max-height: 225px;
@@ -403,8 +404,8 @@ hr.hr1 {
 #news1 {
   width: 29.35%;
   height: 475px;
-  margin-right: 45px;
-  margin-left: 50px;
+  margin-right: 3.52%;
+  margin-left: 3.91%;
 }
 
 div#news1:hover {
@@ -414,16 +415,16 @@ div#news1:hover {
 #news2 {
   width: 29.35%;
   height: 475px;
-  margin-right: 50px;
-  margin-left: 15px;
+  margin-right: 3.52%;
+  margin-left: 3.91%;
 }
 
 #news3 {
   width: 29.35%;
   height: 475px;
   margin-top: 40px;
-  margin-right: 45px;
-  margin-left: 50px;
+  margin-right: 3.52%;
+  margin-left: 3.91%;
 }
 
 div#news3:hover {
@@ -433,8 +434,8 @@ div#news3:hover {
 #news4 {
   width: 29.35%;
   height: 475px;
-  margin-top: 40px;
-  margin-left: 15px;
+  margin-top: 10.65%;
+  margin-left: 3.99%;
 }
 
 div#news4:hover {
@@ -466,7 +467,7 @@ div#news4:hover {
   margin: 0 auto;
   border-top: 5px solid black;
   border-bottom: 5px solid black;
-  padding-bottom: 50px;
+  padding-bottom: 10.04%;
   min-height: 500px;
 }
 
@@ -483,9 +484,9 @@ div#news4:hover {
   border: 5px solid black;
   height: 225px;
   width: 71.03%;
-  padding: 10px 25px 0px 25px;
-  margin-top: 125px;
-  margin-left: 80px;
+  padding: 2.83% 7.07% 0 7.07%;
+  margin-top: 35.39%;
+  margin-left: 22.63%;
 }
 
 #representation a {
@@ -506,7 +507,7 @@ div#news4:hover {
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
-  padding-bottom: 50px;
+  padding-bottom: 5.4%;
 }
 
 #contact h4 {
@@ -542,7 +543,7 @@ div#news4:hover {
 #contact div#map-la {
   display: block;
   float: left;
-  padding: 25px;
+  padding: 11.08%;
   width: 24.53%;
 }
 
@@ -563,12 +564,12 @@ div#news4:hover {
 #contact div#map-ny {
   display: block;
   float: left;
-  padding: 25px;
+  padding: 11.08%;
   width: 24.53%;
 }
 
 iframe#nymap {
-  max-width:100%;
+  max-width: 100%;
   max-height: 100%;
   border: 3px solid #F19F0F;
 }
