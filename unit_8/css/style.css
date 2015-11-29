@@ -614,3 +614,19 @@ footer {
     padding-left: 20%;
   }
 
+  #contact div#map-la {
+    width: 25%;
+  }
+
+  #contact div#map-ny {
+    width: 25%;
+  }
+
+  #contact h4 {
+    margin-left: 4%;
+  }
+
+  #contact div#la-address {
+    padding-left: 4%;
+  }
+
