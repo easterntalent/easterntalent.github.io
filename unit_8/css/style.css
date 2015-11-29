@@ -12,12 +12,12 @@ html {
 }
 
 .clearfix:after {
-    font-size: 0;
-    height: 0;
-    visibility: hidden;
-    content: " ";
-    display: block;
-    clear: both;
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+  content: " ";
+  display: block;
+  clear: both;
   }
 
 body {
@@ -31,8 +31,8 @@ body {
 }
 
 #wrapper {
-  min-height:100%;
-  position:relative;
+  min-height: 100%;
+  position: relative;
 }
 
 header {
@@ -184,8 +184,8 @@ a#moz-background-size {
   height: 400px;
   width: 31.33%;
   float: left;
-  margin:.16%;
-  padding:1%;
+  margin: .16%;
+  padding: 1%;
 }
 
 #news-highlight a {
@@ -641,7 +641,7 @@ footer {
   box-sizing: border-box;  
 }
 
-/*@media only screen and (max-width : 1285px) {
+@media only screen and (max-width : 1285px) {
   #talent h2 {
     padding-left: 22%{
   }
@@ -731,7 +731,7 @@ footer {
   #twitter {
     width: inherit;
   }
-}*/
+}
    /*/* Small Devices, Tablets */
     /*@media only screen and (max-width : 768px) {
 
