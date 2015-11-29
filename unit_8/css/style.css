@@ -402,7 +402,6 @@ hr.hr1 {
 #news1 {
   width: 29.35%;
   height: 475px;
-  margin-right: 3.52%;
   margin-left: 3.91%;
 }
 
@@ -421,7 +420,6 @@ div#news1:hover {
   width: 29.35%;
   height: 475px;
   margin-top: 40px;
-  margin-right: 3.52%;
   margin-left: 3.91%;
 }
 
@@ -446,7 +444,7 @@ div#news4:hover {
   background: #5B9299;
   height: inherit;
   margin-top: -29.8em;
-  margin-left: 50px;
+  margin-left: 3.5%;
   padding: 20px;
 }
 
