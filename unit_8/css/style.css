@@ -641,6 +641,7 @@ footer {
     line-height: 1.3;
   }
 }
+
 @media only screen and (max-width : 1214px) {
   #news-highlight #text p {
     line-height: 1.25;
@@ -699,6 +700,10 @@ footer {
   #twitter {
     width: inherit;
   }
+}
+
+@-ms-viewport {
+  width: device-width;
 }
    /*/* Small Devices, Tablets */
     /*@media only screen and (max-width : 768px) {
