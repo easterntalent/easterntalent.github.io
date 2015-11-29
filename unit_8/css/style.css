@@ -401,7 +401,7 @@ hr.hr1 {
 #news1 {
   width: 29.35%;
   height: 475px;
-  margin-right: 50px;
+  margin-right: 45px;
   margin-left: 50px;
 }
 
@@ -420,7 +420,7 @@ div#news1:hover {
   width: 29.35%;
   height: 475px;
   margin-top: 40px;
-  margin-right: 50px;
+  margin-right: 45px;
   margin-left: 50px;
 }
 
@@ -613,12 +613,19 @@ footer {
   #talent h2 {
     padding-left: 22%{
   }
+
   #allnews {
     margin-left: 0;
   }
+
   #client-news h3 {
     padding-left: 22%;
   }
+
+  #client-news p {
+    line-height: 1.4;
+  }
+
    #representation p {
     line-height: 1.5;
   }
