@@ -530,13 +530,13 @@ div#news4:hover {
 iframe#nymap {
   max-width: 100%;
   max-height: 100%;
-  border: 3px solid #F19F0F;
+  outline: 3px solid #F19F0F;
 }
 
 iframe#lamap {
   max-width: 100%;
   max-height: 100%;
-  border: 3px solid #F19F0F;
+  outline: 3px solid #F19F0F;
  } 
 
 #representation {
@@ -640,11 +640,12 @@ footer {
   }
 
   #contact h4 {
-    margin-left: 50px;
+    margin-left: 7.2%;
   } 
 
   #contact div#la-address p {
-    padding-left: 50px;
+    padding-left: 7.5%;
+    padding-right: 1.5%;
   }
 }
 
