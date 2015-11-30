@@ -518,7 +518,10 @@ div#timeline {
   display: -webkit-flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  align-content: center;
+  width: auto;
+  height: auto;
+  margin: 0;
 }
 
 #contact span.main {
@@ -527,17 +530,22 @@ div#timeline {
 
 #contact div#ny {
   display: block;
-  float: right;
-  width: 50%;
+  float: left;
+  width: auto;
   position: relative;
+  margin: auto;
+  flex-grow: 1;
+  flex-basis: auto;
   order: 2;
+  padding-left: 3%;
 }
 
 #contact div#la {
   float: left;
-  width: 50%;
+  width: auto;
   position: relative;
-  margin: 0;
+  margin: auto;
+  padding-left: 3%;
   order: 1;
   flex-grow: 1;
   flex-basis: auto;
@@ -554,7 +562,7 @@ div#timeline {
 #contact div#map-ny {
   display: block;
   float: left;
-  padding-left: 4%;
+  padding-left: 7%;
   padding-top: 6%;
   position: relative;
 }
@@ -633,6 +641,20 @@ iframe#lamap {
   border-bottom: .2em solid black;
   padding-bottom: 10.04%;
   min-height: 500px;
+}
+
+#representation div.rep-container {
+  display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  width: auto;
+  height: auto;
+  margin: 0;
 }
 
 #representation div#rep {
