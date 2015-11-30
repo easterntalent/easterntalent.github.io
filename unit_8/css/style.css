@@ -238,15 +238,14 @@ a#moz-background-size {
 
 #intro h1 {
   font-family: 'Gruppo', sans-serif;
-  font-size: 1.5em;
   color: #F19F0F;
   text-align: center;
-  font-size: 2em;
+  font-size: 2.5em;
   line-height: 125%;
   padding-top: 6%;
   padding-bottom: 6%;
   text-transform: uppercase;
-  border-bottom: .1em solid #456F74;
+  border-bottom: .06em solid #456F74;
 }
 
 #intro p {
@@ -362,16 +361,16 @@ hr.hr1 {
 
 #client-news h3 {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 1.5em;
+  font-size: 3em;
   color: black;
   text-align: justify;
   text-transform: uppercase;
   padding-top: 1%;
   padding-bottom: 1%;
   padding-left: 22%;
-  border-top: .2em solid black;
-  border-right: .2em solid black;
-  border-bottom: .2em solid black;
+  border-top: .1em solid black;
+  border-right: .1em solid black;
+  border-bottom: .1em solid black;
   background-color: #D3CBBD;
   background-size: inherit;
   margin-right: 50%;
@@ -499,7 +498,7 @@ div#timeline {
 #contact h4 {
   margin-left: 5%;
   font-family: 'Gruppo', sans-serif;
-  font-size: 1.5em;
+  font-size: 2.5em;
   color: #F19F0F;
   text-align: justify;
   padding-bottom: 5%;
