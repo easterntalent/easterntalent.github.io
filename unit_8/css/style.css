@@ -120,8 +120,8 @@ a, a.visible {
 
 #menu ul li a {
 	padding: .7em;
-  font-size: .8em;
-  letter-spacing: .9em;
+  font-size: .75em;
+  letter-spacing: .2em;
   word-spacing: .1em;
   text-decoration: none !important;
   color: #D3CBBD;
