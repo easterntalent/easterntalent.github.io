@@ -397,6 +397,7 @@ hr.hr1 {
   border: 3px solid #403D3C;
   font-weight: 500;
   position: absolute;
+  font-size: .75em;
 }
 
 #client-news img {
@@ -546,7 +547,6 @@ div#timeline {
 #contact div#la-address {
   display: block;
   float: left;
-  padding-right: 3.5%;
   padding-left: 10%;
   width: auto;
   position: relative;
@@ -683,7 +683,7 @@ footer {
   box-sizing: border-box;  
 }
 
-/*@media only screen and (min-device-width : 1200px) and (max-device-width : 1280px) {
+/*@media only screen and (min-width : 1200px) and (max-width : 1280px) {
   h2 {
     padding-left: 15%;
   }
