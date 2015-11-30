@@ -414,6 +414,7 @@ hr.hr1 {
 
 #news1 {
   width: 29.35%;
+  height: auto;
   height: 475px;
   margin-left: 3.91%;
 }
@@ -424,14 +425,14 @@ div#news1:hover {
 
 #news2 {
   width: 29.35%;
-  height: 475px;
+  height: auto;
   margin-right: 3.52%;
   margin-left: 3.91%;
 }
 
 #news3 {
   width: 29.35%;
-  height: 475px;
+  height: auto;
   margin-top: 40px;
   margin-left: 3.91%;
 }
@@ -442,7 +443,7 @@ div#news3:hover {
 
 #news4 {
   width: 29.35%;
-  height: 475px;
+  height: auto;
   margin-top: 40px;
   margin-left: 3.99%;
 }
@@ -455,10 +456,9 @@ div#news4:hover {
 #twitter {
   float: left;
   background: #5B9299;
-  height: inherit;
-  margin-top: -29.8em;
+  height: auto;
+  margin-top: -27em;
   margin-left: 3.5%;
-  padding: 20px;
 }
 
 .col4 { 
