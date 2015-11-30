@@ -472,7 +472,8 @@ div#news4:hover {
 }
 
 div#timeline {
-  height: inherit;
+  width: 100%;
+  min-height: 920px;
 }
 
 .col4 { 
