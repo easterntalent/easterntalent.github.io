@@ -443,6 +443,10 @@ div#news2:hover {
   background: #F19F0F;
 }
 
+div#news2 img {
+  height: 225px;
+}
+
 #news3 {
   width: 29.35%;
   min-height: 475px;
