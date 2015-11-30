@@ -512,10 +512,13 @@ div#timeline {
 
 #contact div.contact-container {
   display: flex;
-  flex-direction: column-reverse;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  flex-flow: row;
 }
 
 #contact span.main {
@@ -531,11 +534,13 @@ div#timeline {
 }
 
 #contact div#la {
-  display: block;
   float: left;
   width: 50%;
   position: relative;
+  margin: 0;
   order: 1;
+  flex-grow: 1;
+  flex-basis: auto;
 }
 
 #contact div#map-la {
@@ -548,16 +553,16 @@ div#timeline {
 
 #contact div#map-ny {
   display: block;
+  float: left;
   padding-left: 4%;
   padding-top: 6%;
   position: relative;
-  float: right;
 }
 
 #contact div#la-address {
   display: block;
   float: left;
-  padding-left: 10%;
+  margin-left: 10%;
   width: auto;
   position: relative;
 }
@@ -565,7 +570,6 @@ div#timeline {
 #contact div#ny-address {
   display: block;
   float: left;
-  padding-left: 6%;
   position: relative;
   width: auto;
 }
