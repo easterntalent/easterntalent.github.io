@@ -406,6 +406,12 @@ hr.hr1 {
   max-height: 225px;
 }
 
+#client-news div.newsp {
+  position: relative;
+  margin-top: 8.79%;
+  height: auto;
+}
+
 #client-news a:hover {
   color: #403D3C;
   text-decoration: underline;
@@ -422,12 +428,6 @@ div#news1:hover {
   background: #F19F0F;
 }
 
-#news1 div #news1p {
- position: relative;
- margin-top: 8.79%;
-}
-
-
 #news2 {
   width: 29.35%;
   max-height: 475px;
@@ -438,12 +438,6 @@ div#news1:hover {
 div#news2:hover {
   background: #F19F0F;
 }
-
-#news2 div #news2p {
-  position: relative;
-  margin-top: 8.79%;
-}
-
 
 #news3 {
   width: 29.35%;
@@ -456,11 +450,6 @@ div#news3:hover {
   background: #F19F0F;
 }
 
-#news3 div #news3p {
-  position: relative;
-  margin-top: 8.79%;
-}
-
 #news4 {
   width: 29.35%;
   max-height: 475px;
@@ -470,11 +459,6 @@ div#news3:hover {
 
 div#news4:hover {
   background: #F19F0F;
-}
-
-#news4 div #news4p {
-  position: relative;
-  margin-top: 8.79%;
 }
 
 #twitter {
