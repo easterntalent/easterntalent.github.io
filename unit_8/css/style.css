@@ -180,6 +180,7 @@ a, a.visible {
   width: 33.33%;
   border: .2em solid black;
   line-height: 1.5;
+  font-size: .9em;
 }
 
 a#moz-background-size {
