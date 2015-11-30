@@ -510,7 +510,7 @@ div#timeline {
   color: #FB9D29;
 }
 
-.container {
+#contact div.contact-container {
   display: flex;
   flex-direction: column-reverse;
   wrap-reverse: rtl;
