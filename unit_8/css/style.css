@@ -159,7 +159,7 @@ a, a.visible {
   height: 55%;
   width: 55%;
   float: left;
-  border-right: .25em solid black;
+  border-right: .2em solid black;
   margin-top: 5%;
 }
 
@@ -178,7 +178,7 @@ a, a.visible {
   text-transform: uppercase;
   color: black;
   width: 33.33%;
-  border: .25em solid black;
+  border: .2em solid black;
   line-height: 1.5;
 }
 
@@ -231,8 +231,8 @@ a#moz-background-size {
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
-  border-bottom: .25em solid black;
-  border-top: .25em solid black;
+  border-bottom: .2em solid black;
+  border-top: .2em solid black;
   height: inherit;
   float: left;
   margin: 0 auto;
@@ -249,7 +249,7 @@ a#moz-background-size {
   padding-top: 6%;
   padding-bottom: 6%;
   text-transform: uppercase;
-  border-bottom: .25em solid #456F74;
+  border-bottom: .2em solid #456F74;
 }
 
 #intro p {
@@ -278,7 +278,7 @@ hr.hr1 {
 #talent {
   background-color: #F19F0F;
   clear: both;
-  border-bottom: .25em solid black;
+  border-bottom: .2em solid black;
   padding-top: 7.03%;
   padding-bottom: 7.03%;
   width: auto;
@@ -299,9 +299,9 @@ hr.hr1 {
   padding-top: .88%;
   padding-bottom: .88%;
   padding-left: 22%;
-  border-top: .25em solid black;
-  border-right: .25em solid black;
-  border-bottom: .25em solid black;
+  border-top: .2em solid black;
+  border-right: .2em solid black;
+  border-bottom: .2em solid black;
   margin-right: 50%;
 }
 
@@ -354,7 +354,7 @@ hr.hr1 {
   background: rgba(211,203,189,.7);
   margin: .16%;
   padding: 1%;
-  border: .25em solid black;
+  border: .2em solid black;
 }
 
 #allnews {
@@ -371,9 +371,9 @@ hr.hr1 {
   padding-top: 1%;
   padding-bottom: 1%;
   padding-left: 22%;
-  border-top: .25em solid black;
-  border-right: .25em solid black;
-  border-bottom: .25em solid black;
+  border-top: .2em solid black;
+  border-right: .2em solid black;
+  border-bottom: .2em solid black;
   background-color: #D3CBBD;
   background-size: inherit;
   margin-right: 50%;
@@ -492,9 +492,9 @@ div#timeline {
   width: 65%;
   height: 500px;
   margin: 0 auto;
-  border-top: .25em solid black;
-  border-right: .25em solid black;
-  border-bottom: .25em solid black;
+  border-top: .2em solid black;
+  border-right: .2em solid black;
+  border-bottom: .2em solid black;
   padding-bottom: 5.4%;
 }
 
@@ -615,8 +615,8 @@ iframe#lamap {
   background: #F19F0F;
   float: left;
   margin: 0 auto;
-  border-top: .25em solid black;
-  border-bottom: .25em solid black;
+  border-top: .2em solid black;
+  border-bottom: .2em solid black;
   padding-bottom: 10.04%;
   height: 500px;
 }
@@ -635,7 +635,7 @@ iframe#lamap {
   text-transform: uppercase;
   background: #D3CBBD;
   font-size: 1em;
-  border: .25em solid black;
+  border: .2em solid black;
   height: inherit;
   width: 75%;
   padding: 1% 7.07% 1% 7.07%;
