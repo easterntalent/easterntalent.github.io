@@ -430,7 +430,10 @@ div#news1:hover {
   margin-right: 3.52%;
   margin-left: 3.91%;
   position: relative;
+}
 
+div#news2:hover {
+  background: #F19F0F;
 }
 
 #news3 {
