@@ -417,6 +417,7 @@ hr.hr1 {
   height: auto;
   height: 475px;
   margin-left: 3.91%;
+  position: relative;
 }
 
 div#news1:hover {
@@ -428,6 +429,8 @@ div#news1:hover {
   height: auto;
   margin-right: 3.52%;
   margin-left: 3.91%;
+  position: relative;
+
 }
 
 #news3 {
@@ -435,6 +438,7 @@ div#news1:hover {
   height: auto;
   margin-top: 40px;
   margin-left: 3.91%;
+  position: relative;
 }
 
 div#news3:hover {
@@ -446,6 +450,7 @@ div#news3:hover {
   height: auto;
   margin-top: 40px;
   margin-left: 3.99%;
+  position: relative;
 }
 
 div#news4:hover {
@@ -459,6 +464,7 @@ div#news4:hover {
   height: auto;
   margin-top: -27em;
   margin-left: 3.5%;
+  position: relative;
 }
 
 .col4 { 
