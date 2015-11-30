@@ -164,8 +164,14 @@ a, a.visible {
   margin-top: 5%;
 }
 
-#news-highlight #text p {
+#news-highlight #text {
+  float: right;
   display: block;
+  margin-top: 14%;
+  margin-right: 6%;
+}
+
+#news-highlight #text p {
   background: #D3CBBD;
   padding: .49% 1.05% .40% 1.41%;
   font-size: 22px;
@@ -175,10 +181,8 @@ a, a.visible {
   color: black;
   width: 33.33%;
   border: 5px solid black;
-  float: right;
+  
   line-height: 1.5;
-  margin-top: 14%;
-  margin-right: 6%;
 }
 
 a#moz-background-size {
@@ -684,7 +688,7 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+@media only screen and (min-device-width : 768px) and (max-device-width : 1280px) {
   h2 {
     padding-left: 15%;
   }
