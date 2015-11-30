@@ -295,9 +295,9 @@ hr.hr1 {
   padding-top: .88%;
   padding-bottom: .88%;
   padding-left: 22%;
-  border-top: .2em solid black;
-  border-right: .2em solid black;
-  border-bottom: .2em solid black;
+  border-top: .15em solid black;
+  border-right: .15em solid black;
+  border-bottom: .15em solid black;
   margin-right: 50%;
   font-size: 1.5em;
 }
@@ -368,9 +368,9 @@ hr.hr1 {
   padding-top: 1%;
   padding-bottom: 1%;
   padding-left: 22%;
-  border-top: .1em solid black;
-  border-right: .1em solid black;
-  border-bottom: .1em solid black;
+  border-top: .08em solid black;
+  border-right: .08em solid black;
+  border-bottom: .08em solid black;
   background-color: #D3CBBD;
   background-size: inherit;
   margin-right: 50%;
