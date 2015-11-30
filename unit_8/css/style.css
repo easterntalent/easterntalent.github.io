@@ -392,7 +392,6 @@ hr.hr1 {
   line-height: 1.5;
   border: 3px solid #403D3C;
   font-weight: 500;
-  margin-top: 8.79%;
   position: relative;
 }
 
@@ -425,6 +424,7 @@ div#news1:hover {
 
 #news1 div #news1p {
  position: relative;
+ margin-top: 8.79%;
 }
 
 
@@ -441,6 +441,7 @@ div#news2:hover {
 
 #news2 div #news2p {
   position: relative;
+  margin-top: 8.79%;
 }
 
 
@@ -457,6 +458,7 @@ div#news3:hover {
 
 #news3 div #news3p {
   position: relative;
+  margin-top: 8.79%;
 }
 
 #news4 {
@@ -472,6 +474,7 @@ div#news4:hover {
 
 #news4 div #news4p {
   position: relative;
+  margin-top: 8.79%;
 }
 
 #twitter {
