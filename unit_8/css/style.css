@@ -510,11 +510,16 @@ div#timeline {
   color: #FB9D29;
 }
 
+.container {
+  display: flex;
+}
+
 #contact span.main {
   color: #5B9299;
 }
 
 #contact div#ny {
+  display: block;
   float: left;
   width: 50%;
   position: relative;
@@ -529,8 +534,9 @@ div#timeline {
 #contact div#map-la {
   display: block;
   padding-top: 6%;
+  padding-left: 4%;
   position: relative;
-  float: right;
+  float: left;
 }
 
 #contact div#map-ny {
