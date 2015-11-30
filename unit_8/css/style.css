@@ -513,8 +513,9 @@ div#timeline {
 #contact div.contact-container {
   display: flex;
   flex-direction: column-reverse;
-  flex-wrap: ltr;
-
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-flow: row;
 }
 
 #contact span.main {
@@ -526,13 +527,15 @@ div#timeline {
   float: right;
   width: 50%;
   position: relative;
+  order: 2;
 }
 
 #contact div#la {
   display: block;
   float: left;
   width: 50%;
-  position: relative
+  position: relative;
+  order: 1;
 }
 
 #contact div#map-la {
