@@ -165,10 +165,10 @@ a, a.visible {
 }
 
 #news-highlight #text {
-  float: right;
   display: block;
-  margin-top: 14%;
-  margin-right: 6%;
+  margin-left: 27.5%;
+  margin-top: 13%;
+  width: 100%;
 }
 
 #news-highlight #text p {
@@ -181,7 +181,6 @@ a, a.visible {
   color: black;
   width: 33.33%;
   border: 5px solid black;
-  
   line-height: 1.5;
 }
 
@@ -688,7 +687,7 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1280px) {
+@media only screen and (min-device-width : 1200px) and (max-device-width : 1280px) {
   h2 {
     padding-left: 15%;
   }
