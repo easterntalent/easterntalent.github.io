@@ -512,6 +512,8 @@ div#timeline {
 
 .container {
   display: flex;
+  flex-direction: column-reverse;
+  wrap-reverse: rtl;
 }
 
 #contact span.main {
