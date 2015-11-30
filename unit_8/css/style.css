@@ -642,7 +642,7 @@ iframe#lamap {
   min-height: 500px;
 }
 
-#representation div.rep-container {
+#representation div.repcontainer {
   display: flex;
   display: -webkit-box;
   display: -moz-box;
