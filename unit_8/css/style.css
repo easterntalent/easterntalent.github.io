@@ -426,8 +426,6 @@ hr.hr1 {
 }
 
 #news1 {
-  width: 29.35%;
-  min-height: 475px;
   margin-left: 3.91%;
 }
 
@@ -436,8 +434,6 @@ div#news1:hover {
 }
 
 #news2 {
-  width: 29.35%;
-  min-height: 475px;
   margin-right: 3.52%;
   margin-left: 2%;
 }
@@ -451,8 +447,6 @@ div#news2 img {
 }
 
 #news3 {
-  width: 29.35%;
-  min-height: 475px;
   margin-left: 3.91%;
 }
 
@@ -461,8 +455,6 @@ div#news3:hover {
 }
 
 #news4 {
-  width: 29.35%;
-  min-height: 475px;
   margin-left: 2%;
 }
 
