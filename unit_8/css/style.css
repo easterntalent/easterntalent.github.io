@@ -471,6 +471,10 @@ div#news4:hover {
   margin-left: 1%;
 }
 
+div#timeline {
+  height: inherit;
+}
+
 .col4 { 
   height: 400px;
   width: 31.33%;
