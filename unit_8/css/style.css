@@ -382,6 +382,7 @@ hr.hr1 {
 #client-news p {
   width: auto;
   height: auto;
+  margin: auto;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
   background: #D3CBBD;
@@ -392,7 +393,7 @@ hr.hr1 {
   line-height: 1.5;
   border: 3px solid #403D3C;
   font-weight: 500;
-  position: relative;
+  position: absolute;
 }
 
 #client-news img {
@@ -409,7 +410,10 @@ hr.hr1 {
 #client-news div.newsp {
   position: relative;
   margin-top: 5%;
-  height: auto;
+  max-height: auto;
+  width: 100%;
+  float: left;
+  display: block;
 }
 
 #client-news a:hover {
