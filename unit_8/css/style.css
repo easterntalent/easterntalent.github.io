@@ -514,6 +514,7 @@ div#timeline {
   display: flex;
   flex-direction: column-reverse;
   flex-wrap: ltr;
+
 }
 
 #contact span.main {
@@ -522,12 +523,13 @@ div#timeline {
 
 #contact div#ny {
   display: block;
-  float: left;
+  float: right;
   width: 50%;
   position: relative;
 }
 
 #contact div#la {
+  display: block;
   float: left;
   width: 50%;
   position: relative
@@ -623,7 +625,7 @@ iframe#lamap {
   border-top: .2em solid black;
   border-bottom: .2em solid black;
   padding-bottom: 10.04%;
-  height: 500px;
+  min-height: 500px;
 }
 
 #representation div#rep {
@@ -688,6 +690,29 @@ footer {
   box-sizing: border-box;  
 }
 
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex:  $values;
+  -webkit-flex:  $values;
+  -ms-flex:  $values;
+  flex:  $values;
+}
+
+@mixin order($val) {
+  -webkit-box-ordinal-group: $val;  
+  -moz-box-ordinal-group: $val;     
+  -ms-flex-order: $val;     
+  -webkit-order: $val;  
+  order: $val;
+}
 /*@media only screen and (min-width : 1200px) and (max-width : 1280px) {
   h2 {
     padding-left: 15%;
