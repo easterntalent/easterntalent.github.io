@@ -162,7 +162,7 @@ a, a.visible {
   margin-right: -5%;
 }
 
-#news-highlight #text:hover {
+#news-highlight #text p:hover {
   background: #F19F0F;
 }
 
@@ -173,7 +173,7 @@ a, a.visible {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: black;
-  width: 33.33%;
+  width: 60%;
   border: .2em solid black;
   line-height: 1.5;
   font-size: .9em;
