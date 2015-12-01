@@ -169,7 +169,7 @@ a, a.visible {
 #news-highlight #text p {
   background: #D3CBBD;
   padding: .49% 1.05% .40% 1.41%;
-  text-align: justify;
+  text-align: center;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: black;
@@ -206,6 +206,7 @@ a#moz-background-size {
   font-weight: bolder;
   text-decoration: underline;
   letter-spacing: .1em;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #news-highlight a#more:hover {
