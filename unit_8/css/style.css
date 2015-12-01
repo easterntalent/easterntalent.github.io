@@ -202,7 +202,7 @@ a#moz-background-size {
 }
 
 #news-highlight a#more {
-  color: #456F74;
+  color: black;
   font-weight: bolder;
   text-decoration: underline;
   letter-spacing: .1em;
