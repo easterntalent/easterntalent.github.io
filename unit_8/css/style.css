@@ -146,10 +146,6 @@ a, a.visible {
   background: #456F74;
 }
 
-#news-highlight:hover {
-  background: #F19F0F;
-}
-
 #news-highlight img {
   height: 55%;
   width: 55%;
@@ -164,6 +160,10 @@ a, a.visible {
   margin-top: 13%;
   width: 45%;
   margin-right: -5%;
+}
+
+#news-highlight #text:hover {
+  background: #F19F0F;
 }
 
 #news-highlight #text p {
