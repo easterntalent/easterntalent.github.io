@@ -147,7 +147,7 @@ a, a.visible {
 }
 
 #news-highlight img {
-  height: 55%;
+  max-height: 55%;
   width: 55%;
   float: left;
   border-right: .2em solid black;
@@ -155,13 +155,11 @@ a, a.visible {
 }
 
 #news-highlight #text {
-  display: block;
-  float: right;
   width: 45%;
-  margin-top: 13%;
+  display: block;
+  margin-left: 55%;
+  margin-top: 14%;
   margin-right: -5%;
-  margin-bottom: 5%;
-  margin-left: 64%;
 }
 
 #news-highlight #text p {
