@@ -156,10 +156,12 @@ a, a.visible {
 
 #news-highlight #text {
   display: block;
+  float: right;
   width: 45%;
-  margin-top: 14%;
+  margin-top: 13%;
   margin-right: -5%;
-  margin-left: 55%;
+  margin-bottom: 5%;
+  margin-left: 64%;
 }
 
 #news-highlight #text p {
