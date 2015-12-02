@@ -7,8 +7,8 @@ html {
 }
 
 * {
-  margin: 0 auto;
-  padding: 0 auto;
+  margin: 0;
+  padding: 0;
   box-sizing:border-box;
 }
 
@@ -741,7 +741,7 @@ footer {
   }
 
   #client-news p {
-    line-height: 1.4;
+    line-height: 5;
   }
 }
 
