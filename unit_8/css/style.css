@@ -461,6 +461,7 @@ div#news3:hover {
 
 #news4 img {
   width: 50%;
+  height: auto;
 }
 
 div#news4:hover {
