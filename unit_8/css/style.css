@@ -453,6 +453,11 @@ div#news3:hover {
   background: #F19F0F;
 }
 
+
+#news3 img {
+  width: 50%;
+}
+
 #news4 {
   margin-top: 2%;
   margin-left: 2%;
