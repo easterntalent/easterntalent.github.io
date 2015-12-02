@@ -162,10 +162,6 @@ a, a.visible {
   margin-right: -5%;
 }
 
-#news-highlight #text p:hover {
-  background: #F19F0F;
-}
-
 #news-highlight #text p {
   background: #D3CBBD;
   padding: .49% 1.05% .40% 1.41%;
@@ -210,7 +206,7 @@ a#moz-background-size {
 }
 
 #news-highlight a#more:hover {
-  color: #456F74;
+  color: #F19F0F;
   text-decoration: underline;
   font-weight: bolder;
 }
