@@ -459,6 +459,10 @@ div#news3:hover {
   margin-right: 1%;
 }
 
+#news4 img {
+  width: 50%;
+}
+
 div#news4:hover {
   background: #F19F0F;
 }
