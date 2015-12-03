@@ -158,7 +158,8 @@ a, a.visible {
 #news-highlight #text {
   width: 45%;
   display: block;
-  margin-left: 64%;
+  float: right;
+  margin-left: 3%;
   margin-top: 12%;
   max-height: 100px;
 }
