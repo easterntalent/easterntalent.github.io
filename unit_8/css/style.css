@@ -165,15 +165,17 @@ a, a.visible {
 
 #news-highlight #text p {
   background: #D3CBBD;
-  padding: .49% 1.05% .40% 1.41%;
+  padding: 25% 1.05% .40% 1.41%;
   text-align: center;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: black;
-  width: 80%;
+  width: 95%;
+  min-height: 400px;
   border: .2em solid black;
   line-height: 1.5;
   font-size: .9em;
+  border-radius: 50%;
 }
 
 a#moz-background-size {
@@ -565,7 +567,7 @@ section#contact div.rep-container {
   float: left;
   width: 55%;
   padding-top: 3%;
-  padding-left: 3%;
+  padding-left: 13%;
 }
 
 #contact a {
@@ -583,7 +585,7 @@ section#contact div.rep-container {
   width: 100%;
   position: relative;
   margin: auto;
-  padding-left: 3%;
+  padding: 5% 0 10% 3%;
 }
 
 #contact div#la {
@@ -597,7 +599,7 @@ section#contact div.rep-container {
 #contact div#map-la {
   display: block;
   padding-top: 6%;
-  padding-left: 4%;
+  padding-left: 6%;
   position: relative;
   float: left;
 }
@@ -605,7 +607,7 @@ section#contact div.rep-container {
 #contact div#map-ny {
   display: block;
   float: left;
-  padding-left: 6%;
+  padding-left: 5%;
   padding-top: 6%;
   position: relative;
 }
@@ -615,6 +617,7 @@ section#contact div.rep-container {
   float: left;
   width: auto;
   position: relative;
+  padding-top: 2%;
 }
 
 #contact div#ny-address {
@@ -624,6 +627,7 @@ section#contact div.rep-container {
   width: auto;
   margin-right: 4%;
   padding-left: 1%;
+  padding-top: 9%;
 }
 
 #contact div#la-address p {
