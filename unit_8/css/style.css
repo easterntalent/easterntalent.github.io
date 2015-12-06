@@ -497,39 +497,41 @@ div#timeline {
   display: block;
   background: #1C1919;
   width: 100%;
-  min-height: 500px;
+  max-height: 702px;
   margin: 0 auto;
   border-top: .2em solid black;
-  border-right: .2em solid black;
+  border-bottom: .2em solid black;
 }
 
-section#contact div.rep-container {
+/*section#contact div.rep-container {
   display: block;
   float: right;
   clear: both;
-}
+}*/
 
-#representation {
-  width: 35%;
+/*#representation {
+  width: 30%;
   background: #F19F0F;
   float: left;
-  margin-left: 1%;
-  padding-bottom: 10.04%;
-  max-height: 500px;
-  border-radius: 50%;
+  border-left: .2em solid black;
+  border-bottom: .2em solid black;
+  border-top: .2em solid black;
+  margin-top: 11%;
+  margin-right: 0;
 }
 
 #representation div#rep {
   display: block;
   float: left;
-  padding-top: 27%;
-  margin-left: 21%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  width: 100%;
 }
 
 #representation p {
   font-family: 'Roboto Condensed', sans-serif;
   color: black;
-  clear: both;
   text-align: center;
   line-height: 1.5;
   text-transform: uppercase;
@@ -537,19 +539,19 @@ section#contact div.rep-container {
   font-size: 1em;
   border: .2em solid black;
   height: inherit;
-  width: 75%;
+  width: 90%;
   padding: 1% 7.07% 1% 7.07%;
 }
 
 #representation a {
-  color: #5B9299;
+  color: #456F74;
 }
 
 #representation a:hover {
   color: #403D3C;
   font-weight: bolder;
   text-decoration: underline;
-}
+}*/
 
 #contact h4 {
   margin-left: 15%;
@@ -560,14 +562,13 @@ section#contact div.rep-container {
   padding-top: 3%;
   text-transform: uppercase;
   clear: both;
+  padding-bottom: 3%;
 }
 
 #contact div.contact-container {
   display: block;
   float: left;
-  width: 55%;
-  padding-top: 3%;
-  padding-left: 13%;
+  width: 100%;
 }
 
 #contact a {
@@ -582,25 +583,21 @@ section#contact div.rep-container {
 #contact div#ny {
   display: block;
   float: left;
-  width: 100%;
-  position: relative;
-  margin: auto;
-  padding: 5% 0 10% 3%;
+  width: 30%;
 }
 
 #contact div#la {
   float: left;
-  width: 100%;
-  position: relative;
-  margin: auto;
-  padding-left: 3%;
+  width: 30%;
+  margin-left: 15%;
+  display: block;
+  margin-right: 5%;
 }
 
 #contact div#map-la {
   display: block;
   padding-top: 6%;
   padding-left: 6%;
-  position: relative;
   float: left;
 }
 
@@ -609,7 +606,6 @@ section#contact div.rep-container {
   float: left;
   padding-left: 5%;
   padding-top: 6%;
-  position: relative;
 }
 
 #contact div#la-address {
@@ -617,7 +613,6 @@ section#contact div.rep-container {
   float: left;
   width: auto;
   position: relative;
-  padding-top: 2%;
 }
 
 #contact div#ny-address {
@@ -633,14 +628,8 @@ section#contact div.rep-container {
 #contact div#la-address p {
   display: block;
   float: left;
-  margin-left: 0;
-  font-size: .9em;
-  font-family: 'Roboto Condensed', sans-serif;
-  line-height: 1.5;
-  padding-top: 11%;
-  padding-left: 5%;
-  padding-right: 1.5%;
-  width: 100%;
+  width: auto;
+  position: relative;
 }
 
 #contact div#ny-address p {
