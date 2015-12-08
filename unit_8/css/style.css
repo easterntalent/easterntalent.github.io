@@ -52,7 +52,7 @@ header {
 
 header div#logo {
   background-color: transparent;
-  width: 12.76%;
+  max-width: 12.76%;
 	height: 200px;
 	float: left;
 	padding-top: 1.05%;
@@ -125,6 +125,10 @@ a, a.visible {
   text-transform: uppercase;
 }
 
+/*img#eta {
+  width: inherit;
+}*/
+
 #menu ul li:hover > a {
   color: #FFF5E4;
 }
@@ -160,7 +164,7 @@ a, a.visible {
   display: block;
   float: left;
   max-height: 235px;
-  padding: 13.5% 5% 0 7%;
+  padding: 11% 5% 0 7.5%;;
 }
 
 #news-highlight #text p {
@@ -322,7 +326,7 @@ hr.hr1 {
 }
 
 #talent li {
-  width: 75%;
+  width: auto;
 }
 
 #talent li a {
@@ -383,7 +387,7 @@ hr.hr1 {
   width: auto;
   height: auto;
   margin: auto;
-  text-align: justify;
+  text-align: center;
   font-family: 'Raleway', sans-serif;
   background: #D3CBBD;
   color: black; 
@@ -471,7 +475,7 @@ div#news4:hover {
 #twitter {
   float: left;
   background: #5B9299;
-  min-height: 975px;
+  max-height: 975px;
   margin-top: -21.7em;
   margin-left: 1%;
   padding-bottom: 0;
@@ -495,7 +499,7 @@ div#timeline {
   display: block;
   background: #1C1919;
   width: auto;
-  max-height: 775px;
+  height: inherit;
   margin: 0 auto;
   border-top: .2em solid black;
 }
@@ -512,7 +516,6 @@ section#contact div.rep-container {
   float: left;
   border-top: .2em solid black;
   border-bottom: .2em solid black;
-  border-left: .2em solid black;
   margin-top: 8%;
   max-height: 150px;
 }
@@ -694,23 +697,46 @@ footer {
   box-sizing: border-box;  
 }
 
-/*@media only screen and (min-width: 1200px) and (max-width: 1280px) {
-  h2 {
-    padding-left: 15%;
-  }
-
-  #talent ul {
-    width: 95%;
-    padding-left: 20%;
-  }
-
-  h3 {
-    padding-left: 15%;
-  }
-
-  #client-news p {
-    line-height: 1.5;
+@media only screen and (min-width: 1325px) and (max-width: 1600px) {
+  #news-highlight #text {
+    padding: 13.5% 5% 0 7%;
   }
 }
 
-*/
+@media only screen and (min-width: 1133px) and (max-width: 1174px) {
+  #menu ul li a {
+    font-size: .66em;
+  }
+  #news-highlight #text {
+    padding: 11% 5% 0 7.5%;
+  }
+  #news-highlight #text p {
+    line-height: 1.25;
+  }
+}
+
+@media only screen and (min-width: 1084px) and (max-width: 1132px) {
+  #menu ul li {
+    padding-top: 3%;
+  }
+  #menu ul li a {
+    font-size: .6em;
+  }
+  #news-highlight #text p {
+    line-height: 1.25;
+  }
+  #contact h4 {
+    margin-left: 8%;
+  }
+  #contact div.contact-container  {
+    margin-left: 8%;
+  }
+  #contact div#ny {
+    padding-left: 0;
+  }
+  #contact div#la {
+    margin-right: 3%;
+  }
+}
+
+
