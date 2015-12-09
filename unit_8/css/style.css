@@ -716,14 +716,30 @@ footer {
 }
 
 @media only screen and (min-width: 1084px) and (max-width: 1132px) {
-  #menu ul li {
-    padding-top: 3%;
+  header {
+    max-height: 10%;
   }
+  #menu ul li {
+    padding-top: 5%;
+  }
+  
+  #menu,
+  #menu ul,
+  #menu ul li,
+  #menu ul li a,
+  #menu #menu-button {
+    line-height:0;
+  }
+
   #menu ul li a {
     font-size: .6em;
   }
+  #news-highlight #text: {
+    margin-top: 2%;
+  }
   #news-highlight #text p {
     line-height: 1.25;
+    font-size: .7em;
   }
   #contact h4 {
     margin-left: 8%;
@@ -739,4 +755,105 @@ footer {
   }
 }
 
+@media only screen and (min-width: 800px) and (max-width: 1084px) {
+  #menu ul li {
+    padding-top: 6.25%;
+  }
+  #menu ul li a {
+    font-size: .6em;
+  }
+  #news-highlight #text p {
+    line-height: .75;
+    font-size: .8em;
+  }
+  #intro h1 {
+    font-size: 2em;
+  }
+  #intro p {
+    font-size: .8em;
+  }
+  #talent h2 a {
+    font-size: 1.75em;
+  }
+  #talent ul {
+    margin-left: 20%;
+  }
+  #talent li a {
+    font-size: .9em;
+  }
+  #client-news h3 {
+    font-size: 2.25em;
+  }
+  .col3 {
+    max-height: 350px;
+    width: 40%;
+  }
+  #client-news div#allnews {
+    margin-left: 10%;
+  }
+  #client-news p {
+    font-size: .75em;
+  }
+  #twitter {
+    margin-top: 5%;
+    margin-left: 30%;
+    clear: both;
+  }
+  #contact h4 {
+    font-size: 2.25em;
+  }
+  #contact div.contact-container {
+    margin-left: 20%;
+    width: inherit;
+  }
+  #contact div#ny {
+    padding-top: 3%;
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+  }
+  #contact div#ny-address {
+    padding-top: 3%;
+  }
+  #contact div#ny-address p {
+    font-size: .8em;
+  }
+  #contact div#map-ny {
+    padding-left: 6.5%;
+    height: inherit;
+    width: 25%;
+  }
+  #contact div#la {
+    margin-right: 0;
+    width: 100%;
+  }
+  #contact div#la-address {
+    margin-right: 5%;
+    padding-top: 3%;
+  }
+  #contact div#la-address p {
+    padding-right: 0;
+    font-size: .8em;
+  }
+  #contact div#map-la {
+    padding-left: 0;
+    margin-left: 0;
+    width: 25%;
+  }
+}
+/*@media only screen and (min-width: px) and (max-width: 910px) {
+  #news-highlight #text {
+    padding-top: 13%;
+  }
+  #news-highlight: #text p {
+    line-height: 1.5;
+    font-size: .65em;
+  }
+  #intro p {
+   font-size: 4%;
+  }
+  .col3 {
+    max-height: 475px;
+  }*/
+   
 
