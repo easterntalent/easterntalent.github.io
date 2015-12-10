@@ -703,7 +703,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 1133px) and (max-width: 1174px) {
+@media only screen and (max-width: 1174px) {
   #menu ul li a {
     font-size: .66em;
   }
@@ -715,7 +715,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 1084px) and (max-width: 1132px) {
+/*@media only screen and (max-width: 1132px) {
   header {
     max-height: 10%;
   }
@@ -728,7 +728,7 @@ footer {
   #menu ul li,
   #menu ul li a,
   #menu #menu-button {
-    line-height:0;
+    line-height: 0;
   }
 
   #menu ul li a {
@@ -755,7 +755,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 800px) and (max-width: 1084px) {
+@media only screen and (max-width: 1084px) {
   #menu ul li {
     padding-top: 6.25%;
   }
@@ -839,7 +839,7 @@ footer {
     padding-left: 0;
     margin-left: 0;
     width: 25%;
-  }
+  }*/
 }
 /*@media only screen and (min-width: px) and (max-width: 910px) {
   #news-highlight #text {
@@ -854,6 +854,7 @@ footer {
   }
   .col3 {
     max-height: 475px;
-  }*/
+  }
    
 
+*/
