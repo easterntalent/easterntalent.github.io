@@ -704,8 +704,18 @@ footer {
 }
 
 @media only screen and (max-width: 1174px) {
+  #menu ul li {
+    padding-top: 4.65%;
+  }
+  #menu img #twitter-logo {
+    max-height: 25px;
+  }
+  #menu img #fb-logo {
+    max-height: 25px;
+  }
   #menu ul li a {
     font-size: .66em;
+    padding-top: 0;
   }
   #news-highlight #text {
     padding: 11% 5% 0 7.5%;
@@ -839,8 +849,8 @@ footer {
     padding-left: 0;
     margin-left: 0;
     width: 25%;
-  }*/
-}
+  }
+}*/
 /*@media only screen and (min-width: px) and (max-width: 910px) {
   #news-highlight #text {
     padding-top: 13%;
