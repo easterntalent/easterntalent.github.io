@@ -478,7 +478,7 @@ div#news4:hover {
   max-height: 975px;
   margin-top: -21.7em;
   margin-left: 1%;
-  padding-bottom: 0;
+  padding-bottom: .5%;
 }
 
 div#timeline {
@@ -707,24 +707,74 @@ footer {
   #menu ul li {
     padding-top: 4.65%;
   }
-  #menu img #twitter-logo {
+  #menu img#twitter-logo {
+    max-width: 30px;
+    max-height: 30px;
+  }
+  #menu img#facebook-logo {
+    max-width: 25px;
     max-height: 25px;
   }
-  #menu img #fb-logo {
-    max-height: 25px;
-  }
-  #menu ul li a {
+  #menu ul li {
     font-size: .66em;
-    padding-top: 0;
+    padding-top: 5%;
   }
   #news-highlight #text {
-    padding: 11% 5% 0 7.5%;
+    padding: 13% 5% 0 7.5%;
   }
   #news-highlight #text p {
     line-height: 1.25;
+    font-size: .8em;
+  }
+  #intro p {
+    font-size: .8em;
+  }
+  #talent li a {
+    font-size: .9em;
+  }
+  #contact div#ny {
+    padding-left: 0;
+  }
+  #contact div#map-ny {
+    padding-left: 8%;
   }
 }
-
+@media only screen and (max-width: 1020px) {
+/*  #menu ul li {
+    padding-top: 6%;
+    font-size: .5em;
+  }*/
+  #news-hightlight #text {
+    padding-bottom: 6%;
+  }
+  #news-highlight #text p {
+    font-size: .7em;
+  }
+  #intro h1 {
+    font-size: 2em;
+  }
+  #talent h2 {
+    font-size: 1em;
+  }
+  #talent li a {
+    font-size: .8em;
+  }
+  #client-news h3 {
+    font-size: 2em;
+  }
+  #client-news p {
+    font-size: .65em;
+  }
+  div#news1 div#news2 div#news3 div#news4 {
+    width: 40%;
+  }
+  #twitter {
+    display: none;
+  }
+  #contact div#nymap {
+    padding-left: 9%;
+  }
+}
 /*@media only screen and (max-width: 1132px) {
   header {
     max-height: 10%;
