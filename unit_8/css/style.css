@@ -817,10 +817,10 @@ footer {
   }
 }
 @media only screen and (max-width: 848px) {
-  #menu ul li {
-    margin-top: 5%;
+ /* #menu ul li {
+    margin-top: 7%;
     padding-top: 1%;
-  }
+  }*/
   #client-news {
     overflow: hidden;
   }
