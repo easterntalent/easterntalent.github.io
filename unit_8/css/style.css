@@ -43,7 +43,7 @@ header {
 	z-index: 170;
   margin: 0 auto;
   border-bottom: .15em solid #F19F0F;
-  width: auto;
+  width: 100%;
   position: fixed;
   top: 0;
   left: 0;
@@ -132,8 +132,8 @@ a, a.visible {
 }
 
 #menu img#facebook-logo {
-  max-width: 2em;
-  max-height: 2em;
+  max-width: 1.75em;
+  max-height: 1.75em;
 }
 
 #menu img#twitter-logo {
@@ -149,39 +149,45 @@ a, a.visible {
 #news-highlight {
   display: block;
   float: left;
-  width: auto;
-  max-height: 550px;
+  width: 100%;
+  max-height: 620px;
   background: #456F74;
+  position: relative;
+}
+
+#news-highlight #highlightpic {
+  min-width: 70%;
+  float: left;
+  position: relative;
+  max-height: 575px;
+  padding-top: 5%;
 }
 
 #news-highlight img {
-  max-height: 55%;
-  width: 55%;
-  float: left;
+  width: 100%;
   border-right: .2em solid black;
-  margin-top: 5%;
 }
 
 #news-highlight #text {
-  max-width: 45%;
+  width: 30%;
   display: block;
   float: left;
-  max-height: 235px;
-  padding: 11% 5% 0 7.5%;;
+  max-height: 620px;
+  margin-top: 12%;
+  position: relative;
 }
 
 #news-highlight #text p {
-  background: #D3CBBD;
-  padding: 5%;
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  color: black;
-  width: 95%;
   height: inherit;
-  border: .2em solid black;
   line-height: 1.5;
   font-size: .9em;
+  color: #D3CBBD;
+  margin-left: 5%;
+  width: 90%;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 7% 1% 1% 1%;
+  letter-spacing: .02em
 }
 
 a#moz-background-size {
@@ -197,7 +203,7 @@ a#moz-background-size {
 }
 
 #news-highlight a {
-  color: black;
+  color: #F19F0F;
 }
 
 #news-highlight a:hover {
@@ -207,13 +213,20 @@ a#moz-background-size {
 }
 
 #news-highlight a#more {
-  color: black;
+  color: #F19F0F;
   font-weight: bolder;
   text-decoration: underline;
-  letter-spacing: .1em;
-  font-family: 'Gruppo', sans-serif;
+  letter-spacing: .15em;
+  font-family: 'gruppo', sans-serif;
+  line-height: 2.5;
 }
 
+#news-highlight #newswrapper {
+  max-height: 620px;
+  margin-top: 0;
+  float: left;
+  display: block;
+}
 #news-highlight a#more:hover {
   color: #F19F0F;
   text-decoration: underline;
@@ -230,7 +243,7 @@ a#moz-background-size {
 
 #intro {
   display: block;
-  width: auto;
+  width: 100%;
   background: #1C1919;
   line-height: 1.5;
   text-align: left;
@@ -260,7 +273,7 @@ a#moz-background-size {
   color: #D3CBBD;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
-  width: auto;
+  width: 100%;
   font-size: .9em;
 }
 
@@ -284,7 +297,7 @@ hr.hr1 {
   border-bottom: .2em solid black;
   padding-top: 7.03%;
   padding-bottom: 7.03%;
-  width: auto;
+  width: 100%;
   height: inherit;
 }
 
@@ -303,9 +316,9 @@ hr.hr1 {
   padding-top: .88%;
   padding-bottom: .88%;
   padding-right: 2%;
-  border-top: .15em solid black;
-  border-right: .15em solid black;
-  border-bottom: .15em solid black;
+  border-top: .2em solid black;
+  border-right: .2em solid black;
+  border-bottom: .2em solid black;
   font-size: 1.25em;
   text-align: right;
 }
@@ -329,7 +342,7 @@ hr.hr1 {
 }
 
 #talent li {
-  width: auto;
+  width: 100%;
 }
 
 #talent li a {
@@ -347,7 +360,7 @@ hr.hr1 {
 }
 
 #client-news {
-  width: auto;
+  width: 100%;
   margin-top: 0;
   padding-top: 7.03%;
   padding-bottom: 7.03%;
@@ -366,7 +379,7 @@ hr.hr1 {
 }
 
 #allnews {
-  width: 90%;
+  width: 100%;
   margin-left: 4%;
 }
 
@@ -378,16 +391,16 @@ hr.hr1 {
   text-align: right;
   text-transform: uppercase;
   padding: 1% 2% 1% 0;
-  border-top: .08em solid black;
-  border-right: .08em solid black;
-  border-bottom: .08em solid black;
+  border-top: .1em solid black;
+  border-right: .1em solid black;
+  border-bottom: .1em solid black;
   background-color: #D3CBBD;
   background-size: inherit;
   margin-bottom: 6%;
 }
 
 #client-news p {
-  width: auto;
+  width: 100%;
   height: auto;
   margin: auto;
   text-align: center;
@@ -407,7 +420,7 @@ hr.hr1 {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  outline: .15em solid #403D3C;
+  outline: .1em solid #403D3C;
   width: 100%;
   max-height: 225px;
 }
@@ -501,7 +514,7 @@ div#timeline {
   float: left;
   display: block;
   background: #1C1919;
-  width: auto;
+  width: 100%;
   height: inherit;
   margin: 0 auto;
   border-top: .2em solid black;
@@ -557,22 +570,22 @@ section#contact div.rep-container {
 }
 
 #contact h4 {
-  margin-left: 15%;
+  margin-left: 35%;
   font-family: 'Gruppo', sans-serif;
   font-size: 2.75em;
   color: #F19F0F;
   text-align: justify;
   padding-top: 5%;
+  padding-bottom: 5%;
   text-transform: uppercase;
   clear: both;
-  padding-bottom: 5%;
 }
 
 #contact div.contact-container {
   display: block;
   float: left;
-  min-width: 80%;
-  margin-left: 15%;
+  width: auto;
+  margin-left: 30%;
   height: inherit;
 }
 
@@ -588,8 +601,8 @@ section#contact div.rep-container {
 #contact div#ny {
   display: block;
   float: left;
-  min-width: 50%;
-  padding-left: 3%;
+  width: 100%;
+  margin-top: 3%;
 }
 
 #contact div#la {
@@ -601,10 +614,11 @@ section#contact div.rep-container {
 
 #contact div#map-la {
   display: block;
-  padding-top: 6%;
-  padding-left: 6%;
+  padding: 6% 4% 0 5%;  
   float: left;
-  width: auto;
+  width: 250px;
+  height: 250px;
+  margin-left: -1%;
 }
 
 #contact div#la-address {
@@ -617,17 +631,19 @@ section#contact div.rep-container {
   display: block;
   float: left;
   width: auto;
+  padding-top: 3%;
 }
 
 #contact div#la-address p {
   display: block;
   float: left;
+  width: auto;
+  padding-top: 6%;
   font-size: .9em;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 1.5%;
   padding-top: 11%;
-  max-width: 100%;
+  width: auto;
 }
 
 #contact div#ny-address p {
@@ -636,7 +652,6 @@ section#contact div.rep-container {
   font-size: .9em;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
-  padding-left: 1.5%;
   padding-top: 11%;
   width: auto;
 }
@@ -647,24 +662,25 @@ section#contact div.rep-container {
 
 #contact div#map-ny {
   display: block;
-  padding-top: 5.35%;
-  padding-left: 6%;
+  padding-top: 6%;
   float: left;
-  width: auto;
+  width: 250px;
+  height: 250px;
+  margin-left: -1.5%;
+  padding-left: 6%;
 }
 
 iframe#nymap {
-  max-width: 100%;
-  max-height: 100%;
+  width: 100%;
   outline: .15em solid #F19F0F;
   position: relative;
 }
 
 iframe#lamap {
-  max-width: 100%;
-  max-height: 100%;
-  outline: .15em solid #F19F0F;
-  position: relative;
+ min-width: 213px;
+ min-height: 200px;
+ outline: .15em solid #F19F0F;
+ position: relative;
  } 
 
 
@@ -683,7 +699,7 @@ footer {
   clear: both;
   background: #456F74;
   z-index: 170;
-  width: auto;
+  width: 100%;
   top: 0;
   left: 0;
   right: 0;
@@ -700,12 +716,6 @@ footer {
   box-sizing: border-box;  
 }
 
-@media only screen and (min-width: 1325px) and (max-width: 1600px) {
-  #news-highlight #text {
-    padding: 13.5% 5% 0 7%;
-  }
-}
-
 @media only screen and (max-width: 1174px) {
   #menu img #twitter-logo {
     max-height: 25px;
@@ -717,21 +727,9 @@ footer {
     font-size: .66em;
     padding-top: 0;
   }
-  #news-highlight #text {
-    padding: 14% 5% 0 7.5%;
-  }
-  #news-highlight #text p {
-    line-height: 1.25;
-    font-size: .75em;
-  }
 }
+
 @media only screen and (max-width: 1132px) {
-  #news-highlight #text {
-    padding-top: 13%;
-  }
-  #news-highlight #text p {
-    font-size: .75em;
-  }
   #intro p {
     font-size: .8em;
   }
@@ -741,11 +739,11 @@ footer {
   #client-news p {
     font-size: .65em;
   }
-  #contact div#ny {
-    padding-left: 0;
-  }
-  #contact div#map-ny {
-    padding-left: 8.5%;
+}
+@media only screen and (max-width: 715px) {
+  #news-highlight #text p {
+    font-size: .75em;
+    padding-top: 5%;
   }
 }
 @media only screen and (max-width: 982px) {
@@ -755,12 +753,40 @@ footer {
   #menu img#etalogo {
     max-width: 13em;
   }
+  #news-highlight {
+    height: inherit;
+  }
+  #news-highlight a#more {
+    letter-spacing: 0;
+  }
   #news-highlight #text {
-    padding-top: 13%;
+    width: 100%;
+    background: #456F74;
+    margin-top: 0;
+    float: none;
+    background: #456F74;
+    padding-bottom: 2%;
+    border-bottom: .2em solid black;
+   }
+  #news-highlight #newswrapper {
+    float: none;
+    margin-top: 4%;
   }
   #news-highlight #text p {
-    font-size: .65em;
+    font-size: .8em;
+    padding: 1%;
   }
+  #news-highlight #highlightpic {
+    float: none;
+  }
+  #news-highlight img {
+    border-right: none;
+    border-bottom: .05em solid black;
+  }
+  #intro {
+    padding: 6% 0 0 0;
+  }
+
   #intro h1 {
     font-size: 2em;
   }
@@ -776,8 +802,11 @@ footer {
   #client-news h3 {
     font-size: 2em;
   }
-  #allnews {
-    min-width: 135%;
+  #client-news #all-news {
+    width: 100%;
+  }
+  #client-news .col3 {
+    width: 40%;
   }
   #twitter {
     display: none;
@@ -786,116 +815,104 @@ footer {
     font-size: 2.25em;
     margin-left: 30%;
   }
-  #contact div#la, div#ny {
-    margin-left: 20%;
-  }
-  #contact div#la-address p {
-    font-size: .8em;
-  }
-  #contact div#ny-address p {
-    font-size: .8em;
-    padding-left: .5%;
-  }
-  #contact div#map-la {
-    max-width: 150px;
-  }
-  #contact div#map-ny {
-    max-width: 160px;
-  }
 }
 @media only screen and (max-width: 848px) {
-    #news-highlight #text p {
-      font-size: .65em;
-    }
-    #allnews {
-      max-width: 90%;
-      height: inherit;
-      margin-left: 4%;
-    }
-    #representation p {
-      font-size: .7em;
-    }
+  #menu ul li {
+    margin-top: 5%;
+    padding-top: 1%;
   }
-@media only screen and (max-width: 799px) {
-  #news-highlight #text {
-    padding: 13.5% 0 2% 0;
+  #client-news {
+    overflow: hidden;
+  }
+  #client-news .col3 {
+    height: inherit;     
     width: 100%;
-    height: inherit;
-  }
-  #news-highlight #text p {
-    font-size: .65em;
+    float: none;
+    margin: 0;
     border: none;
-    }
-  #news-highlight #newswrapper {
-    width: inherit;
-    background: #D3CBBD;
-    padding: 0;
-    border-top: .2em solid black;
+    padding-top: 9%;
+  }
+  #allnews {
+    width: 100%;
+    float: none;
+    margin: 0;
+    border-top: .15em solid black;
+  }
+  #client-news img {
+    width: 50%;
+  }
+  #client-news #news2, 
+  #client-news #news3, 
+  #client-news #news4 {
+    border-top: .15em solid black;
+  }
+  #client-news #news3 img {
+    width: 30%;
+  }
+  #client-news #news4 img {
+    width: 20%;
+  }
+  #client-news div.newsp {
+    float: none;
+    margin-left: 15%;
+    padding-right: 30%;
+  }
+  #client-news #news4 {
     border-bottom: .2em solid black;
+  }
+  #representation p {
+    font-size: .7em;
+  }
+}
+@media only screen and (max-width: 799px) {
+  #menu img#etalogo {
+    max-width: 11em;
+    padding-left: 5%;
+    padding-top: 5%;
+  }
+  #menu ul li a {
+    font-size: .5em;
   }
   #talent h2 {
     font-size: .8em;
   }
-  #contact h4 {
-    font-size: 2.25em;
+  #talent ul {
+    margin-left: 15%;
+    width: 75%;
   }
   #client-news h3 {
     font-size: 1.5em;
   }
-  #client-news p {
-    font-size: .6em;
+  #contact h4 {
+    font-size: 2.25em;
+    margin-left: 15%;
   }
-  #client-news div.col3 {
-    height: inherit;
+  #contact div.contact-container {
+    margin-left: 25%;
+  }
+  #contact div#ny-address p {
+    font-size: .8em;
+  }
+  #contact div#la-address p {
+    font-size: .8em;
   }
 }
-@media only screen and (max-width: 715px) {
-  #news-highlight #text {
-    padding-top: 12.5%;
-  }
-  #news-highlight #text p {
-    width: 100%;
-  }
-  #talent li a {
-    font-size: .7em;
-  }
 @media only screen and (max-width: 652px) {
+  #menu img#etalogo {
+    max-width: 9em;
+  }
+  #menu ul li a {
+    font-size: .45em;
+  }
   #intro h1 {
     font-size: 1.5em;
   }
   #intro p {
     font-size: .6em;
   }
-  #news-highlight #text {
-    background: #D3CBBD;
-    padding-bottom: 3.1%;
-    float: left;
-    display: block;
-  }
   #news-highlight #highlightpic {
-  }
-  #news-highlight #newswrapper {
-    border: 0;
   }
   #talent li a {
     font-size: .6em;
   }
-  #client-news p {
-    font-size: .5em;
-  }
-  #news1 #news2 #news3 #news4 {
-    margin: 0;
-    padding:0;
-  }
-    
 }
-
-/*@media only screen and (max-width: 800px) {
-  #menu ul li a {
-    line-height: 5;
-    padding: 0;
-  }
-  #menu ul li {
-    line-height: 1;
-  }
-}*/
