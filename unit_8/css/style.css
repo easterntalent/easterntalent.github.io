@@ -936,40 +936,18 @@ footer {
 }
 
 @media only screen and (max-width: 657px) {
-  #menu img#etalogo {
-    max-width: 9em;
-    margin-top: 5%;
-    margin-left: 5%;
-  }
-  #menu ul li a {
-    font-size: .45em;
-  }
-  #news-highlight #text p {
-    font-size: .56em;
-    padding-top: 1%;
-  }
-  #intro h1 {
-    font-size: 1.5em;
-  }
-  #intro p {
-    font-size: .6em;
-  }
-  #talent li a {
-  font-size: .6em;
-  }
   header {
     height: inherit;
   }
   #menu {
     margin-left: 5%;
   }
-  #menu #logo img#etalogo {
-    width: 30em;
-    padding-top: 20%;
-    padding-left: 5%;
-    margin-left: 3%;
-  }  
-  #menu ul {
+  #menu img#etalogo {
+    max-width: 9em;
+    margin-top: 15%;
+    margin-left: 5%;
+  }
+   #menu ul {
     float: left;
     display: block;
     width: 100%;
@@ -978,18 +956,21 @@ footer {
     padding: 0;
     clear: both;
   }
-  #menu ul li {
+  #menu img#twitter-logo {
+    margin-left: 2%;
+  }
+   #menu ul li {
     font-size: 1.25em;
     float: left;
     transform: rotate(-180deg);
     padding-left: .4%;
   }
   #menu ul li a {
-    line-height: 0;
-    letter-spacing: .1em;
+    font-size: .45em;
   }
-  #menu img#twitter-logo {
-    margin-left: 2%;
+  #news-highlight #text p {
+    font-size: .56em;
+    padding-top: 1%;
   }
   #news-highlight #text {
     margin-top: 0;
@@ -1017,6 +998,15 @@ footer {
   #news-highlight #newswrapper {
     padding-top: 3%;
   }
+  #intro h1 {
+    font-size: 1.5em;
+  }
+  #intro p {
+    font-size: .6em;
+  }
+  #talent li a {
+  font-size: .6em;
+  }
   #contact h4 {
     font-size: 2em;
   }
@@ -1026,9 +1016,6 @@ footer {
   #contact p {
     font-size: .75em;
   }
-  /*#contact div#map-ny {
-    padding-left: 8%;
-  }*/
   footer #copyright {
     margin-left: 30%;
 } 
@@ -1046,6 +1033,9 @@ footer {
   #talent ul {
     margin-left: 10%;
     width: 90%;
+  }
+  #contact h4 {
+    margin-left: 17%;
   }
   #contact div#map-la {
     width: 50%;
@@ -1106,6 +1096,12 @@ footer {
   }
   #news-highlight #highlightpic {
     margin-top: 45%;
+  }
+  #contact h4 {
+    margin-left: 14%;
+  }
+  #contact #contact-container {
+    margin-left: 13%;
   }
   footer #copyright {
     margin-left: 30%;
