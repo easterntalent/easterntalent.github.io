@@ -381,6 +381,7 @@ hr.hr1 {
   margin: .16%;
   padding: 1%;
   border: .2em solid black;
+  padding-top: 3%;
 }
 
 #allnews {
@@ -462,7 +463,7 @@ div#news2:hover {
 }
 
 div#news2 img {
-  height: 225px;
+  max-height: 225px;
 }
 
 #news3 {
@@ -498,9 +499,10 @@ div#news4:hover {
   background: #5B9299;
   max-height: 975px;
   margin-top: -21.7em;
-  margin-left: 1%;
   margin-right: 6%;
+  margin-left: 1%;
   padding-bottom: inherit;
+  padding-top: 1%;
 }
 
 div#timeline {
@@ -618,7 +620,7 @@ section#contact div.rep-container {
 
 #contact div#map-la {
   display: block;
-  padding: 6% 4% 0 5%;  
+  padding: 6% 4% 0 4%;  
   float: left;
   width: 250px;
   height: 250px;
@@ -642,13 +644,10 @@ section#contact div.rep-container {
 #contact div#la-address p {
   display: block;
   float: left;
-  width: auto;
-  padding-top: 6%;
   font-size: .9em;
   font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
   padding-top: 11%;
-  width: auto;
 }
 
 #contact div#ny-address p {
@@ -669,9 +668,8 @@ section#contact div.rep-container {
   display: block;
   padding-top: 6%;
   float: left;
-  width: 250px;
+  width: 255px;
   height: 250px;
-  margin-left: 1.5%;
   padding-left: 6%;
 }
 
@@ -731,14 +729,17 @@ footer {
     font-size: .66em;
     padding-top: 0;
   }
+  #client-news > #news1,
+  #news2,
+  #news3,
+  #news4 {
+    padding-top: 6%;
+  }
   #contact h4 {
     margin-left: 30%;
   }
   #contact div.contact-container {
     margin-left: 30%;
-  }
-  #contact div#map-la {
-    margin-left: -.1%;
   }
 }
 
@@ -778,7 +779,7 @@ footer {
     max-height: 500px;
     float: left;
     display: block;
-    padding-top: 10%;
+    padding-top: 1%;
   }
   #news-highlight #text p {
     font-size: .75em;
@@ -804,7 +805,7 @@ footer {
   #client-news h3 {
     font-size: 2em;
   }
-  #client-news #all-news {
+  #client-news #allnews {
     width: 100%;
   }
   #client-news .col3 {
@@ -815,7 +816,7 @@ footer {
   }
   #contact h4 {
     font-size: 2.25em;
-    margin-left: 30%;
+    margin-left: 33%;
   }
   #representation div#rep {
     width: 75%;
@@ -871,6 +872,12 @@ footer {
   #client-news #news4 {
     border-bottom: .2em solid black;
   }
+  #contact div#la-address {
+    padding-right: 0;
+  }
+  #contact div#map-la {
+    width: 255px;
+  }
   #representation p {
     font-size: .7em;
   }
@@ -905,10 +912,10 @@ footer {
   }
   #contact h4 {
     font-size: 2.25em;
-    margin-left: 15%;
+    margin-left: 25%;
   }
   #contact div.contact-container {
-    margin-left: 15%;
+    margin-left: 22%;
   }
   #contact div#ny-address p {
     font-size: .8em;
@@ -950,13 +957,6 @@ footer {
   #talent li a {
   font-size: .6em;
   }
-  #contact div#map-ny {
-    padding-left: 8%;
-  }
-  footer #copyright {
-    margin-left: 30%;
-} 
-@media only screen and (max-width: 572px) {
   header {
     height: inherit;
   }
@@ -1026,7 +1026,12 @@ footer {
   #contact p {
     font-size: .75em;
   }
-}
+  /*#contact div#map-ny {
+    padding-left: 8%;
+  }*/
+  footer #copyright {
+    margin-left: 30%;
+} 
 @media only screen and (max-width: 522px) {
   #menu ul {
     padding-right: 3%;
@@ -1042,33 +1047,15 @@ footer {
     margin-left: 10%;
     width: 90%;
   }
+  #contact div#map-la {
+    width: 50%;
+  }
+  #contact div#map-ny {
+    width: 49%;
+  }
   #representation div#rep {
     width: 100%;
     margin: 0;
-  }
-  #contact div.contact-container {
-    margin-left: 10%;
-  }
-  #contact h4 {
-    margin-left: 17%;
-    font-size: 1.75em;
-  }
-  #contact p {
-    font-size: .7em;
-  }
-  #contact div#la-address,
-  #contact div#ny-address {
-    margin-top: 7%;
-  }
-  #contact div#la-address p,
-  #contact div#ny-address p {
-    font-size: .7em;
-  }
-  #contact div#map-la,
-  #contact div#map-ny {
-    height: 200px;
-    width: 200px;
-    padding-top: 6%;
   }
   #representation div#rep {
     padding-left: 9%;
