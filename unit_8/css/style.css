@@ -926,17 +926,7 @@ footer {
 }
 
 @media only screen and (max-width: 715px) {
-  #news-highlight #text p {
-    padding-top: 5%;
-  }
-  #representation div#rep {
-    margin-left: 9%;
-    width: 75%;
-  }
-}
-
-@media only screen and (max-width: 657px) {
-  header {
+ header {
     height: inherit;
   }
   #menu {
@@ -959,7 +949,7 @@ footer {
   #menu img#twitter-logo {
     margin-left: 2%;
   }
-   #menu ul li {
+  #menu ul li {
     font-size: 1.25em;
     float: left;
     transform: rotate(-180deg);
@@ -968,11 +958,12 @@ footer {
   #menu ul li a {
     font-size: .45em;
   }
-  #news-highlight #text p {
-    font-size: .56em;
-    padding-top: 1%;
+  #news-highlight {
+    min-height: ;
+    max-height: 620px;
   }
   #news-highlight #text {
+    width: 100%;
     margin-top: 0;
     float: none;
     clear: both;
@@ -980,6 +971,7 @@ footer {
   #news-highlight #text p {
     margin-top: -1%;
     font-size: .65em;
+    padding-top: 3%;
   }
   #news-highlight #highlightpic {
     margin-top: 15%;
@@ -989,15 +981,16 @@ footer {
     border-right: none;
     border-bottom: .05em solid black;
   }
-  #news-highlight #text {
-    width: 100%;
-  }
-  #news-highlight #text p {
-    padding-top: 3%;
-  }
   #news-highlight #newswrapper {
     padding-top: 3%;
   }
+  #representation div#rep {
+    margin-left: 9%;
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 657px) {
   #intro h1 {
     font-size: 1.5em;
   }
@@ -1081,9 +1074,12 @@ footer {
     width: 80%;
     height: 80%;
   }
+  footer #copyright {
+    margin-left: 25%;
+  } 
  }
   
-@media only screen and (max-width: 418px) {
+@media only screen and (max-width: 428px) {
   #menu ul {
     padding-left: 75%;
     padding-right: 3%;
