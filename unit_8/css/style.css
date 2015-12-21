@@ -1029,6 +1029,12 @@ footer {
     margin-left: 10%;
     width: 90%;
   }
+  #client-news .col3 {
+    padding-top: 25%;
+  }
+  #client-news #news2 {
+    padding-top: 15%;
+  }
   #representation div#rep {
     width: 100%;
     margin: 0;
@@ -1059,7 +1065,10 @@ footer {
   #representation div#rep {
     padding-left: 9%;
   }
-@media only screen and (max-width: 460px) {
+@media only screen and (max-width: 469px) {
+  header div#logo {
+    margin-left: 18%;
+  }
   #menu ul {
     padding-left: 10%;
   }
@@ -1092,16 +1101,22 @@ footer {
     padding-left: 75%;
     padding-right: 3%;
     margin-top: 5%;
+    margin-left: 28%;
+  }
+  #menu ul li a {
+    font-size: .5em;
+    line-height: 1.25;
   }
   #news-highlight #highlightpic {
-    margin-top: 30%;
+    margin-top: 45%;
   }
   #client-news img,
   div#news2 img {
     height: initial;
   }
-  footer #copyright {
-    padding-right: 32%;
+  footer #copyright p {
+    font-size: .5em;
+    padding-right: 36%;
   }
 }
 
