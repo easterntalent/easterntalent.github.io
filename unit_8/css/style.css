@@ -671,6 +671,7 @@ section#contact div.rep-container {
   float: left;
   width: 250px;
   height: 250px;
+  margin-left: 1.5%;
   padding-left: 6%;
 }
 
@@ -688,8 +689,7 @@ iframe#lamap {
 
 #copyright {
   float: left;
-  margin-left: 43%;
-  width: 100%;
+  margin-left: 40%;
 }
 #copyright p {
   letter-spacing: .1em;
@@ -873,7 +873,8 @@ footer {
     font-size: .7em;
   }
   footer #copyright {
-    padding-left: 36%;
+    margin-left: 36%;
+    padding-left: 0;
   }
 }
 
@@ -950,6 +951,8 @@ footer {
   #contact div#map-ny {
     padding-left: 8%;
   }
+  footer #copyright {
+    margin-left: 30%;
 } 
 @media only screen and (max-width: 572px) {
   header {
@@ -1069,6 +1072,7 @@ footer {
   #contact div#map-ny {
     height: 200px;
     width: 200px;
+    padding-top: 6%;
   }
   #representation div#rep {
     padding-left: 9%;
@@ -1104,6 +1108,8 @@ footer {
     width: 80%;
     height: 80%;
   }
+ }
+  
 @media only screen and (max-width: 418px) {
   #menu ul {
     padding-left: 75%;
@@ -1122,9 +1128,11 @@ footer {
   div#news2 img {
     height: initial;
   }
+  footer #copyright {
+    margin-left: 30%;
+  }
   footer #copyright p {
     font-size: .5em;
-    padding-right: 36%;
   }
 }
 
