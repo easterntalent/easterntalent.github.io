@@ -991,6 +991,9 @@ footer {
 }
 
 @media only screen and (max-width: 657px) {
+  #news-highlight img {
+    border-bottom: .05em solid black;
+  }
   #intro h1 {
     font-size: 1.5em;
   }
