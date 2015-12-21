@@ -839,7 +839,9 @@ footer {
     float: none;
     margin: 0;
     border: none;
-    padding-top: 15%;
+    min-height: 200px;
+    padding-top: 3%;
+    padding-bottom: 3%;
   }
   #allnews {
     width: 100%;
@@ -1040,12 +1042,6 @@ footer {
     margin-left: 10%;
     width: 90%;
   }
-  #client-news .col3 {
-    padding-top: 25%;
-  }
-  #client-news #news2 {
-    padding-top: 15%;
-  }
   #representation div#rep {
     width: 100%;
     margin: 0;
@@ -1123,10 +1119,6 @@ footer {
   }
   #news-highlight #highlightpic {
     margin-top: 45%;
-  }
-  #client-news img,
-  div#news2 img {
-    height: initial;
   }
   footer #copyright {
     margin-left: 30%;
