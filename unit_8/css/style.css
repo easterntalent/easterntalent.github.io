@@ -599,7 +599,6 @@ section#contact div.rep-container {
   color: #FB9D29;
 }
 
-
 #contact span.main {
   color: #5B9299;
 }
@@ -672,7 +671,6 @@ section#contact div.rep-container {
   float: left;
   width: 250px;
   height: 250px;
-  margin-left: 1.5%;
   padding-left: 6%;
 }
 
@@ -688,13 +686,14 @@ iframe#lamap {
   width: 90%;
 } 
 
-
 #copyright {
   float: left;
-  padding-left: 40%;
+  margin-left: 43%;
   width: 100%;
 }
-
+#copyright p {
+  letter-spacing: .1em;
+}
 footer a {
   color: #F19F0F;
   padding-left: 1%;
