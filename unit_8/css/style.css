@@ -164,6 +164,7 @@ a, a.visible {
   height: inherit;
   padding-top: 5%;
   overflow: hidden;
+  margin-bottom: -3%;
 }
 
 #news-highlight img {
@@ -1051,7 +1052,7 @@ footer {
     margin-left: 10%;
   }
   #contact h4 {
-    margin-left: 10%;
+    margin-left: 17%;
     font-size: 1.75em;
   }
   #contact p {
