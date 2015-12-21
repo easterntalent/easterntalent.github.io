@@ -266,6 +266,7 @@ a#moz-background-size {
   text-align: center;
   font-size: 2.5em;
   line-height: 125%;
+  padding-top: 6%;
   padding-bottom: 6%;
   text-transform: uppercase;
   border-bottom: .06em solid #456F74;
@@ -281,13 +282,13 @@ a#moz-background-size {
 }
 
 #intro p#p1 {
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 4%;
 }
 
 #intro p#p2 {
-  padding: 2% 20% 4% 20%;
+  padding: 2% 10% 4% 10%;
 }
 
 hr.hr1 {
@@ -634,8 +635,8 @@ section#contact div.rep-container {
 #contact div#ny-address {
   display: block;
   float: left;
-  width: auto;
   padding-top: 3%;
+  margin-right: -1%;
 }
 
 #contact div#la-address p {
@@ -670,12 +671,12 @@ section#contact div.rep-container {
   float: left;
   width: 250px;
   height: 250px;
-  margin-left: -1.5%;
+  margin-left: 1.5%;
   padding-left: 6%;
 }
 
 iframe#nymap {
-  width: 100%;
+  width: 90%;
   outline: .15em solid #F19F0F;
   position: relative;
 }
@@ -683,7 +684,8 @@ iframe#nymap {
 iframe#lamap {
  outline: .15em solid #F19F0F;
  position: relative;
- } 
+  width: 90%;
+} 
 
 
 #copyright {
@@ -728,6 +730,15 @@ footer {
   #menu ul li a {
     font-size: .66em;
     padding-top: 0;
+  }
+  #contact h4 {
+    margin-left: 30%;
+  }
+  #contact div.contact-container {
+    margin-left: 30%;
+  }
+  #contact div#map-la {
+    margin-left: -.1%;
   }
 }
 
@@ -776,9 +787,9 @@ footer {
   #intro {
     padding: 6% 0 0 0;
   }
-
   #intro h1 {
     font-size: 2em;
+    padding-top: 0;
   }
   #intro p {
     font-size: .65em;
@@ -820,7 +831,7 @@ footer {
     float: none;
     margin: 0;
     border: none;
-    padding-top: 9%;
+    padding-top: 15%;
   }
   #allnews {
     width: 100%;
@@ -853,6 +864,9 @@ footer {
   #representation p {
     font-size: .7em;
   }
+  footer #copyright {
+    padding-left: 36%;
+  }
 }
 
 @media only screen and (max-width: 799px) {
@@ -883,7 +897,7 @@ footer {
     margin-left: 15%;
   }
   #contact div.contact-container {
-    margin-left: 25%;
+    margin-left: 15%;
   }
   #contact div#ny-address p {
     font-size: .8em;
@@ -896,6 +910,10 @@ footer {
 @media only screen and (max-width: 715px) {
   #news-highlight #text p {
     padding-top: 5%;
+  }
+  #representation div#rep {
+    margin-left: 9%;
+    width: 75%;
   }
 }
 
@@ -921,23 +939,29 @@ footer {
   #talent li a {
   font-size: .6em;
   }
+  #contact div#map-ny {
+    padding-left: 8%;
+  }
 } 
 @media only screen and (max-width: 572px) {
   header {
     height: inherit;
   }
+  #menu {
+    margin-left: 5%;
+  }
   #menu #logo img#etalogo {
     width: 30em;
-    padding-top: 15%;
-    padding-left: 15%;
-    margin-left: 55%;
+    padding-top: 20%;
+    padding-left: 5%;
+    margin-left: 3%;
   }  
   #menu ul {
     float: left;
     display: block;
     width: 100%;
     transform: rotate(180deg);
-    margin-left: -4%;
+    margin-left: .04%;
     padding: 0;
     clear: both;
   }
@@ -945,6 +969,7 @@ footer {
     font-size: 1.25em;
     float: left;
     transform: rotate(-180deg);
+    padding-left: .4%;
   }
   #menu ul li a {
     line-height: 0;
@@ -981,10 +1006,99 @@ footer {
   #contact div.contact-container {
     margin-left: 15%;
   }
+  #contact p {
+    font-size: .75em;
+  }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 522px) {
+  #menu ul {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
   #menu ul li {
-    font-size: 1.1em;
+    font-size: 1em;
     padding-left: 1%;
   }  
 } 
+@media only screen and (max-width: 491px) {
+  #talent ul {
+    margin-left: 10%;
+    width: 90%;
+  }
+  #representation div#rep {
+    width: 100%;
+    margin: 0;
+  }
+  #contact div.contact-container {
+    margin-left: 10%;
+  }
+  #contact h4 {
+    margin-left: 10%;
+    font-size: 1.75em;
+  }
+  #contact p {
+    font-size: .7em;
+  }
+  #contact div#la-address,
+  #contact div#ny-address {
+    margin-top: 7%;
+  }
+  #contact div#la-address p,
+  #contact div#ny-address p {
+    font-size: .7em;
+  }
+  #contact div#map-la,
+  #contact div#map-ny {
+    height: 200px;
+    width: 200px;
+  }
+  #representation div#rep {
+    padding-left: 9%;
+  }
+@media only screen and (max-width: 460px) {
+  #menu ul {
+    padding-left: 10%;
+  }
+  #menu ul li {
+    padding-left: 0;
+    font-size: .9em;
+  }
+  #intro h1 {
+    font-size: 1.25em;
+  }
+  #talent h2 {
+    font-size: .65em;
+  }
+  #talent ul {
+    margin-left: 7%;
+  }
+  #client-news h3 {
+    font-size: 1.25em;
+  }
+  #contact p {
+    font-size: .6em;
+  }
+  iframe#lamap,
+  iframe#nymap {
+    width: 90%;
+    height: 90%;
+  }
+@media only screen and (max-width: 418px) {
+  #menu ul {
+    padding-left: 75%;
+    padding-right: 3%;
+    margin-top: 5%;
+  }
+  #news-highlight #highlightpic {
+    margin-top: 30%;
+  }
+  #client-news img,
+  div#news2 img {
+    height: initial;
+  }
+  footer #copyright {
+    padding-right: 32%;
+  }
+}
+
+  
