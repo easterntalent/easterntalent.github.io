@@ -144,6 +144,7 @@ a, a.visible {
 #menu img#etalogo {
   max-width: 15em;
   margin-top: 5%;
+  padding-left: 5%;
 }
 
 #news-highlight {
@@ -153,19 +154,22 @@ a, a.visible {
   max-height: 620px;
   background: #456F74;
   position: relative;
+  overflow: hidden;
 }
 
 #news-highlight #highlightpic {
-  min-width: 70%;
+  width: 70%;
   float: left;
   position: relative;
-  max-height: 575px;
+  height: inherit;
   padding-top: 5%;
+  overflow: hidden;
 }
 
 #news-highlight img {
   width: 100%;
   border-right: .2em solid black;
+  max-height: 620px;
 }
 
 #news-highlight #text {
@@ -173,7 +177,7 @@ a, a.visible {
   display: block;
   float: left;
   max-height: 620px;
-  margin-top: 12%;
+  margin-top: 15%;
   position: relative;
 }
 
@@ -222,7 +226,7 @@ a#moz-background-size {
 }
 
 #news-highlight #newswrapper {
-  max-height: 620px;
+  max-height: 500px;
   margin-top: 0;
   float: left;
   display: block;
@@ -262,7 +266,6 @@ a#moz-background-size {
   text-align: center;
   font-size: 2.5em;
   line-height: 125%;
-  padding-top: 6%;
   padding-bottom: 6%;
   text-transform: uppercase;
   border-bottom: .06em solid #456F74;
@@ -278,13 +281,13 @@ a#moz-background-size {
 }
 
 #intro p#p1 {
-  padding-left: 25%;
-  padding-right: 25%;
+  padding-left: 20%;
+  padding-right: 20%;
   padding-top: 4%;
 }
 
 #intro p#p2 {
-  padding: 2% 25% 4% 25%;
+  padding: 2% 20% 4% 20%;
 }
 
 hr.hr1 {
@@ -379,7 +382,7 @@ hr.hr1 {
 }
 
 #allnews {
-  width: 100%;
+  width: 90%;
   margin-left: 4%;
 }
 
@@ -489,11 +492,12 @@ div#news4:hover {
 }
 
 #twitter {
-  float: left;
+  float: right;
   background: #5B9299;
   max-height: 975px;
   margin-top: -21.7em;
   margin-left: 1%;
+  margin-right: 6%;
   padding-bottom: inherit;
 }
 
@@ -570,7 +574,7 @@ section#contact div.rep-container {
 }
 
 #contact h4 {
-  margin-left: 35%;
+  margin-left: 36%;
   font-family: 'Gruppo', sans-serif;
   font-size: 2.75em;
   color: #F19F0F;
@@ -585,7 +589,7 @@ section#contact div.rep-container {
   display: block;
   float: left;
   width: auto;
-  margin-left: 30%;
+  margin-left: 36%;
   height: inherit;
 }
 
@@ -609,7 +613,6 @@ section#contact div.rep-container {
   display: block;
   float: left;
   min-width: 30%;
-  margin-right: 5%;
 }
 
 #contact div#map-la {
@@ -625,6 +628,7 @@ section#contact div.rep-container {
   display: block;
   float: left;
   width: auto;
+  padding-right: 2%;
 }
 
 #contact div#ny-address {
@@ -677,8 +681,6 @@ iframe#nymap {
 }
 
 iframe#lamap {
- min-width: 213px;
- min-height: 200px;
  outline: .15em solid #F19F0F;
  position: relative;
  } 
@@ -730,6 +732,9 @@ footer {
 }
 
 @media only screen and (max-width: 1132px) {
+  #news-highlight #text p {
+    font-size: .8em;
+  }
   #intro p {
     font-size: .8em;
   }
@@ -740,12 +745,7 @@ footer {
     font-size: .65em;
   }
 }
-@media only screen and (max-width: 715px) {
-  #news-highlight #text p {
-    font-size: .75em;
-    padding-top: 5%;
-  }
-}
+
 @media only screen and (max-width: 982px) {
   #menu ul li a {
     font-size: .55em;
@@ -753,35 +753,25 @@ footer {
   #menu img#etalogo {
     max-width: 13em;
   }
-  #news-highlight {
-    height: inherit;
-  }
   #news-highlight a#more {
     letter-spacing: 0;
   }
   #news-highlight #text {
-    width: 100%;
-    background: #456F74;
+    width: 30%;
+    display: block;
+    float: right;
+    position: relative;
     margin-top: 0;
-    float: none;
-    background: #456F74;
-    padding-bottom: 2%;
-    border-bottom: .2em solid black;
-   }
+  }
   #news-highlight #newswrapper {
-    float: none;
-    margin-top: 4%;
+    max-height: 500px;
+    float: left;
+    display: block;
   }
   #news-highlight #text p {
-    font-size: .8em;
+    font-size: .75em;
     padding: 1%;
-  }
-  #news-highlight #highlightpic {
-    float: none;
-  }
-  #news-highlight img {
-    border-right: none;
-    border-bottom: .05em solid black;
+    margin-top: 50%;
   }
   #intro {
     padding: 6% 0 0 0;
@@ -817,10 +807,10 @@ footer {
   }
 }
 @media only screen and (max-width: 848px) {
- /* #menu ul li {
+  #menu ul li {
     margin-top: 7%;
     padding-top: 1%;
-  }*/
+  }
   #client-news {
     overflow: hidden;
   }
@@ -864,6 +854,7 @@ footer {
     font-size: .7em;
   }
 }
+
 @media only screen and (max-width: 799px) {
   #menu img#etalogo {
     max-width: 11em;
@@ -872,6 +863,10 @@ footer {
   }
   #menu ul li a {
     font-size: .5em;
+  }
+  #news-highlight #text p { 
+    font-size: .65em;
+    padding-top: 10%;
   }
   #talent h2 {
     font-size: .8em;
@@ -897,12 +892,25 @@ footer {
     font-size: .8em;
   }
 }
-@media only screen and (max-width: 652px) {
+
+@media only screen and (max-width: 715px) {
+  #news-highlight #text p {
+    padding-top: 5%;
+  }
+}
+
+@media only screen and (max-width: 657px) {
   #menu img#etalogo {
     max-width: 9em;
+    margin-top: 5%;
+    margin-left: 5%;
   }
   #menu ul li a {
     font-size: .45em;
+  }
+  #news-highlight #text p {
+    font-size: .56em;
+    padding-top: 1%;
   }
   #intro h1 {
     font-size: 1.5em;
@@ -910,9 +918,73 @@ footer {
   #intro p {
     font-size: .6em;
   }
-  #news-highlight #highlightpic {
-  }
   #talent li a {
-    font-size: .6em;
+  font-size: .6em;
+  }
+} 
+@media only screen and (max-width: 572px) {
+  header {
+    height: inherit;
+  }
+  #menu #logo img#etalogo {
+    width: 30em;
+    padding-top: 15%;
+    padding-left: 15%;
+    margin-left: 55%;
+  }  
+  #menu ul {
+    float: left;
+    display: block;
+    width: 100%;
+    transform: rotate(180deg);
+    margin-left: -4%;
+    padding: 0;
+    clear: both;
+  }
+  #menu ul li {
+    font-size: 1.25em;
+    float: left;
+    transform: rotate(-180deg);
+  }
+  #menu ul li a {
+    line-height: 0;
+    letter-spacing: .1em;
+  }
+  #menu img#twitter-logo {
+    margin-left: 2%;
+  }
+  #news-highlight #text {
+    margin-top: 0;
+    float: none;
+    clear: both;
+  }
+  #news-highlight #text p {
+    margin-top: -1%;
+  }
+  #news-highlight #highlightpic {
+    margin-top: 15%;
+    width: 100%;
+  }
+  #news-highlight img {
+    border-right: none;
+    border-bottom: .05em solid black;
+  }
+  #news-highlight #text {
+    width: 100%;
+  }
+  #news-highlight #text p {
+    padding-top: 3%;
+  }
+  #contact h4 {
+    font-size: 2em;
+  }
+  #contact div.contact-container {
+    margin-left: 15%;
   }
 }
+@media only screen and (max-width: 500px) {
+  #menu ul li {
+    font-size: 1.1em;
+    padding-left: 1%;
+  }  
+} 
