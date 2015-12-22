@@ -1149,5 +1149,29 @@ footer {
     margin-left: 10%;
   }
 }
+@media only screen and (max-width: 320px) {
+  #news-highlight #highlightpic {
+    margin-top: 40%;
+  }
+  #contact h4 {
+    margin-left: 20%;
+  }
+  #contact div#contact-container {
+    margin-left: 25%;
+  }
+  #contact div#map-la {
+    width: 75%;
+  }
+  #contact div#map-ny {
+    width: 75%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-left: -2%;
+    margin-top: 5%;
+  }
+  footer #copyright {
+    margin-left: 25%;
+  }
+ } 
 
   
