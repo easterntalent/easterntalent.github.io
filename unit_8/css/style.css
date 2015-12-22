@@ -688,10 +688,10 @@ iframe#lamap {
 #copyright {
   float: left;
   margin-left: 40%;
+  width: 95%;
 }
 #copyright p {
   letter-spacing: .1em;
-  width: 95%;
 }
 footer a {
   color: #F19F0F;
