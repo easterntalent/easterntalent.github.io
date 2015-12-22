@@ -691,6 +691,7 @@ iframe#lamap {
 }
 #copyright p {
   letter-spacing: .1em;
+  width: 95%;
 }
 footer a {
   color: #F19F0F;
@@ -1157,7 +1158,7 @@ footer {
     margin-left: 20%;
   }
   #contact div#contact-container {
-    margin-left: 25%;
+    margin-left: 0;
   }
   #contact div#map-la {
     width: 75%;
@@ -1173,5 +1174,23 @@ footer {
     margin-left: 25%;
   }
  } 
+ @media only screen and (max-width: 360px) {
+  #menu ul {
+    width: 50%;
+    margin-left: 50%;
+    text-align: center;
+  }
+  #news-highlight {
+    margin-top: 50%;
+  }
+  #contact h4 {
+    margin-left: 22%;
+  }
+  #contact div#map-ny {
+    width: 47%;
+    margin-left: 2%;
+    padding-right: 1%;
+  }
 
+}
   
