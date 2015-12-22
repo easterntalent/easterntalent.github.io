@@ -1110,6 +1110,35 @@ footer {
   footer #copyright p {
     font-size: .5em;
   }
+@media only screen and (max-width: 370px) {
+  #intro h1 {
+    font-size: 1em;
+  }
+  #talent h2 {
+    font-size: .5em;
+  }
+  #talent ul {
+    margin-left: 5%;
+    width: 90%;
+    font-size: .7em;
+  }
+  #client-news h3 {
+    font-size: 1em;
+  }
+  #contact h4 {
+    margin-left: 10%;
+  }
+  #contact div#map-la {
+    width: 49%;
+    height: 49%;
+    margin-top: 5%;
+  }
+  #contact div#map-ny {
+    height: 49%;
+  }
+  #contact div#contact-container {
+    margin-left: 10%;
+  }
 }
 
   
