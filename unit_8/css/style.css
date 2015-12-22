@@ -1111,6 +1111,9 @@ footer {
     font-size: .5em;
   }
 @media only screen and (max-width: 370px) {
+  #menu ul {
+    font-size: .7em;
+  }
   #intro h1 {
     font-size: 1em;
   }
