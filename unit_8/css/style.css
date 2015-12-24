@@ -211,10 +211,11 @@ a#moz-background-size {
   color: #F19F0F;
 }
 
-#news-highlight a:hover {
-  color: #F19F0F;
-  font-weight: bolder;
+#news-highlight a:hover,
+#news-highlight a:hover#more {
+  color: #FFC711;
   text-decoration: underline;
+  font-weight: bolder;
 }
 
 #news-highlight a#more {
@@ -231,11 +232,6 @@ a#moz-background-size {
   margin-top: 0;
   float: left;
   display: block;
-}
-#news-highlight a#more:hover {
-  color: #F19F0F;
-  text-decoration: underline;
-  font-weight: bolder;
 }
 
 .col1 { 
@@ -283,13 +279,13 @@ a#moz-background-size {
 }
 
 #intro p#p1 {
-  padding-left: 10%;
-  padding-right: 10%;
   padding-top: 4%;
+  padding-right: 15%;
+  padding-left: 15%;
 }
 
 #intro p#p2 {
-  padding: 2% 10% 4% 10%;
+  padding: 2% 15% 4% 15%;
 }
 
 hr.hr1 {
@@ -583,8 +579,8 @@ section#contact div.rep-container {
   font-size: 2.75em;
   color: #F19F0F;
   text-align: justify;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 8%;
+  padding-bottom: 3%;
   text-transform: uppercase;
   clear: both;
 }
@@ -1004,7 +1000,7 @@ footer {
   font-size: .6em;
   }
   #contact h4 {
-    font-size: 2em;
+    font-size: 1.75em;
     margin-top: 5%;
   }
   #contact div.contact-container {
@@ -1033,7 +1029,7 @@ footer {
     width: 90%;
   }
   #contact h4 {
-    margin-left: 17%;
+    margin-left: 24%;
   }
   #contact div#map-la {
     width: 50%;
@@ -1100,7 +1096,7 @@ footer {
     margin-top: 45%;
   }
   #contact h4 {
-    margin-left: 14%;
+    margin-left: 20%;
   }
   #contact #contact-container {
     margin-top: 8%;
