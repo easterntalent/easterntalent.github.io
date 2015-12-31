@@ -298,6 +298,7 @@ a#moz-background-size {
 }
 
 #intro h1 {
+  background: #1C1919;
   font-family: 'Gruppo', sans-serif;
   color: #F19F0F;
   text-align: center;
