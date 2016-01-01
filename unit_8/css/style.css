@@ -818,7 +818,10 @@ footer {
     font-size: .65em;
   }
 }
-
+@media only screen and (max-width: 1057px) {
+  div#newa1 img {
+    padding-top: 3%;
+  }
 @media only screen and (max-width: 982px) {
   #menu ul li a {
     font-size: .55em;
