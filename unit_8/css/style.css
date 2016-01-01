@@ -2,10 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Gruppo);
 
-@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
-@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
-@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -201,6 +197,37 @@ a, a.visible {
   overflow: hidden;
 }
 
+.animate {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+ 
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+ 
+  to {
+    opacity: 1;
+  }
+}
+ 
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
 #news-highlight #highlightpic {
   width: 70%;
   float: left;
@@ -209,27 +236,6 @@ a, a.visible {
   padding-top: 5%;
   overflow: hidden;
   margin-bottom: -3%;
-}
-
-.fade-in {
-  opacity:0;  /* make things invisible upon start */
-  -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
-  -moz-animation:fadeIn ease-in 1;
-  animation:fadeIn ease-in 1;
-
-  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
-  -moz-animation-fill-mode:forwards;
-  animation-fill-mode:forwards;
-
-  -webkit-animation-duration:1s;
-  -moz-animation-duration:1s;
-  animation-duration:1s;
-}
-
-.fade-in {
--webkit-animation-delay: 0.7s;
--moz-animation-delay: 0.7s;
-animation-delay: 0.7s;
 }
 
 #news-highlight img {
@@ -623,6 +629,7 @@ section#contact div.rep-container {
   max-width: 90%;
   padding: 1% 7.07% 1% 7.07%;
   font-size: .75em;
+  font-weight: bold;
 }
 
 #representation div#rep a {
@@ -789,12 +796,6 @@ footer {
     font-size: .66em;
     padding-top: 0;
   }
-  #client-news > #news1,
-  #news2,
-  #news3,
-  #news4 {
-    padding-top: 6%;
-  }
   #contact h4 {
     margin-left: 30%;
   }
@@ -864,9 +865,6 @@ footer {
   }
   #client-news h3 {
     font-size: 2em;
-  }
-  #client-news #allnews {
-    width: 100%;
   }
   #client-news .col3 {
     width: 40%;
