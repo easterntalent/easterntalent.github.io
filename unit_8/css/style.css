@@ -820,7 +820,7 @@ footer {
   }
 }
 @media only screen and (max-width: 1057px) {
-  div#newa1 img {
+  div#news1 img {
     padding-top: 3%;
   }
 @media only screen and (max-width: 982px) {
@@ -963,7 +963,7 @@ footer {
     font-size: .5em;
   }
   #news-highlight #text p { 
-    font-size: .65em;
+    font-size: .7em;
   }
   #talent h2 {
     font-size: .8em;
