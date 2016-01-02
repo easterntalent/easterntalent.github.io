@@ -242,6 +242,7 @@ a, a.visible {
   width: 100%;
   border-right: .2em solid black;
   max-height: 620px;
+  margin-bottom: 3%;
 }
 
 #news-highlight #text {
@@ -256,7 +257,7 @@ a, a.visible {
 #news-highlight #text p {
   height: inherit;
   line-height: 1.5;
-  font-size: .9em;
+  font-size: 1em;
   color: #D3CBBD;
   margin-left: 5%;
   width: 90%;
@@ -895,6 +896,9 @@ footer {
   }
   #news-highlight #highlightpic {
     margin-top: 5%;
+  }
+  #news-highlight #text p {
+    padding-top: 5%;
   }
   #client-news {
     overflow: hidden;
