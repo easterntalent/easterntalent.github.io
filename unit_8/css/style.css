@@ -819,10 +819,12 @@ footer {
     font-size: .65em;
   }
 }
+
 @media only screen and (max-width: 1057px) {
   div#news1 img {
     padding-top: 3%;
   }
+
 @media only screen and (max-width: 982px) {
   #menu ul li a {
     font-size: .55em;
@@ -888,6 +890,7 @@ footer {
     margin-left: 10%;
   }
 }
+
 @media only screen and (max-width: 848px) {
   #menu ul li {
     margin-top: 7%;
@@ -1074,6 +1077,7 @@ footer {
     margin-left: 30%;
   }
 }
+
 @media only screen and (max-width: 522px) {
   #menu ul {
     padding-right: 3%;
@@ -1084,6 +1088,7 @@ footer {
     padding-left: 1%;
   }  
 } 
+
 @media only screen and (max-width: 491px) {
   #talent ul {
     margin-left: 10%;
@@ -1106,6 +1111,7 @@ footer {
     padding-left: 9%;
   }
  } 
+
 @media only screen and (max-width: 469px) {
   header div#logo {
     margin-left: 18%;
@@ -1170,6 +1176,7 @@ footer {
     font-size: .5em;
   }
 }
+
 @media only screen and (max-width: 370px) {
   #menu ul {
     font-size: .7em;
@@ -1213,6 +1220,7 @@ footer {
     margin-left: 10%;
   }
 }
+
 @media only screen and (max-width: 360px) {
   #menu ul {
     width: 50%;
