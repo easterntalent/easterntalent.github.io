@@ -849,7 +849,7 @@ footer {
   #news-highlight #text p {
     font-size: .75em;
     padding: 1%;
-    margin-top: 50%;
+    margin-top: 60%;
   }
   #intro {
     padding: 6% 0 0 0;
@@ -964,7 +964,6 @@ footer {
   }
   #news-highlight #text p { 
     font-size: .65em;
-    padding-top: 10%;
   }
   #talent h2 {
     font-size: .8em;
@@ -1034,9 +1033,9 @@ footer {
     clear: both;
   }
   #news-highlight #text p {
-    margin-top: -1%;
+    margin-top: -2.5%;
     font-size: .65em;
-    padding-top: 3%;
+    padding-top: 0;
   }
   #news-highlight #highlightpic {
     margin-top: 15%;
@@ -1181,6 +1180,10 @@ footer {
 @media only screen and (max-width: 370px) {
   #menu ul {
     font-size: .7em;
+  }
+  #news-highlight #highlightpic {
+    margin-top: 0;
+    padding-top: 0;
   }
   #intro h1 {
     font-size: 1em;
