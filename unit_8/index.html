@@ -2,11 +2,17 @@
 <html>
 <head>
   <title>Eastern Talent Agency</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   <link rel="stylesheet" type="text/css" href="css/reset.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <a name="home"></a>
 </head>
 <body>
   <div id="wrapper">
@@ -54,7 +60,32 @@
     <a name="ourtalent"></a><section id="talent" class="clearfix""col1">
         <h2><a href="PLACEHOLDER"><strong>Our Talent</strong></a></h2>
             <ul>
-              <li><a href="#">Costume Designers</a></li>
+              <li><button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#myModal">Costume Designers</a>
+                <div id="myModal" class="modal fade" role="dialog">
+                  <div class="modal-dialog""modal-lg">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Costume Designers></h4>
+                      </div>
+                      <div class="modal-body""clearfix""col1">
+                        <ul>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Marie Abma</a></li>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Dorothy Amos</a></li>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Eileen Cox Baker</a></li>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Christine Bean</a></li>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Michael Bevins</a></li>
+                          <li><a href="http://www.easterntalent.net/wp-content/uploads/Marie-Abma-CD-Credits.pdf">Kitty Boots</a></li>
+                        </ul>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss"modal">Close</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </li>
               <li><a href="#">Editors</a></li>
               <li><a href="#">Production Designers</a></li>
               <li><a href="#">Hair & Make-Up</a></li>
